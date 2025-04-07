@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/865732887973079398/e56e7dff651748e6a811d7a80a012c8a/artifacts
+end_time: 1744057048916
+entry_point_name: ''
+experiment_id: '865732887973079398'
+lifecycle_stage: active
+run_id: e56e7dff651748e6a811d7a80a012c8a
+run_name: capricious-boar-322
+run_uuid: e56e7dff651748e6a811d7a80a012c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744056910435
+status: 4
+tags: []
+user_id: root

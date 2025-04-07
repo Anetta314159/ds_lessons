@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/865732887973079398/0c08a031ba644cfda359afe2ed228d58/artifacts
+end_time: 1744057827384
+entry_point_name: ''
+experiment_id: '865732887973079398'
+lifecycle_stage: active
+run_id: 0c08a031ba644cfda359afe2ed228d58
+run_name: colorful-snipe-8
+run_uuid: 0c08a031ba644cfda359afe2ed228d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744057063284
+status: 3
+tags: []
+user_id: root

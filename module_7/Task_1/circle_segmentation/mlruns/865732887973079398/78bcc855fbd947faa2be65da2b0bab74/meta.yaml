@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/865732887973079398/78bcc855fbd947faa2be65da2b0bab74/artifacts
+end_time: 1744056586878
+entry_point_name: ''
+experiment_id: '865732887973079398'
+lifecycle_stage: active
+run_id: 78bcc855fbd947faa2be65da2b0bab74
+run_name: righteous-owl-915
+run_uuid: 78bcc855fbd947faa2be65da2b0bab74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744055835140
+status: 3
+tags: []
+user_id: root

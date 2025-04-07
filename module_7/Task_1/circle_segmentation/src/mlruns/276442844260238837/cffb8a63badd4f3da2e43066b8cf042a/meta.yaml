@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anetta/Documents/DS_lessons/examples/module%207/module_7%20copy/homework/circle_segmentation/src/mlruns/276442844260238837/cffb8a63badd4f3da2e43066b8cf042a/artifacts
+end_time: 1744038625770
+entry_point_name: ''
+experiment_id: '276442844260238837'
+lifecycle_stage: active
+run_id: cffb8a63badd4f3da2e43066b8cf042a
+run_name: kindly-mouse-155
+run_uuid: cffb8a63badd4f3da2e43066b8cf042a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744038209505
+status: 3
+tags: []
+user_id: anetta

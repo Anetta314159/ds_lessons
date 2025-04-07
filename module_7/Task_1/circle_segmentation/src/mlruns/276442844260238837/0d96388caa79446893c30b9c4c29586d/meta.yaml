@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anetta/Documents/DS_lessons/examples/module%207/module_7%20copy/homework/circle_segmentation/src/mlruns/276442844260238837/0d96388caa79446893c30b9c4c29586d/artifacts
+end_time: 1743212074269
+entry_point_name: ''
+experiment_id: '276442844260238837'
+lifecycle_stage: active
+run_id: 0d96388caa79446893c30b9c4c29586d
+run_name: adorable-whale-533
+run_uuid: 0d96388caa79446893c30b9c4c29586d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743211618038
+status: 3
+tags: []
+user_id: anetta

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/865732887973079398/7387380287ae465ea04cd979dfc93f30/artifacts
+end_time: 1744055741199
+entry_point_name: ''
+experiment_id: '865732887973079398'
+lifecycle_stage: active
+run_id: 7387380287ae465ea04cd979dfc93f30
+run_name: bouncy-sow-502
+run_uuid: 7387380287ae465ea04cd979dfc93f30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744054960177
+status: 3
+tags: []
+user_id: root

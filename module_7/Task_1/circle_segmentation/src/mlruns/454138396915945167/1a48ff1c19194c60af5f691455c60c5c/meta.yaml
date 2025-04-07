@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anetta/Documents/DS_lessons/examples/module%207/module_7%20copy/homework/circle_segmentation/src/mlruns/454138396915945167/1a48ff1c19194c60af5f691455c60c5c/artifacts
+end_time: 1743209496455
+entry_point_name: ''
+experiment_id: '454138396915945167'
+lifecycle_stage: active
+run_id: 1a48ff1c19194c60af5f691455c60c5c
+run_name: rebellious-trout-244
+run_uuid: 1a48ff1c19194c60af5f691455c60c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743209277481
+status: 3
+tags: []
+user_id: anetta

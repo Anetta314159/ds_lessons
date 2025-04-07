@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anetta/Documents/DS_lessons/examples/module%207/module_7%20copy/homework/circle_segmentation/src/mlruns/454138396915945167/4953df2e16334f0bb6d06a86b2533b48/artifacts
+end_time: 1743210766136
+entry_point_name: ''
+experiment_id: '454138396915945167'
+lifecycle_stage: active
+run_id: 4953df2e16334f0bb6d06a86b2533b48
+run_name: amazing-perch-581
+run_uuid: 4953df2e16334f0bb6d06a86b2533b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743210330852
+status: 3
+tags: []
+user_id: anetta

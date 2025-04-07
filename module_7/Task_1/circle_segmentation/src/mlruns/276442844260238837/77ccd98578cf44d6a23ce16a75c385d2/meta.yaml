@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anetta/Documents/DS_lessons/examples/module%207/module_7%20copy/homework/circle_segmentation/src/mlruns/276442844260238837/77ccd98578cf44d6a23ce16a75c385d2/artifacts
+end_time: 1744038041807
+entry_point_name: ''
+experiment_id: '276442844260238837'
+lifecycle_stage: active
+run_id: 77ccd98578cf44d6a23ce16a75c385d2
+run_name: polite-swan-598
+run_uuid: 77ccd98578cf44d6a23ce16a75c385d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744038041799
+status: 4
+tags: []
+user_id: anetta

@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "circle-segmentation"
+version = "0.1.0"
+description = "UNet segmentation on synthetic circle data"
+authors = ["anetta314159"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "*"
+torch = "*"
+torchvision = "*"
+matplotlib = "*"
+scikit-learn = "*"
+opencv-python = "*"
+fastapi = "*"
+uvicorn = "*"
+streamlit = "*"
+pillow = "*"
+python-multipart = "^0.0.20"
+mlflow = "^2.21.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
