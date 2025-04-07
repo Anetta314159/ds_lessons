@@ -24,7 +24,7 @@ docker compose up --build
 
 After startup:
 
-- **Streamlit**: http://localhost:8501  
+- **Streamlit**: http://localhost:8502 
 -  **MLflow UI**: http://localhost:5001  
 -  **FastAPI** (Docs): http://localhost:8000/docs  
 
