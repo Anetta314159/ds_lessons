@@ -1,0 +1,586 @@
+Recomendation for :                artists                                     name
+288  [Louis Armstrong]  (What Did I Do to Be So) Black and Blue
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1739
+precision_at_10: 0.0
+recall_at_10: 0.0
+6629. Kiss Of Fire by Louis Armstrong
+1406. Mack the Knife by Louis Armstrong
+224. Ain't Misbehavin' by Louis Armstrong
+7317. Go Down Moses by Louis Armstrong, Sy Oliver Choir, The Allstars
+2215. These Foolish Things (Remind Me of You) (with Teddy Wilson & His Orchestra) by Billie Holiday, Teddy Wilson
+3010. I'll Never Be the Same (with Teddy Wilson & His Orchestra) by Billie Holiday, Teddy Wilson
+2206. All of Me (with Eddie Heywood & His Orchestra) by Billie Holiday, Eddie Heywood
+2210. Summertime by Billie Holiday
+7081. Love Is Here To Stay by Ella Fitzgerald, Louis Armstrong
+7093. Lullaby Of Birdland by Ella Fitzgerald
+
+Recomendation for :                artists      name
+298  [Louis Armstrong]  My Sweet
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+6614. All That Meat And No Potatoes by Louis Armstrong
+27456. It's Been A Long, Long Time by Louis Armstrong
+1406. Mack the Knife by Louis Armstrong
+1407. I Can't Believe That You're In Love With Me by Louis Armstrong
+2207. Easy Living (with Teddy Wilson & His Orchestra) by Billie Holiday, Teddy Wilson
+2249. That's Life I Guess (with Teddy Wilson & His Orchestra) - Take 1 by Billie Holiday, Teddy Wilson
+5208. Perhaps, Perhaps, Perhaps by Doris Day
+3011. This Year's Kisses (with Teddy Wilson & His Orchestra) by Billie Holiday, Teddy Wilson
+221. Weather Bird by Louis Armstrong, Earl Hines
+2210. Summertime by Billie Holiday
+
+Recomendation for :            artists           name
+317  [Seger Ellis]  To Be In Love
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.0959
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1304
+precision_at_10: 0.0
+recall_at_10: 0.0
+4007. I've Got Plenty To Be Thankful For by Bing Crosby
+3410. Chattanooga Choo Choo by Glenn Miller
+4618. Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) by Frank Sinatra, B. Swanson Quartet
+5408. Here Comes Santa Claus (Right Down Santa Claus Lane) by Bing Crosby, The Andrews Sisters
+2807. The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2 by Billie Holiday, Teddy Wilson
+3208. Frenesi by Artie Shaw
+8816. Eleanor Rigby - Remastered 2009 by The Beatles
+3416. Don't Sit Under the Apple Tree (with Anyone Else but Me) by Glenn Miller
+7625. Ring-A-Ding-Ding by Frank Sinatra
+5007. Rudolph the Red-Nosed Reindeer by Gene Autry
+
+Recomendation for :                               artists             name
+619  [Louis Armstrong & His Hot Five]  Droppin' Shucks
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1096
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.0
+recall_at_10: 0.0
+2226. Yankee Doodle Never Went to Town (feat. Billie Holiday) - Take 1 by Teddy Wilson, Billie Holiday
+2807. The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2 by Billie Holiday, Teddy Wilson
+1407. I Can't Believe That You're In Love With Me by Louis Armstrong
+7608. Sleigh Ride by Ella Fitzgerald
+7242. It's A Lovely Day Today by Ella Fitzgerald, Paul Weston And His Orchestra
+6863. Bags' Groove by Milt Jackson
+2606. Cheek to Cheek by Fred Astaire
+4606. Mele Kalikimaka (Merry Christmas) by Bing Crosby, The Andrews Sisters
+4614. Santa Claus Is Comin' To Town by Bing Crosby, The Andrews Sisters
+2213. Miss Brown to You (with Teddy Wilson & His Orchestra) by Billie Holiday, Teddy Wilson
+
+Recomendation for :             artists                    name
+629  [Tommy Dorsey]  I'll Never Smile Again
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+3417. Moonlight Cocktail by Glenn Miller, Ray Eberle
+8502. Smile (From United Artists Film "Modern Times") by Jimmy Durante
+5213. Love, You Didn't Do Right by Me by Rosemary Clooney
+6995. (When Your Heart's On Fire) Smoke Gets In Your Eyes by Vic Damone
+27347. Try a Little Tenderness by Jimmy Durante
+6830. Innamorata by Dean Martin
+8430. Everybody Loves Somebody by Dean Martin
+64937. Li'l Darlin' - Live At The Tropicana Hotel, Las Vegas/1969 by Count Basie
+86419. When You Wish Upon A Star by Glenn Miller
+3406. It's Been a Long, Long Time by Harry James
+
+Recomendation for :            artists                                  name
+887  [Fats Waller]  Hold Tight (Want Some Seafood, Mama)
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1096
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1304
+precision_at_10: 0.0
+recall_at_10: 0.0
+807. Two Sleepy People by Fats Waller
+4616. Christmas In Killarney by Bing Crosby
+1406. Mack the Knife by Louis Armstrong
+8290. It's All Right by The Impressions
+7042. Let's Call The Whole Thing Off by Ella Fitzgerald, Louis Armstrong
+45021. Boum by Blossom Dearie
+6411. Mambo Italiano by Dean Martin
+27608. (Take Me To) Aruanda by Astrud Gilberto
+5006. Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version by Gene Autry
+806. Ain't Misbehavin' by Fats Waller
+
+Recomendation for :            artists                                      name
+896  [Fats Waller]  You Run Your Mouth, I'll Run My Business
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.0822
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1304
+precision_at_10: 0.0
+recall_at_10: 0.0
+807. Two Sleepy People by Fats Waller
+7042. Let's Call The Whole Thing Off by Ella Fitzgerald, Louis Armstrong
+806. Ain't Misbehavin' by Fats Waller
+7141. Ac-Cent-Tchu-Ate The Positive by Johnny Mercer, The Pied Pipers, Paul Weston And His Orchestra
+6611. Sixteen Tons by Tennessee Ernie Ford
+1406. Mack the Knife by Louis Armstrong
+4007. I've Got Plenty To Be Thankful For by Bing Crosby
+5007. Rudolph the Red-Nosed Reindeer by Gene Autry
+2614. Doin' The Jive by Glenn Miller
+4616. Christmas In Killarney by Bing Crosby
+
+Recomendation for :            artists                        name
+900  [Fats Waller]  A Good Man Is Hard to Find
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1233
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.087
+precision_at_10: 0.0
+recall_at_10: 0.0
+1407. I Can't Believe That You're In Love With Me by Louis Armstrong
+807. Two Sleepy People by Fats Waller
+5007. Rudolph the Red-Nosed Reindeer by Gene Autry
+2807. The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2 by Billie Holiday, Teddy Wilson
+7044. Personality by Johnny Mercer, The Pied Pipers
+2213. Miss Brown to You (with Teddy Wilson & His Orchestra) by Billie Holiday, Teddy Wilson
+2222. I've Got My Love to Keep Me Warm by Billie Holiday
+7608. Sleigh Ride by Ella Fitzgerald
+7406. Let It Snow! Let It Snow! Let It Snow! by Dean Martin
+7242. It's A Lovely Day Today by Ella Fitzgerald, Paul Weston And His Orchestra
+
+Recomendation for :                               artists                name
+906  [Louis Armstrong & His Hot Five]  Basin Street Blues
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+4408. Saturday Night (Is The Loneliest Night In The Week) by Frank Sinatra
+10609. Wish You Were Here by Pink Floyd
+224. Ain't Misbehavin' by Louis Armstrong
+7682. Christmas Island by Ella Fitzgerald
+8272. 500 Miles Away from Home by Bobby Bare
+8300. It Don't Mean a Thing (If It Ain't Got That Swing) by Louis Armstrong, Duke Ellington
+4617. Baby, It's Cold Outside (with Dorothy Kirsten) by Frank Sinatra, Dorothy Kirsten
+11629. Beautiful Boy (Darling Boy) - Remastered 2010 by John Lennon
+10095. The Needle and the Damage Done - 2009 Remaster by Neil Young
+6629. Kiss Of Fire by Louis Armstrong
+
+Recomendation for :                                        artists                       name
+910  [Jelly Roll Morton & His Red Hot Peppers]  Grandpa's Spells (Take 2)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.0
+recall_at_10: 0.0
+1007. Clarinet Marmalade by Bix Beiderbecke
+1006. Singin' The Blues by Bix Beiderbecke
+221. Weather Bird by Louis Armstrong, Earl Hines
+8014. Green Onions by Booker T. & the M.G.'s
+7272. Winter Wonderland by Chet Baker Quartet, Russ Freeman
+7126. Stompin' At The Savoy by Red Garland, Paul Chambers, Art Taylor
+6456. Con Alma by Dizzy Gillespie
+3013. In An 18th Century Drawing Room by Raymond Scott
+9778. I'll See You in My Dreams by Django Reinhardt
+6421. Joy Spring by Clifford Brown, Max Roach Quintet
+
+Recomendation for :                      artists                                name
+1233  [Blind Willie Johnson]  Keep Your Lamp Trimmed And Burning
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.0959
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.087
+precision_at_10: 0.0
+recall_at_10: 0.0
+1207. Dark Was the Night, Cold Was the Ground by Blind Willie Johnson
+3409. Where Did You Sleep Last Night by Lead Belly
+4809. Kentucky Waltz by Bill Monroe
+5007. Rudolph the Red-Nosed Reindeer by Gene Autry
+5013. The Night Before Christmas Song by Gene Autry, Rosemary Clooney
+1208. It's Nobody's Fault but Mine by Blind Willie Johnson
+2206. All of Me (with Eddie Heywood & His Orchestra) by Billie Holiday, Eddie Heywood
+7406. Let It Snow! Let It Snow! Let It Snow! by Dean Martin
+3012. Preachin' Blues (Up Jumped the Devil) by Robert Johnson
+3425. Big Fat Woman by Lead Belly
+
+Recomendation for :                                    artists  \
+1240  [Frédéric Chopin, Arthur Rubinstein]   
+
+                                                name  
+1240  Chopin: Nocturne No. 3 in B Major, Op. 9 No. 3  
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+12067. Nocturne No.2 In E Flat, Op.9 No.2 by Frédéric Chopin, Daniel Barenboim
+4815. Nocturnes, Op. 27: No. 2 in D-Flat Major by Frédéric Chopin, Arthur Rubinstein
+27575. Fantasie-impromptu in C-Sharp Minor, Op. 66 No. 4 by Frédéric Chopin, Arthur Rubinstein
+45844. Étude No. 2 in A-Flat Major from "Trois Nouvelles Études" by Frédéric Chopin, Vladimir Horowitz
+64138. Nocturnes, Op. 9: No. 1 in B-Flat Minor by Frédéric Chopin, Arthur Rubinstein
+7849. Serenade by Franz Schubert, Eugene Ormandy, Philadelphia Orchestra
+7062. Piano Concerto No. 5 in E-Flat Major, Op. 73 "Emperor": II. Adagio un poco mosso by Ludwig van Beethoven, Glenn Gould, Leopold Stokowski, American Symphony Orchestra
+12335. 4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto by Franz Schubert, Radu Lupu
+49908. 4 Impromptus, Op.90, D.899: No.2 in E Flat Major: Allegro by Franz Schubert, Radu Lupu
+85217. 4 Impromptus, D. 899, Op. 90: No. 3 in G-Flat Major by Franz Schubert, Murray Perahia
+
+Recomendation for :                                artists             name
+1274  [Louis Armstrong & His Hot Five]  Skip the Gutter
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.0
+recall_at_10: 0.0
+1006. Singin' The Blues by Bix Beiderbecke
+221. Weather Bird by Louis Armstrong, Earl Hines
+7647. Autumn Leaves by Bill Evans, Scott LaFaro, Paul Motian
+2610. Moonglow - Take 1 by Benny Goodman Quartet, Benny Goodman, Teddy Wilson, Gene Krupa, Lionel Hampton
+7593. All Of Me by Oscar Peterson Trio
+7470. Blue Rondo à la Turk by The Dave Brubeck Quartet
+6498. Let's Fall In Love by Oscar Peterson
+6925. Blue Lester by Lester Young
+25985. I Wished On The Moon - Stereo Version by Coleman Hawkins, Oscar Peterson
+7570. Almost Like Being In Love by Lester Young, Oscar Peterson Trio
+
+Recomendation for :                                                 artists  \
+1280  [Benny Goodman Sextet, Benny Goodman, Charlie ...   
+
+                                                   name  
+1280  Air Mail Special (Good Enough to Keep) (feat. ...  
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.0
+recall_at_10: 0.0
+1007. Clarinet Marmalade by Bix Beiderbecke
+1006. Singin' The Blues by Bix Beiderbecke
+6456. Con Alma by Dizzy Gillespie
+8014. Green Onions by Booker T. & the M.G.'s
+7333. Whirly-Bird by Count Basie Orchestra
+7272. Winter Wonderland by Chet Baker Quartet, Russ Freeman
+9778. I'll See You in My Dreams by Django Reinhardt
+221. Weather Bird by Louis Armstrong, Earl Hines
+7059. St. Thomas by Sonny Rollins, Tommy Flanagan, Doug Watkins, Max Roach
+6421. Joy Spring by Clifford Brown, Max Roach Quintet
+
+Recomendation for :                 artists                            name
+1716  [Louis Armstrong]  I've Got a Feeling I'm Falling
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1233
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.087
+precision_at_10: 0.0
+recall_at_10: 0.0
+8520. Jeepers Creepers by Louis Armstrong
+1407. I Can't Believe That You're In Love With Me by Louis Armstrong
+4606. Mele Kalikimaka (Merry Christmas) by Bing Crosby, The Andrews Sisters
+7608. Sleigh Ride by Ella Fitzgerald
+7410. Beyond the Sea by Bobby Darin
+7312. I've Got My Love To Keep Me Warm by Billie Holiday
+2807. The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2 by Billie Holiday, Teddy Wilson
+7613. Stormy Weather by Etta James
+7802. The Lady Is A Tramp by Sammy Davis Jr.
+7631. All I Could Do Was Cry by Etta James
+
+Recomendation for :                  artists                      name
+1719  [Big Bill Broonzy]  Worrying You Off My Mind
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1233
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.0
+recall_at_10: 0.0
+1208. It's Nobody's Fault but Mine by Blind Willie Johnson
+3409. Where Did You Sleep Last Night by Lead Belly
+3006. Cross Road Blues by Robert Johnson
+2808. Cross Road Blues - Take 1 by Robert Johnson
+3016. Walkin' Blues by Robert Johnson
+2806. Hellhound on My Trail by Robert Johnson
+3007. Me and the Devil Blues by Robert Johnson
+3425. Big Fat Woman by Lead Belly
+2609. Wildwood Flower by The Carter Family
+2227. Man Stealer Blues by Lucille Bogan
+
+Recomendation for :                               artists                      name
+1756  [Isaac Albéniz, Andrés Segovia]  Suite Espagnole: Granada
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.0822
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+146530. Asturias by Isaac Albéniz, John Williams
+68819. Suite española No. 1, Op. 47: Sevilla (Sevillanas) by Isaac Albéniz, Alicia de Larrocha
+164287. Suite española No. 1, Op. 47: Asturias (Leyenda) by Isaac Albéniz, Alicia de Larrocha
+49517. Suite Española No. 1, Op. 47: No. 5, Asturias (Leyenda) [Arranged by John Williams for Guitar] by Isaac Albéniz, John Williams
+67384. 12 Piezas caracteristicas, Op. 92: No. 12, Torre Bermeja (Arranged by John Williams for Guitar) by Isaac Albéniz, John Williams
+27695. Concierto de Aranjuez: II. Adagio by Joaquín Rodrigo, John Williams, Louis Frémaux, Philharmonia Orchestra
+147134. La catedral by Agustín Barrios Mangoré, John Williams
+84116. La catedral by Agustín Barrios Mangoré, John Williams
+150950. 4 Estaciones Portenas (pour guitare): N°.1 Primavera Porteña by Göran Söllscher
+47351. Lágrima by Francisco Tárrega, Julian Bream
+
+Recomendation for :                   artists                        name
+1960  [Эрих Мария Ремарк]  Часть 54.8 - Обратный путь
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+149339. Все идет по плану by Egor Letov
+146437. Катерок by Valentina Tolkunova, Oleg Anofriyev, Инструментальный ансамбль «Мелодия»
+147520. По улице моей by Alla Pugacheva
+134337. Вальс-бостон by Alexander Rosenbaum
+146451. Всё мы делим пополам by Alla Pugacheva, Инструментальный ансамбль «Мелодия», Eduard Khil
+162996. 25 к 10 by Aquarium
+84918. Миллион алых роз by Alla Pugacheva
+51036. Пачка сигарет by Kino
+132254. Не отрекаются любя by Alla Pugacheva
+101169. Бездельник №1 by Kino
+
+Recomendation for :                              artists  \
+4221  [Warner Bros Studio Orchestra]   
+
+                                                   name  
+4221  Medley (Ilsa Returns / As Time Goes By / Bitte...  
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1233
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+29911. Main Title (from "Taxi Driver") by Bernard Herrmann
+48424. I Still Can't Sleep / The Cannot Touch Her (Betsy's Theme) by Bernard Herrmann, James P. Nichols
+3433. Main Title (The Wizard of Oz) by MGM Studio Orchestra, MGM Studio Chorus
+83570. A Reluctant Hero / Betsy / End Credits by Bernard Herrmann, James P. Nichols
+87870. Main Titles from the HBO Miniseries Band of Brothers - Instrumental by Michael Kamen, London Metropolitan Orchestra
+12994. Gabriel's Oboe by Ennio Morricone
+14282. Theme From Jurassic Park by John Williams
+47331. Flying Theme (From "E.T. the Extra-Terrestrial") by John Williams, London Symphony Orchestra
+14331. Theme From Schindler's List by John Williams, Itzhak Perlman, Boston Symphony Orchestra
+9071. The Ecstasy Of Gold by Ennio Morricone
+
+Recomendation for :               artists   name
+4424  [Frank Sinatra]  Laura
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+4407. Nancy (With the Laughing Face) - 78rpm Version by Frank Sinatra
+7048. White Christmas - Remastered 1999 by Frank Sinatra
+7050. It Came Upon A Midnight Clear - Remastered 1999 by Frank Sinatra
+7037. With Every Breath I Take - Remastered by Frank Sinatra
+4410. Night and Day by Frank Sinatra
+7329. Till by Roger Williams
+46391. The Hawaiian Wedding Song (Ke Kali Nei Au) by John Gary
+7029. Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood) by Doris Day, Paul Weston And His Orchestra
+6437. Under The Bridges Of Paris by Dean Martin
+8021. (I Left My Heart) In San Francisco by Tony Bennett
+
+Recomendation for :              artists                            name
+4431  [Judy Garland]  Boys And Girls Like You And Me
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1096
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1739
+precision_at_10: 0.0
+recall_at_10: 0.0
+6409. Over The Rainbow by Judy Garland
+4631. The Boy Next Door by Judy Garland
+4627. Have Yourself a Merry Little Christmas by Judy Garland
+7243. Misty by Sarah Vaughan
+3412. Over The Rainbow by Judy Garland
+7606. At Last by Etta James
+7244. I'm a Fool to Want You by Billie Holiday
+8013. O Tannenbaum by Nat King Cole
+8006. The Christmas Song (Merry Christmas To You) by Nat King Cole
+6617. Time After Time by Margaret Whiting
+
+Recomendation for :               artists              name
+4454  [Frank Sinatra]  Why Shouldn't I?
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+7010. Have Yourself A Merry Little Christmas - Remastered by Frank Sinatra
+7008. The First Noel - Remastered 1999 by Frank Sinatra
+7026. Autumn Leaves - 1999 / Digital Remaster by Frank Sinatra
+7226. Moonlight In Vermont - Remastered by Frank Sinatra
+7028. I'll Be Home For Christmas (If Only In My Dreams) - Remastered 1999 by Frank Sinatra
+8933. Somewhere, My Love (Lara's Theme from "Doctor Zhivago") by The Ray Conniff Singers
+5428. Have Yourself a Merry Little Christmas by Robert Goulet
+6826. Mala Femmina by Jerry Vale
+26925. Medley: O Holy Night / We Three Kings of Orient Are / Deck the Halls with Boughs of Holly by Ray Conniff, The Ray Conniff Singers
+6936. Luna Rossa by Jerry Vale
+
+Recomendation for :                   artists                           name
+8841  [Thurl Ravenscroft]  You're A Mean One, Mr. Grinch
+genre_precision_at_10: 0.4
+genre_recall_at_10: 0.0548
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+7009. Here Comes Santa Claus (Right Down Santa Claus Lane) by Elvis Presley
+7006. Blue Christmas by Elvis Presley
+9212. Mrs. Robinson - From "The Graduate" Soundtrack by Simon & Garfunkel
+8007. Joy To The World by Nat King Cole
+9880. Coat of Many Colors by Dolly Parton
+7414. We Belong Together by Ritchie Valens
+9216. Winter Wonderland by Tony Bennett
+7762. Soldier Boy by Elvis Presley
+27222. She's Not You by Elvis Presley
+11434. We Wish You A Merry Christmas by John Denver, The Muppets
+
+Recomendation for :                    artists                                      name
+8846  [The Isley Brothers]  This Old Heart Of Mine (Is Weak For You)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.0
+recall_at_10: 0.0
+9007. Ain't No Mountain High Enough by Marvin Gaye, Tammi Terrell
+9163. I Heard It Through The Grapevine by Gladys Knight & The Pips
+10906. Young Hearts Run Free by Candi Staton
+11207. September by Earth, Wind & Fire
+10295. Now That We Found Love by The O'Jays
+46701. That's The Way Love Is by The Isley Brothers
+8829. Uptight (Everything's Alright) by Stevie Wonder
+9068. The Tears Of A Clown by Smokey Robinson & The Miracles
+8611. I Can't Help Myself (Sugar Pie, Honey Bunch) by Four Tops
+64984. Friendship Train by Gladys Knight & The Pips
+
+Recomendation for :               artists                              name
+8864  [Nancy Sinatra]  Bang Bang (My Baby Shot Me Down)
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1233
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+8777. Try to Remember by The Brothers Four
+7012. I'll Be Seeing You by Billie Holiday
+8006. The Christmas Song (Merry Christmas To You) by Nat King Cole
+7449. What A Diff'rence A Day Made by Dinah Washington
+7689. The Green Leaves of Summer - from the Batjac Production "The Alamo" by The Brothers Four
+5409. I'm Confessin' (That I Love You) by Doris Day
+7549. Greenfields by The Brothers Four
+10319. If by Bread
+4610. Again (with The Mellomen) by Doris Day, The Mellomen
+7007. Dream A Little Dream Of Me - Single Version by Ella Fitzgerald, Louis Armstrong
+
+Recomendation for :           artists              name
+8873  [The Byrds]  Eight Miles High
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1739
+precision_at_10: 0.0
+recall_at_10: 0.0
+10040. School's Out by Alice Cooper
+30548. (Ghost) Riders In the Sky - Digitally Remastered, 1996 by The Outlaws
+46657. So You Want to Be a Rock 'N' Roll Star by The Byrds
+27593. The Bells of Rhymney by The Byrds
+10926. Hotel California - Live at The Forum, Los Angeles, CA, 10/20-22/1976 by Eagles
+66502. Ridin' the Storm Out - Live on U.S. Tour - 1976 by REO Speedwagon
+9248. You Ain't Goin' Nowhere by The Byrds
+50182. Sultans Of Swing - Live At Hammersmith Odeon, London/1983 by Dire Straits
+8645. Mr. Tambourine Man by The Byrds
+30741. Twilight by Electric Light Orchestra
+
+Recomendation for :      artists              name
+9085  [Lulu]  To Sir with Love
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1233
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+11017. Dust in the Wind by Kansas
+9241. You're All I Need To Get By by Marvin Gaye, Tammi Terrell
+11088. We Are The Champions by Queen
+9020. White Rabbit by Jefferson Airplane
+9796. Waiting for the Sun by The Doors
+10222. Midnight Train to Georgia by Gladys Knight & The Pips
+10148. Rock 'n' Roll Suicide - 2012 Remaster by David Bowie
+29558. Summer Nights by Lonnie Liston Smith, The Cosmic Echoes
+67010. Let's Make A Memory by Rex Smith
+47058. 1921 by The Who
+
+Recomendation for :             artists                                               name
+9359  [The Beatles]  Everybody's Got Something To Hide Except Me An...
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+8642. Nowhere Man - Remastered 2009 by The Beatles
+9225. While My Guitar Gently Weeps - Remastered 2009 by The Beatles
+8707. If I Needed Someone - Remastered 2009 by The Beatles
+8618. Help! - Remastered 2009 by The Beatles
+8720. The Word - Remastered 2009 by The Beatles
+11814. Start Me Up - Remastered by The Rolling Stones
+49170. The Tears of a Clown by The Beat
+8610. (I Can't Get No) Satisfaction - Mono Version by The Rolling Stones
+9826. Brown Sugar - 2009 Mix by The Rolling Stones
+9619. My Sweet Lord - Remastered 2014 by George Harrison
+
+Recomendation for :              artists                              name
+9370  [James Taylor]  Carolina In My Mind - Remastered
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1233
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+9609. Into the Mystic - 2013 Remaster by Van Morrison
+10206. The Joker by Steve Miller Band
+9819. Take Me Home, Country Roads by John Denver
+9239. These Eyes by The Guess Who
+47389. Into the Mystic - 2013 Remaster by Van Morrison
+8807. For What It's Worth by Buffalo Springfield
+8218. Happy Holiday / The Holiday Season by Andy Williams
+28335. She Came In Through The Bathroom Window by Joe Cocker
+9010. I'm a Believer - 2006 Remaster by The Monkees
+7609. Frosty The Snowman by Ella Fitzgerald
+
+Recomendation for :           artists                   name
+9437  [Bob Seger]  Ramblin' Gamblin' Man
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.137
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+11211. Old Time Rock & Roll by Bob Seger
+10224. Long Train Runnin' by The Doobie Brothers
+30274. Till It Shines by Bob Seger
+11638. Against The Wind by Bob Seger
+10945. Rock And Roll Never Forgets by Bob Seger
+11262. Hollywood Nights by Bob Seger
+10814. Life in the Fast Lane - 2013 Remaster by Eagles
+10781. There Goes Another Love Song by The Outlaws
+10251. We're An American Band - Remastered 2002 by Grand Funk Railroad
+11431. Refugee by Tom Petty and the Heartbreakers
+
+user                      : user_4
+genre_precision_at_10     : 0.8567
+genre_recall_at_10        : 0.1174
+artist_precision_at_10    : 0.2433
+artist_recall_at_10       : 0.1058
+precision_at_10           : 0.0
+recall_at_10              : 0.0

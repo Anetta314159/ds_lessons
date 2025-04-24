@@ -1,0 +1,577 @@
+Recomendation for :            artists   name
+16001  [Rammstein]  Sonne
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1875
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+15180. Engel by Rammstein
+54080. MEIN TEIL by Rammstein
+34915. Mein Herz brennt by Rammstein
+52752. Tier by Rammstein
+136300. Küss mich (Fellfrosch) by Rammstein
+108358. Despicable by grandson
+108501. Darkside by grandson
+56516. Superhero by Unknown Brain, Chris Linton
+17635. Rocketeer by Far East Movement, Ryan Tedder, Ruff Loaderz
+153220. Darling by Eyes Set To Kill
+
+Recomendation for :                    artists               name
+54294  [Avenged Sevenfold]  Blinded in Chains
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.8
+artist_recall_at_10: 0.2667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+16315. Unholy Confessions by Avenged Sevenfold
+15814. Toxicity by System Of A Down
+17093. Afterlife by Avenged Sevenfold
+121354. Build Your Cages by Pulse Ultra
+122218. Walk by Avenged Sevenfold
+72088. Stealing Society by System Of A Down
+16209. Bring Me To Life by Evanescence
+15396. War? by System Of A Down
+53800. Chapter Four by Avenged Sevenfold
+35522. Cigaro by System Of A Down
+
+Recomendation for :        artists           name
+11606  [AC/DC]  Back In Black
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.2083
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2333
+precision_at_10: 0.0
+recall_at_10: 0.0
+67708. Rising Power by AC/DC
+30371. Night Prowler by AC/DC
+86358. Goodbye and Good Riddance to Bad Luck by AC/DC
+49462. Inject the Venom by AC/DC
+13376. Heatseeker by AC/DC
+9842. Rock and Roll - Remaster by Led Zeppelin
+33957. Pink by Aerosmith
+11922. Dirty Movies - 2015 Remaster by Van Halen
+9920. Rock and Roll - 1990 Remaster by Led Zeppelin
+11815. Juke Box Hero by Foreigner
+
+Recomendation for :                          artists                    name
+73727  [Five Finger Death Punch]  M.I.N.E (End This Way)
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.9
+artist_recall_at_10: 0.3
+precision_at_10: 0.0
+recall_at_10: 0.0
+17426. Bad Company by Five Finger Death Punch
+90839. Anywhere But Here by Five Finger Death Punch, Maria Brink
+92004. Blue on Black by Five Finger Death Punch, Brian May, Brantley Gilbert, Kenny Wayne Shepherd
+123893. Question Everything by Five Finger Death Punch
+37632. Wash It All Away by Five Finger Death Punch
+17664. Nightmare by Avenged Sevenfold
+18323. Shepherd of Fire by Avenged Sevenfold
+36033. Critical Acclaim by Avenged Sevenfold
+15810. Chop Suey! by System Of A Down
+122221. Lie Lie Lie by Serj Tankian
+
+Recomendation for :           artists      name
+16396  [Static-X]  The Only
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0625
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1333
+precision_at_10: 0.0
+recall_at_10: 0.0
+34555. Jumpdafuckup by Soulfly
+15810. Chop Suey! by System Of A Down
+121561. New Pain by Static-X
+136961. Pain by Soulfly
+16655. Happy? by Mudvayne
+119910. Demanufacture by Fear Factory
+15898. Prison Song by System Of A Down
+34728. Between Angels And Insects by Papa Roach
+152349. Suffocate by Motograter
+54287. Decadence by Disturbed
+
+Recomendation for :              artists        name
+15608  [Linkin Park]  In the End
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.125
+artist_precision_at_10: 0.9
+artist_recall_at_10: 0.3
+precision_at_10: 0.2
+recall_at_10: 0.0667
+17039. What I've Done by Linkin Park
+15715. Runaway by Linkin Park
+90601. IN MY REMAINS by Linkin Park
+15618. One Step Closer by Linkin Park
+15671. In the End by Linkin Park
+17690. Cryin' Like A Bitch!! by Godsmack
+15814. Toxicity by System Of A Down
+16750. Land of Confusion by Disturbed
+36577. Stupify by Disturbed
+15898. Prison Song by System Of A Down
+
+Recomendation for :           artists             name
+16430  [Slipknot]  Before I Forget
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0625
+artist_precision_at_10: 1.0
+artist_recall_at_10: 0.3333
+precision_at_10: 0.1
+recall_at_10: 0.0333
+168419. Prosthetics by Slipknot
+121717. Before I Forget by Slipknot
+104502. Prosthetics by Slipknot
+153338. Get This by Slipknot
+105008. I Am Hated by Slipknot
+16206. Numb by Linkin Park
+151238. Know - Live at Irving Plaza, NYC, NY - January 1999 by System Of A Down
+17055. Bleed It Out by Linkin Park
+54381. Dreaming by System Of A Down
+139735. Wastelands by Linkin Park
+
+Recomendation for :            artists    name
+34974  [Disturbed]  Prayer
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0625
+artist_precision_at_10: 1.0
+artist_recall_at_10: 0.3333
+precision_at_10: 0.1
+recall_at_10: 0.0333
+34760. Needles by System Of A Down
+18121. BURN IT DOWN by Linkin Park
+15611. Down with the Sickness by Disturbed
+16637. B.Y.O.B. by System Of A Down
+88295. Shout 2000 by Disturbed
+71054. Voices by Disturbed
+73181. Voices by Disturbed
+152071. Prayer by Disturbed
+36948. CASTLE OF GLASS by Linkin Park
+16282. Breaking the Habit by Linkin Park
+
+Recomendation for :                  artists             name
+121529  [Element Eighty]  Broken Promises
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0417
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+151966. Mississippi King by Five Horse Johnson
+121180. Castanets by Alejandro Escovedo
+36820. I Just Wanna Run by The Downtown Fiction
+106677. I Just Wanna Run by The Downtown Fiction
+122606. Mountain Man by Crash Kings
+91924. Oouuh by Fredo Bang
+146995. Smile by Pussycat
+120960. Moi... Lolita by Alizée
+122382. Buttons by The Weeks
+123373. Moskau by Dschinghis Khan
+
+Recomendation for :               artists                  name
+72962  [Billy Talent]  Rusted From the Rain
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.2083
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1333
+precision_at_10: 0.0
+recall_at_10: 0.0
+16125. The Hell Song by Sum 41
+152341. River Below by Billy Talent
+167799. Devil in a Midnight Mass by Billy Talent
+152318. Line and Sinker by Billy Talent
+53914. Try Honesty by Billy Talent
+16055. Still Waiting by Sum 41
+121338. No Brains by Sum 41
+15822. Fat Lip by Sum 41
+137133. Crazy Amanda Bunkface by Sum 41
+16754. Savin' Me by Nickelback
+
+Recomendation for :                      artists               name
+55253  [The Pretty Reckless]  Make Me Wanna Die
+genre_precision_at_10: 0.4
+genre_recall_at_10: 0.0833
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1
+precision_at_10: 0.1
+recall_at_10: 0.0333
+37471. Heaven Knows by The Pretty Reckless
+38212. Zombie by Bad Wolves
+107521. Going To Hell by The Pretty Reckless
+16209. Bring Me To Life by Evanescence
+91853. Zombie by Bad Wolves
+16224. Closing Time by Semisonic
+16382. Everybody's Fool by Evanescence
+16956. Call Me When You're Sober by Evanescence
+15608. In the End by Linkin Park
+17268. Second Chance by Shinedown
+
+Recomendation for :                   artists             name
+17290  [Hollywood Undead]  Everywhere I Go
+genre_precision_at_10: 0.4
+genre_recall_at_10: 0.0833
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.2
+precision_at_10: 0.0
+recall_at_10: 0.0
+153902. Bitches by Hollywood Undead
+15497. The Bad Touch by Bloodhound Gang
+15824. Smooth Criminal by Alien Ant Farm
+122459. Pimpin' by Hollywood Undead
+74605. Riot by Hollywood Undead
+36288. No. 5 by Hollywood Undead
+17022. All Summer Long by Kid Rock
+15611. Down with the Sickness by Disturbed
+54538. Fallen Leaves by Billy Talent
+71859. I Just Wanna Live by Good Charlotte
+
+Recomendation for :               artists   name
+106646  [Korpiklaani]  Vodka
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.0208
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+135461. Snake Dance by The March Violets
+101290. Menina Veneno by Ritchie
+151714. (Let's Go) Smoke Some Pot by Dash Rip Rock
+163036. Dodirni mi kolena by Zana
+147360. Aaj Jane Ki Zid Na Karo (Live) by Farida Khanum
+133414. Mi Niña Veneno (Menina Veneno) - Spanish by Ritchie
+36917. 99 Problems by Hugo
+37736. Kolors by Monte Booker, Smino
+169012. Love Love Love - AU Master by Avalanche City
+168576. I Go To Sleep by Anika
+
+Recomendation for :            artists              name
+12520  [Scorpions]  Still Loving You
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.2083
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.2
+precision_at_10: 0.1
+recall_at_10: 0.0333
+13697. Send Me An Angel by Scorpions
+36846. Still Loving You by Scorpions
+30350. Always Somewhere by Scorpions
+31018. When The Smoke Is Going Down by Scorpions
+66098. In Trance by Scorpions
+9661. Tangerine - Remaster by Led Zeppelin
+12855. Nobody's Fool by Cinderella
+50061. Sleeping (In The Fire) by W.A.S.P.
+13648. High Enough by Damn Yankees
+164602. Love Conquers All by Deep Purple
+
+Recomendation for :                   artists      name
+15814  [System Of A Down]  Toxicity
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.0208
+artist_precision_at_10: 0.9
+artist_recall_at_10: 0.3
+precision_at_10: 0.1
+recall_at_10: 0.0333
+15810. Chop Suey! by System Of A Down
+15898. Prison Song by System Of A Down
+34722. Chop Suey! by System Of A Down
+71598. Streamline by System Of A Down
+16755. Violent Pornography by System Of A Down
+15608. In the End by Linkin Park
+16750. Land of Confusion by Disturbed
+14780. Stone the Crow by DOWN
+17093. Afterlife by Avenged Sevenfold
+36607. Warrior by Disturbed
+
+Recomendation for :          artists            name
+17291  [Volbeat]  Still Counting
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0625
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+17698. A Warrior's Call by Volbeat
+153065. The Garden's Tale by Volbeat
+153042. Radio Girl by Volbeat
+153629. The Mirror And The Ripper by Volbeat
+123414. The Hangman's Body Count by Volbeat
+16209. Bring Me To Life by Evanescence
+15210. Freak On a Leash by Korn
+16956. Call Me When You're Sober by Evanescence
+16855. Through Glass by Stone Sour
+16434. Santa Monica - Remastered by Everclear
+
+Recomendation for :            artists  name
+15055  [Metallica]  Fuel
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.2083
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+13807. Enter Sandman by Metallica
+34585. I Disappear by Metallica
+14910. King Nothing by Metallica
+34295. Stone Cold Crazy by Metallica
+15253. Whiskey In The Jar by Metallica
+13671. Tornado Of Souls - Remastered 2004 by Megadeth
+51609. Skin O' My Teeth - Remastered by Megadeth
+69474. Good Day To Die by Exodus
+13615. Cowboys from Hell by Pantera
+13007. Sweet Child O' Mine by Guns N' Roses
+
+Recomendation for :       artists        name
+15880  [Dope]  Die MF Die
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0625
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.2
+precision_at_10: 0.0
+recall_at_10: 0.0
+15560. You Spin Me Round (Like A Record) by Dope
+35631. Raise Hell by (Hed) P.E.
+168411. My Funeral by Dope
+34040. Bartender by (Hed) P.E.
+34774. Ich will by Rammstein
+90060. WAIDMANNS HEIL by Rammstein
+18419. Best Day Of My Life by American Authors
+34406. Debonaire by Dope
+151839. Adios by Rammstein
+136176. Killing Time by (Hed) P.E.
+
+Recomendation for :                     artists              name
+122021  [Poets of the Fall]  Carnival of Rust
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.125
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+16219. The Reason by Hoobastank
+38212. Zombie by Bad Wolves
+73854. Carnivore by STARSET
+91853. Zombie by Bad Wolves
+170274. TRIALS by STARSET
+35906. Lithium by Evanescence
+57359. Nobody's Love by Maroon 5
+15410. Californication by Red Hot Chili Peppers
+154858. Fade In / Fade Out by Nothing More
+108536. 16 by Highly Suspect
+
+Recomendation for :              artists                       name
+9611  [Led Zeppelin]  Immigrant Song - Remaster
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.2083
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+28675. Immigrant Song - Remaster by Led Zeppelin
+9721. Immigrant Song - 1990 Remaster by Led Zeppelin
+28597. The Immigrant Song - Alternate Mix by Led Zeppelin
+11226. Ain't Talkin' 'Bout Love - 2015 Remaster by Van Halen
+11209. Runnin' with the Devil - 2015 Remaster by Van Halen
+66897. Hot Dog - Remaster by Led Zeppelin
+11256. Jamie's Cryin' - 2015 Remaster by Van Halen
+29561. No More No More by Aerosmith
+10364. Dancing Days - Remaster by Led Zeppelin
+33314. Eat The Rich by Aerosmith
+
+Recomendation for :             artists           name
+167392  [Finntroll]  Trollhammaren
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0625
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+119186. Semtex Revolution by Coroner
+103799. Beggars & Hangers-On by Slash's Snakepit
+17402. Caramelldansen by Caramella Girls
+124428. Rockstar by Call Me Karizma
+138125. Hardrock Hallelujah by Lordi
+135586. Bellbottoms by The Jon Spencer Blues Explosion
+137402. Rock And Roll Fantasy by Paul Rodgers
+120119. Honky's Ladder by The Afghan Whigs
+70865. Stolen Car by Beth Orton
+73048. Bellbottoms by The Jon Spencer Blues Explosion
+
+Recomendation for :             artists             name
+152458  [In Flames]  My Sweet Shadow
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1875
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.2
+precision_at_10: 0.1
+recall_at_10: 0.0333
+88703. Trigger by In Flames
+53798. Cloud Connected by In Flames
+89524. Take This Life by In Flames
+166471. Bullet Ride by In Flames
+34607. Only for the Weak by In Flames
+36189. Bleed by Meshuggah
+120716. Downfall by Children Of Bodom
+16949. Vicarious by TOOL
+119973. Blinded By Fear by At The Gates
+89390. You by Breaking Benjamin
+
+Recomendation for :               artists                                      name
+9624  [Black Sabbath]  War Pigs / Luke's Wall - 2012 - Remaster
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.2083
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+9615. Paranoid - 2012 - Remaster by Black Sabbath
+10775. Symptom of the Universe - 2013 Remaster by Black Sabbath
+28529. Wicked World - 2013 Remaster by Black Sabbath
+30520. Neon Knights - 2008 Remaster by Black Sabbath
+9850. Children of the Grave - 2014 Remaster by Black Sabbath
+10076. Then Came the Last Days of May by Blue Öyster Cult
+11255. Lights by Journey
+12038. Here I Go Again by Whitesnake
+10756. Toys In The Attic by Aerosmith
+10207. Dream On by Aerosmith
+
+Recomendation for :          artists     name
+17417  [Skillet]  Monster
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0625
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+55143. Monster by Skillet
+107425. Sick of It by Skillet
+123975. Back from the Dead by Skillet
+17437. Hero by Skillet
+18942. Feel Invincible by Skillet
+35380. Frontline by Pillar
+17013. Fake It by Seether
+69348. Every Heartbeat by Amy Grant
+139890. First Kiss by Kid Rock
+139885. Nearly Forgot My Broken Heart by Chris Cornell
+
+Recomendation for :                       artists           name
+18093  [Thousand Foot Krutch]  Courtesy Call
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.1042
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.2
+precision_at_10: 0.0
+recall_at_10: 0.0
+36338. Take It Out On Me by Thousand Foot Krutch
+138707. Welcome To The Masquerade by Thousand Foot Krutch
+35676. Move by Thousand Foot Krutch
+123285. The End Is Where We Begin by Thousand Foot Krutch
+15812. How You Remind Me by Nickelback
+56045. Untraveled Road by Thousand Foot Krutch
+17668. Porn Star Dancing by My Darkest Days, Zakk Wylde
+55818. Gunfight by Sick Puppies
+74566. Heavy (feat. Kiiara) by Linkin Park, Kiiara
+17557. 100 In A 55 by Pop Evil
+
+Recomendation for :          artists                     name
+13806  [Nirvana]  Smells Like Teen Spirit
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.2083
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+13809. Come As You Are by Nirvana
+32906. Smells Like Teen Spirit by Nirvana
+137166. Smells Like Teen Spirit by Nirvana
+14389. Serve The Servants by Nirvana
+102872. Smells Like Teen Spirit by Nirvana
+33198. Animal (Remastered) by Pearl Jam
+51950. Glorified G (Remastered) by Pearl Jam
+119740. Last Exit - Remastered by Pearl Jam
+14420. Buddy Holly by Weezer
+16822. Snow (Hey Oh) by Red Hot Chili Peppers
+
+Recomendation for :                     artists      name
+120716  [Children Of Bodom]  Downfall
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.2083
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2333
+precision_at_10: 0.1
+recall_at_10: 0.0333
+53798. Cloud Connected by In Flames
+88703. Trigger by In Flames
+34607. Only for the Weak by In Flames
+32958. Hammer Smashed Face by Cannibal Corpse
+54363. Are You Dead Yet by Children Of Bodom
+167524. If You Want Peace... Prepare For War by Children Of Bodom
+16949. Vicarious by TOOL
+152458. My Sweet Shadow by In Flames
+166471. Bullet Ride by In Flames
+122417. Tattered Banners And Bloody Flags by Amon Amarth
+
+Recomendation for :          artists            name
+36715  [Sabaton]  Primo Victoria
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1667
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+138551. Cliffs of Gallipoli by Sabaton
+54926. Panzerkampf by Sabaton
+138913. Uprising by Sabaton
+138514. The Price of a Mile by Sabaton
+153633. Panzerkampf by Sabaton
+19015. Hurricane by Luke Combs
+15807. Drops of Jupiter (Tell Me) by Train
+19085. Someone To You by BANNERS
+38329. Someone To You by BANNERS
+105115. End Of All Hope by Nightwish
+
+Recomendation for :           artists           name
+91111  [Nonpoint]  Breaking Skin
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.0208
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.2
+recall_at_10: 0.0667
+108580. Bullet With a Name by Nonpoint
+123274. That Day by Nonpoint
+16595. In the Air Tonight by Nonpoint
+15225. Living Dead Girl by Rob Zombie
+15608. In the End by Linkin Park
+91294. Falling Apart by Papa Roach
+16655. Happy? by Mudvayne
+34728. Between Angels And Insects by Papa Roach
+15814. Toxicity by System Of A Down
+89029. Scars by Papa Roach
+
+Recomendation for :        artists                        name
+11933  [Queen]  Another One Bites The Dust
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1667
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+11608. Another One Bites The Dust - Remastered 2011 by Queen
+12497. I Want To Break Free - Remastered 2011 by Queen
+30670. Another One Bites The Dust by Queen
+12431. I Want To Break Free - Remastered 2011 by Queen
+12500. Radio Ga Ga by Queen
+11006. Dreams - 2004 Remaster by Fleetwood Mac
+30126. Ghost Song by Jim Morrison, The Doors
+13019. Faith - Remastered by George Michael
+11648. Hey Nineteen by Steely Dan
+14226. What's Love Got to Do with It by Tina Turner
+
+user                      : user_10
+genre_precision_at_10     : 0.55
+genre_recall_at_10        : 0.1146
+artist_precision_at_10    : 0.5333
+artist_recall_at_10       : 0.1778
+precision_at_10           : 0.0533
+recall_at_10              : 0.0178

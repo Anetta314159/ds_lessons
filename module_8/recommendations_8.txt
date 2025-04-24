@@ -1,0 +1,580 @@
+Recomendation for :                             artists        name
+18245  [Ariana Grande, Liz Gillies]  Santa Baby
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.8
+artist_recall_at_10: 0.3333
+precision_at_10: 0.0
+recall_at_10: 0.0
+19637. motive (with Doja Cat) by Ariana Grande, Doja Cat
+18480. Problem by Ariana Grande, Iggy Azalea
+19407. Watermelon Sugar by Harry Styles
+19425. Adore You by Harry Styles
+19614. 34+35 by Ariana Grande
+57262. i'm so tired... by Lauv, Troye Sivan
+55856. Baby I by Ariana Grande
+19591. Watermelon Sugar by Harry Styles
+38319. Adore You by Harry Styles
+74984. Focus (feat. 21 Savage) by Bazzi, 21 Savage
+
+Recomendation for :                              artists                    name
+18389  [Ariana Grande, Nathan Sykes]  Almost Is Never Enough
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2917
+precision_at_10: 0.1
+recall_at_10: 0.0333
+37197. Almost Is Never Enough by Ariana Grande, Nathan Sykes
+19076. Sweet Creature by Harry Styles
+37383. Just A Little Bit Of Your Heart by Ariana Grande
+19782. exile (feat. Bon Iver) by Taylor Swift, Bon Iver
+19120. One Day by Tate McRae
+73848. My Everything by Ariana Grande
+56815. Consequences by Camila Cabello
+19537. Cherry by Harry Styles
+108171. I Like Me Better - Recorded at Spotify Studios NYC by Lauv
+57110. ghostin by Ariana Grande
+
+Recomendation for :                           artists                                  name
+170384  [2 Chainz, Ariana Grande]  Rule The World (feat. Ariana Grande)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.125
+precision_at_10: 0.0
+recall_at_10: 0.0
+19088. It's A Vibe by 2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko
+92271. Can't Go For That (feat. Lil Duval) by 2 Chainz, Ty Dolla $ign, Lil Duval
+75190. ZTFO by Big Sean
+38272. Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi) by A$AP Ferg, Brent Faiyaz, Salaam Remi
+57194. Single Again by Big Sean
+18637. See You Again (feat. Charlie Puth) by Wiz Khalifa, Charlie Puth
+124802. Can't Go For That (feat. Lil Duval) by 2 Chainz, Ty Dolla $ign, Lil Duval
+37544. All Eyes on You (feat. Chris Brown & Nicki Minaj) by Meek Mill, Chris Brown, Nicki Minaj
+19113. Bounce Back by Big Sean
+124833. Body Language (feat. Ty Dolla $ign, and Jhené Aiko) by Big Sean, Ty Dolla $ign, Jhené Aiko
+
+Recomendation for :                   artists  name
+15893  [Enrique Iglesias]  Hero
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.25
+precision_at_10: 0.1
+recall_at_10: 0.0333
+151872. Hero by Enrique Iglesias
+52261. No Llores por Mi by Enrique Iglesias
+33585. Por Amarte by Enrique Iglesias
+87273. Trapecista by Enrique Iglesias
+33568. Si Tú Te Vas by Enrique Iglesias
+89540. Luz Sin Gravedad by Belinda
+38346. All You Need To Know (feat. Calle Lehmann) by Gryffin, SLANDER, Calle Lehmann
+57296. Nightlight by ILLENIUM, Annika Wells
+75184. Together by Sia
+38013. End Game by Taylor Swift, Ed Sheeran, Future
+
+Recomendation for :              artists     name
+15715  [Linkin Park]  Runaway
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1731
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+15608. In the End by Linkin Park
+17039. What I've Done by Linkin Park
+55639. LOST IN THE ECHO by Linkin Park
+90601. IN MY REMAINS by Linkin Park
+15797. Forgotten by Linkin Park
+17690. Cryin' Like A Bitch!! by Godsmack
+17073. Psycho by Puddle Of Mudd
+36577. Stupify by Disturbed
+15304. Whatever by Godsmack
+17427. I Will Not Bow by Breaking Benjamin
+
+Recomendation for :              artists                name
+16282  [Linkin Park]  Breaking the Habit
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0333
+18121. BURN IT DOWN by Linkin Park
+15618. One Step Closer by Linkin Park
+36948. CASTLE OF GLASS by Linkin Park
+15608. In the End by Linkin Park
+16311. Breaking the Habit by Linkin Park
+17690. Cryin' Like A Bitch!! by Godsmack
+56131. 1000hp by Godsmack
+122047. No Rest For The Wicked by Godsmack
+72456. Greed by Godsmack
+17328. Diamond Eyes (Boom-Lay Boom-Lay Boom) by Shinedown
+
+Recomendation for :         artists              name
+53354  [Enigma]  Modern Crusaders
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2917
+precision_at_10: 0.1
+recall_at_10: 0.0333
+150916. The Roundabout by Enigma
+88224. Gravity Of Love by Enigma
+71299. Sadeness by Enigma
+70388. The Child In Us by Enigma
+69704. The Eyes Of Truth by Enigma
+17806. Tongue Tied by Grouplove
+19643. Midnight Sky by Miley Cyrus
+17039. What I've Done by Linkin Park
+15608. In the End by Linkin Park
+19719. Heart Of Glass (Live from the iHeart Festival) by Miley Cyrus
+
+Recomendation for :         artists             name
+70388  [Enigma]  The Child In Us
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.1346
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+69704. The Eyes Of Truth by Enigma
+14328. Return To Innocence by Enigma
+69755. Age Of Loneliness (Carly's Song) by Enigma
+120058. Why!... by Enigma
+71299. Sadeness by Enigma
+18037. My Kind of Woman by Mac DeMarco
+18265. Afraid by The Neighbourhood
+19015. Hurricane by Luke Combs
+37475. Nothing Lasts by Bedroom
+14220. Cherub Rock - Remastered 2011 by The Smashing Pumpkins
+
+Recomendation for :                  artists          name
+98316  [Mahalia Jackson]  O Holy Night
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.1154
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+7424. Smoke Gets In Your Eyes by The Platters
+11031. She's Always a Woman by Billy Joel
+12467. Hallelujah by Leonard Cohen
+14459. Silent Night by Mariah Carey
+29901. My Love, My Life by ABBA
+71678. Because Of Who You Are - I Just Want You Album Version by Vicki Yohe
+8049. Mr. Lonely by Bobby Vinton
+10449. The Way We Were by Barbra Streisand
+8636. Ooo Baby Baby by Smokey Robinson & The Miracles
+8859. Here, There And Everywhere - Remastered 2009 by The Beatles
+
+Recomendation for :               artists                 name
+165884  [Johnny Gill]  Take Me (I'm Yours)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0417
+precision_at_10: 0.0
+recall_at_10: 0.0
+135920. Please Come Home for Christmas by Luther Vandross
+14857. Un-Break My Heart by Toni Braxton
+106231. Un-Break My Heart by Toni Braxton
+35146. Dance With My Father by Luther Vandross
+85995. Love Won't Let Me Wait by Luther Vandross
+35365. I Can't Stop Loving You by Kem
+50484. Say Amen by Howard Hewett
+15451. Back At One by Brian McKnight
+53926. The Closer I Get to You (feat. Beyoncé Knowles) by Luther Vandross, Beyoncé
+152628. You For Me (The Wedding Song) by Johnny Gill
+
+Recomendation for :               artists       name
+19584  [Harry Styles]  Fine Line
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.9
+artist_recall_at_10: 0.375
+precision_at_10: 0.0
+recall_at_10: 0.0
+19630. pov by Ariana Grande
+57110. ghostin by Ariana Grande
+57395. pov by Ariana Grande
+170641. I Don't Think I'm Okay by Bazzi
+91309. Not Just On Christmas by Ariana Grande
+38017. Ever Since New York by Harry Styles
+19045. Sign of the Times by Harry Styles
+92006. The Archer by Taylor Swift
+74320. Knew Better / Forever Boy by Ariana Grande
+19076. Sweet Creature by Harry Styles
+
+Recomendation for :            artists       name
+17269  [Lady Gaga]  Paparazzi
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0833
+precision_at_10: 0.1
+recall_at_10: 0.0333
+19777. Kings & Queens by Ava Max
+91958. Not Your Barbie Girl by Ava Max
+17606. Just the Way You Are by Bruno Mars
+18857. 24K Magic by Bruno Mars
+38598. Sweet but Psycho by Ava Max
+107436. ARTPOP by Lady Gaga
+72983. Paparazzi by Lady Gaga
+72979. Borderline by Madonna
+17616. Grenade by Bruno Mars
+90738. Moonshine by Bruno Mars
+
+Recomendation for :            artists             name
+18967  [Lady Gaga]  Million Reasons
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1731
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.125
+precision_at_10: 0.0
+recall_at_10: 0.0
+91788. Starting Over by Niykee Heaton
+17610. Talking to the Moon by Bruno Mars
+17616. Grenade by Bruno Mars
+19795. Blueberry Eyes (feat. SUGA of BTS) by MAX, SUGA
+19793. the 1 by Taylor Swift
+38193. Shallow - Radio Edit by Lady Gaga, Bradley Cooper
+19134. This Town by Niall Horan
+155473. Blueberry Eyes (feat. SUGA of BTS) by MAX, SUGA
+19279. Shallow by Lady Gaga, Bradley Cooper
+14828. Because You Loved Me (Theme from "Up Close and Personal") by Céline Dion
+
+Recomendation for :            artists   name
+73835  [Lady Gaga]  Venus
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+17415. Bad Romance by Lady Gaga
+18857. 24K Magic by Bruno Mars
+124781. Salt by Ava Max
+17225. Poker Face by Lady Gaga
+36515. Telephone by Lady Gaga, Beyoncé
+38598. Sweet but Psycho by Ava Max
+17453. Telephone by Lady Gaga, Beyoncé
+17229. Just Dance by Lady Gaga, Colby O'Donis
+74271. Perm by Bruno Mars
+36396. 4 Minutes (feat. Justin Timberlake & Timbaland) by Madonna, Justin Timberlake, Timbaland
+
+Recomendation for :              artists                     name
+9546  [Led Zeppelin]  Heartbreaker - Remaster
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0333
+10608. Sweet Emotion by Aerosmith
+11282. Ice Cream Man - 2015 Remaster by Van Halen
+28457. Heartbreaker - Remaster by Led Zeppelin
+9747. Out on the Tiles - Remaster by Led Zeppelin
+10771. In My Time of Dying - 1990 Remaster by Led Zeppelin
+9419. Good Times Bad Times - 1993 Remaster by Led Zeppelin
+9544. Good Times Bad Times - Remaster by Led Zeppelin
+66370. Get The Lead Out by Aerosmith
+11866. Mean Street - 2015 Remaster by Van Halen
+13012. Pour Some Sugar On Me - Remastered 2017 by Def Leppard
+
+Recomendation for :           artists                                          name
+37177  [Josh Gad]  In Summer - From "Frozen"/Soundtrack Version
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1731
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0417
+precision_at_10: 0.1
+recall_at_10: 0.0333
+55882. In Summer - From "Frozen"/Soundtrack Version by Josh Gad
+152966. Welcome To The 60's by Nikki Blonsky, John Travolta
+138310. Welcome To The 60's by Nikki Blonsky, John Travolta
+18691. The Story of Tonight by Lin-Manuel Miranda, Anthony Ramos, Okieriete Onaodowan, Daveed Diggs, Original Broadway Cast of Hamilton
+18640. The Schuyler Sisters by Renée Elise Goldsberry, Phillipa Soo, Jasmine Cephas-Jones, Leslie Odom Jr., Original Broadway Cast of Hamilton
+139729. Yo Girl by Jessica Keenan Wynn, Evan Todd, Jon Eidson, Barrett Wilbert Weed, Michelle Duffy
+90807. A Girl Worth Fighting For - From "Mulan"/Soundtrack by Lea Salonga, Harvey Fierstein, Matthew Wilder, James Hong, Jerry Tondo
+18797. I Know Him by Jonathan Groff
+37596. Blow Us All Away by Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes, Lin-Manuel Miranda, Original Broadway Cast of Hamilton
+17524. Almost There - From "The Princess and the Frog" / Soundtrack Version by Anika Noni Rose
+
+Recomendation for :                artists           name
+74184  [Justin Bieber]  Mark My Words
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1731
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0333
+37558. Purpose by Justin Bieber
+19076. Sweet Creature by Harry Styles
+75129. Lonely by Noah Cyrus
+91403. Over And Over Again by Nathan Sykes, Ariana Grande
+56375. Life Is Worth Living by Justin Bieber
+19682. shut up by Ariana Grande
+18389. Almost Is Never Enough by Ariana Grande, Nathan Sykes
+37879. If By Chance by Ruth B.
+140841. Renee's Song by Bazzi
+56979. Never Not by Lauv
+
+Recomendation for :                          artists           name
+74050  [Alina Baraz, Galimatias]  Make You Feel
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.1346
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.125
+precision_at_10: 0.0
+recall_at_10: 0.0
+38135. Electric (feat. Khalid) by Alina Baraz, Khalid
+74477. Electric (feat. Khalid) by Alina Baraz, Khalid
+107673. Unfold by Alina Baraz, Galimatias
+92187. Mr. Hollywood by Joji
+92125. Just Might (with PARTYNEXTDOOR) by Summer Walker, PARTYNEXTDOOR
+108359. This Way - From SUPERFLY - Original Soundtrack by Khalid, H.E.R.
+124202. Cold Blooded by Khalid
+75050. Like You Do by Joji
+57382. Afterthought by Joji, BENEE
+19623. you broke me first by Tate McRae
+
+Recomendation for :               artists      name
+73999  [Lana Del Rey]  Sad Girl
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+18590. Brooklyn Baby by Lana Del Rey
+18235. Young And Beautiful by Lana Del Rey
+91055. Black Beauty by Lana Del Rey
+107507. Cruel World by Lana Del Rey
+56112. Shades Of Cool by Lana Del Rey
+19464. Before You Go by Lewis Capaldi
+19445. Before You Go by Lewis Capaldi
+19210. lovely (with Khalid) by Billie Eilish, Khalid
+123821. Let It All Go by Birdy, RHODES
+19630. pov by Ariana Grande
+
+Recomendation for :               artists                      name
+18126  [Lana Del Rey]  Video Games - Remastered
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+92094. Norman fucking Rockwell by Lana Del Rey
+169579. Honeymoon by Lana Del Rey
+75028. Cinnamon Girl by Lana Del Rey
+155348. How to disappear by Lana Del Rey
+91980. Happiness is a butterfly by Lana Del Rey
+57248. No Time To Die by Billie Eilish
+19433. when the party's over by Billie Eilish
+55530. People Help the People by Birdy
+19210. lovely (with Khalid) by Billie Eilish, Khalid
+19782. exile (feat. Bon Iver) by Taylor Swift, Bon Iver
+
+Recomendation for :                  artists   name
+18120  [Robbie Williams]  Candy
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0833
+precision_at_10: 0.0
+recall_at_10: 0.0
+107375. Rock DJ by Robbie Williams
+37844. Finesse - Remix; feat. Cardi B by Bruno Mars, Cardi B
+19641. Levitating (feat. DaBaby) by Dua Lipa, DaBaby
+17119. Valerie (feat. Amy Winehouse) - Version Revisited by Mark Ronson, Amy Winehouse
+17415. Bad Romance by Lady Gaga
+18624. Uptown Funk (feat. Bruno Mars) by Mark Ronson, Bruno Mars
+53635. Gotta Get Thru This - D'N'D Radio Edit by Daniel Bedingfield, D'N'D Productions
+124781. Salt by Ava Max
+74239. Finesse by Bruno Mars
+36509. Into the Groove by Madonna
+
+Recomendation for :             artists      name
+18109  [Katy Perry]  Firework
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0333
+18192. Part Of Me by Katy Perry
+38473. Prisoner (feat. Dua Lipa) by Miley Cyrus, Dua Lipa
+17625. Raise Your Glass by P!nk
+17715. Firework by Katy Perry
+19719. Heart Of Glass (Live from the iHeart Festival) by Miley Cyrus
+19099. Let Me Go (with Alesso, Florida Georgia Line & watt) by Hailee Steinfeld, Alesso, Florida Georgia Line, watt
+18191. Teenage Dream by Katy Perry
+18164. Red by Taylor Swift
+36968. Part Of Me by Katy Perry
+37213. Neon Lights by Demi Lovato
+
+Recomendation for :                      artists                           name
+18081  [Rihanna, Mikky Ekko]  Stay - Album Version (Edited)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0333
+18078. Stay by Rihanna, Mikky Ekko
+123195. Stay - Album Version (Edited) by Rihanna, Mikky Ekko
+91383. Close To You by Rihanna
+15152. My All by Mariah Carey
+14245. Hero by Mariah Carey
+19623. you broke me first by Tate McRae
+16907. Unfaithful by Rihanna
+19258. Out Of Love by Alessia Cara
+19421. Falling by Harry Styles
+19134. This Town by Niall Horan
+
+Recomendation for :               artists                      name
+18073  [Taylor Swift]  I Knew You Were Trouble.
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0333
+18114. I Knew You Were Trouble. by Taylor Swift
+19197. Slow Hands by Niall Horan
+36957. I Knew You Were Trouble. by Taylor Swift
+19511. You Need To Calm Down by Taylor Swift
+18115. We Are Never Ever Getting Back Together by Taylor Swift
+108096. Slow Hands by Niall Horan
+18108. We Are Never Ever Getting Back Together by Taylor Swift
+18125. Try by P!nk
+19099. Let Me Go (with Alesso, Florida Georgia Line & watt) by Hailee Steinfeld, Alesso, Florida Georgia Line, watt
+38201. Hurts Like Hell (feat. Offset) by Madison Beer, Offset
+
+Recomendation for :             artists        name
+17985  [Ed Sheeran]  Lego House
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0833
+precision_at_10: 0.1
+recall_at_10: 0.0333
+73356. Lego House by Ed Sheeran
+108753. My Oasis (feat. Burna Boy) by Sam Smith, Burna Boy
+92255. To Die For by Sam Smith
+108734. Kids Again by Sam Smith
+108833. Oh My God by Alec Benjamin
+19263. Let Me Down Slowly by Alec Benjamin
+154822. Baby, You Make Me Crazy by Sam Smith
+108596. Nurse's Office by Melanie Martinez
+154927. Entertainer by ZAYN
+37961. Dive by Ed Sheeran
+
+Recomendation for :                          artists                       name
+17918  [Jennifer Lopez, Pitbull]  On The Floor - Radio Edit
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+36824. On The Floor by Jennifer Lopez, Pitbull
+36799. On The Floor by Jennifer Lopez, Pitbull
+55643. Dance Again by Jennifer Lopez, Pitbull
+18318. Scream & Shout by will.i.am, Britney Spears
+56107. Booty by Jennifer Lopez, Iggy Azalea
+155553. Pa Ti - Spanglish Version by Jennifer Lopez, Maluma
+55812. A Little Party Never Killed Nobody (All We Got) by Fergie, Q-Tip, GoonRock
+17493. Do You Remember by Jay Sean, Sean Paul, Lil Jon
+37242. #thatPOWER by will.i.am, Justin Bieber
+16841. Big Girls Don't Cry (Personal) by Fergie
+
+Recomendation for :          artists                   name
+17878  [Beyoncé]  Run the World (Girls)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1923
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+38351. Motivation by Normani
+17614. TiK ToK by Kesha
+90435. Schoolin' Life by Beyoncé
+170504. Smile by Katy Perry
+18867. Formation by Beyoncé
+18327. Replay by Zendaya
+17854. Love On Top by Beyoncé
+37002. E.T. by Katy Perry, Kanye West
+18094. The One That Got Away by Katy Perry
+57211. Baby, I'm Jealous (feat. Doja Cat) by Bebe Rexha, Doja Cat
+
+Recomendation for :                         artists  \
+17670  [Shakira, Freshlyground]   
+
+                                                    name  
+17670  Waka Waka (This Time for Africa) [The Official...  
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1538
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+73055. Rabiosa (feat. El Cata) by Shakira, El Cata
+14757. Estoy Aquí by Shakira
+55377. Rabiosa (feat. Pitbull) by Shakira, Pitbull
+15334. Ciega, Sordomuda by Shakira
+16731. La Tortura (feat. Alejandro Sanz) by Shakira, Alejandro Sanz
+16771. Te Mando Flores by Fonseca
+123303. Eres Mi Sueño by Fonseca
+108473. Tutu by Camilo, Pedro Capó
+54101. Un Poco De Tu Amor by RBD, Anahí, Dulce María, Maite Perroni, Christian Chávez, Christopher von Uckermann, Alfonso Herrera
+105484. Futuro Ex - Novio by RBD, Anahí, Dulce María, Maite Perroni, Christian Chávez, Christopher von Uckermann, Alfonso Herrera
+
+Recomendation for :           artists      name
+14794  [D'Angelo]  Cruisin'
+genre_precision_at_10: 0.4
+genre_recall_at_10: 0.0769
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0417
+precision_at_10: 0.0
+recall_at_10: 0.0
+19200. A Million Dreams by Ziv Zaifman, Hugh Jackman, Michelle Williams
+155502. Something to Rap About (feat. Tyler, The Creator) by Freddie Gibbs, The Alchemist, Tyler, The Creator
+19621. Put Your Records On by Ritt Momney
+37180. Stay Ready (What A Life) by Jhené Aiko, Kendrick Lamar
+57243. I Want It by Juice WRLD
+18609. Tennessee Whiskey by Chris Stapleton
+17954. Only Love by Ben Howard
+18641. Brown Noise - Loopable with No Fade by White Noise Meditation, Lullaby Land, White Noise Babies, Calming Sounds, Canciones De Cuna
+19564. Lover by Taylor Swift
+18213. Let Her Go by Passenger
+
+Recomendation for :                    artists   name
+37274  [Twenty One Pilots]  Truce
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1538
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0417
+precision_at_10: 0.0
+recall_at_10: 0.0
+19512. Happiest Year by Jaymes Young
+72957. Before You Start Your Day by Twenty One Pilots
+108219. Location - Live from Spotify by AJR
+154835. Cringe - Stripped by Matt Maeson
+123515. Sweater Weather - Spotify Sessions Curated by Jim Eno by The Neighbourhood
+74687. crash by EDEN
+105960. Enterlude by The Killers
+56855. Be My Mistake by The 1975
+56356. All We Do by Oh Wonder
+55911. Love Like This - Acoustic by Kodaline
+
+user                      : user_8
+genre_precision_at_10     : 0.92
+genre_recall_at_10        : 0.1769
+artist_precision_at_10    : 0.43
+artist_recall_at_10       : 0.1792
+precision_at_10           : 0.04
+recall_at_10              : 0.0133

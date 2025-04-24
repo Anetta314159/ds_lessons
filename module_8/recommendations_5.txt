@@ -1,0 +1,586 @@
+Recomendation for :               artists            name
+3511  [Frank Sinatra]  Let's Get Lost
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.0964
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1333
+precision_at_10: 0.0
+recall_at_10: 0.0
+25771. Come Back to Sorrento by Jerry Vale
+7082. The Christmas Waltz - Alternate Version/Remastered 1999 by Frank Sinatra
+6414. Snow by Bing Crosby, Peggy Lee, Danny Kaye, Trudy Stevens
+8502. Smile (From United Artists Film "Modern Times") by Jimmy Durante
+4206. Someone to Watch Over Me by Frank Sinatra
+26190. Around The World - Remastered by Frank Sinatra
+4006. White Christmas by Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra
+8430. Everybody Loves Somebody by Dean Martin
+7010. Have Yourself A Merry Little Christmas - Remastered by Frank Sinatra
+8134. Beyond the Sea (La Mer) by Ray Conniff
+
+Recomendation for :         artists        name
+15433  [Eminem]  My Name Is
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+35677. My Name Is by Eminem
+34447. My Name Is by Eminem
+15530. Role Model by Eminem
+34554. Under The Influence by Eminem, D12
+53651. Drips by Eminem, Obie Trice
+19459. Suge by DaBaby
+17924. Yonkers by Tyler, The Creator
+92178. Steppin On Niggas by 21 Savage, Metro Boomin
+15607. Ms. Jackson by OutKast
+122958. Yonkers by Tyler, The Creator
+
+Recomendation for :                        artists              name
+15512  [Red Hot Chili Peppers]  Around the World
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+70852. Around the World by Red Hot Chili Peppers
+120769. Over Funk - 2006 Remaster by Red Hot Chili Peppers
+136701. Fat Dance - 2006 Remaster by Red Hot Chili Peppers
+101827. Jungle Man - Remastered by Red Hot Chili Peppers
+16011. Can't Stop by Red Hot Chili Peppers
+16923. You Only Live Once by The Strokes
+139045. White Limo by Foo Fighters
+107376. One Way Trigger by The Strokes
+51950. Glorified G (Remastered) by Pearl Jam
+14671. Zero - Remastered 2012 by The Smashing Pumpkins
+
+Recomendation for :              artists                      name
+33830  [Spice Girls]  Who Do You Think You Are
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.0843
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0333
+precision_at_10: 0.0
+recall_at_10: 0.0
+15145. Spice Up Your Life by Spice Girls
+15211. Merry Christmas, Happy Holidays by *NSYNC
+18102. Last Friday Night (T.G.I.F.) by Katy Perry
+15487. Larger Than Life by Backstreet Boys
+16948. We're All In This Together - From "High School Musical"/Soundtrack Version by High School Musical Cast
+57105. FANCY by TWICE
+139861. Hair (feat. Sean Paul) by Little Mix, Sean Paul
+18520. Am I Wrong by Nico & Vinz
+12328. Club Tropicana by Wham!
+16859. My Love (feat. T.I.) by Justin Timberlake, T.I.
+
+Recomendation for :       artists name
+36291  [ABBA]  SOS
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+52037. SOS by ABBA
+168224. The Winner Takes It All by ABBA
+72742. Knowing Me, Knowing You by ABBA
+168061. Waterloo by ABBA
+19102. Kiwi by Harry Styles
+17386. Lay All Your Love On Me by ABBA
+37839. Castle on the Hill by Ed Sheeran
+37178. Unconditionally by Katy Perry
+55833. Unconditionally by Katy Perry
+37525. Elastic Heart by Sia
+
+Recomendation for :           artists                           name
+73080  [Boney M.]  Mary's Boy Child / Oh My Lord
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1333
+precision_at_10: 0.0
+recall_at_10: 0.0
+168564. I WILL SURVIVE by Gloria Gaynor
+70837. Y.M.C.A. - Single Version by Village People
+12495. Rasputin - 7" Version by Boney M.
+88193. Can't Take My Eyes Off of You - Radio Edit by Gloria Gaynor
+30217. I Will Survive by Gloria Gaynor
+117102. Mary's Boy Child / Oh My Lord - Long Version by Boney M.
+15636. I Will Survive - Single Version by Gloria Gaynor
+11386. Rivers of Babylon by Boney M.
+66653. I Will Survive - Extended Version by Gloria Gaynor
+30029. Ma Baker by Boney M.
+
+Recomendation for :            artists                                               name
+85292  [Metallica]  Ride The Lightning (Live at The Hollywood Pall...
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+34454. No Leaf Clover - Live with the SFSO by Metallica
+151422. Enter Sandman - Live with the SFSO by Metallica
+85875. For Whom the Bell Tolls (Live - Seattle '89) by Metallica
+32164. Breadfan (Remastered) by Metallica
+120780. Fuel - Live with the SFSO by Metallica
+12687. Madhouse by Anthrax
+102326. Bored by Death Angel
+69282. Get In The Ring by Guns N' Roses
+118321. Under Jolly Roger by Running Wild
+31388. Animal (Fuck Like A Beast) by W.A.S.P.
+
+Recomendation for :                  artists         name
+85800  [Michael Jackson]  I'm So Blue
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1084
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+54218. Girl, I Wanna Lay You Down by ALO, Jack Johnson
+12111. Baby Be Mine by Michael Jackson
+36680. I Need A Dollar by Aloe Blacc
+11416. Rock with You - Single Version by Michael Jackson
+12007. Billie Jean by Michael Jackson
+32753. Who Is It by Michael Jackson
+12093. Billie Jean by Michael Jackson
+56122. 2AM. by Adrian Marcel, Sage The Gemini
+18482. Loyal (feat. Lil Wayne & Tyga) by Chris Brown, Lil Wayne, Tyga
+19624. Therefore I Am by Billie Eilish
+
+Recomendation for :       artists              name
+85815  [Enya]  To Go Beyond (I)
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0602
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+15736. A Day Without Rain by Enya
+33589. Athair Ar Neamh by Enya
+72123. Sumiregusa (Wild Violet) by Enya
+15665. Only Time by Enya
+13260. Watermark by Enya
+34840. The Council of Elrond (feat. "Aniron") [Theme for Aragorn and Arwen] by Howard Shore
+53618. Evenstar by Howard Shore, Isabel Bayrakdarian
+71330. Many Meetings by Howard Shore
+104924. Lothlorien (feat. "Lament for Gandalf") by Howard Shore, Elizabeth Fraser
+34761. The Breaking of the Fellowship (feat. "In Dreams") by Howard Shore, Edward Ross
+
+Recomendation for :           artists                    name
+86010  [Megadeth]  Mary Jane - Remastered
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+104139. Almost Honest - Remastered 2004 / Remixed by Megadeth
+150418. Blood Of Heroes - Remastered 2004 by Megadeth
+13640. Holy Wars...The Punishment Due - Remastered 2004 by Megadeth
+85700. I Ain't Superstitious - Remastered by Megadeth
+68824. Anarchy In The U.K. - Remastered by Megadeth
+12429. I Wanna Rock by Twisted Sister
+67185. Live to Win by Motörhead
+14240. Cryin' by Aerosmith
+66948. Stone Dead Forever by Motörhead
+15210. Freak On a Leash by Korn
+
+Recomendation for :        artists          name
+86227  [AC/DC]  Shot of Love
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+12504. Jailbreak by AC/DC
+34584. Stiff Upper Lip by AC/DC
+11406. Highway to Hell by AC/DC
+10829. It's a Long Way to the Top (If You Wanna Rock 'N' Roll) by AC/DC
+13643. Moneytalks by AC/DC
+12407. Jump - 2015 Remaster by Van Halen
+12408. Panama - 2015 Remaster by Van Halen
+13050. Animal by Def Leppard
+11430. Dance the Night Away - 2015 Remaster by Van Halen
+34888. Jaded by Aerosmith
+
+Recomendation for :         artists             name
+88224  [Enigma]  Gravity Of Love
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0602
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1333
+precision_at_10: 0.0
+recall_at_10: 0.0
+53354. Modern Crusaders by Enigma
+69726. I Love You... I'll Kill You by Enigma
+32621. Mea Culpa by Enigma
+19037. Thunder by Imagine Dragons
+33949. Firestarter by The Prodigy
+35655. All Alone by Gorillaz, Roots Manuva
+18499. Resonance by Home
+19672. UN DIA (ONE DAY) (Feat. Tainy) by J Balvin, Tainy, Dua Lipa, Bad Bunny
+155048. Fingers by Lil Peep
+37856. My Ordinary Life by The Living Tombstone
+
+Recomendation for :           artists                   name
+88384  [Gorillaz]  Sound Check (Gravity)
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0361
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1333
+precision_at_10: 0.0
+recall_at_10: 0.0
+35601. November Has Come by Gorillaz
+35712. Every Planet We Reach Is Dead by Gorillaz
+90320. Welcome to the World of the Plastic Beach (feat. Snoop Dogg and Hypnotic Brass Ensemble) by Gorillaz, Hypnotic Brass Ensemble, Snoop Dogg
+36522. Empire Ants (feat. Little Dragon) by Gorillaz, Little Dragon
+38316. GONE, GONE / THANK YOU by Tyler, The Creator
+19160. Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) by Machine Gun Kelly, X Ambassadors, Bebe Rexha
+19213. SAD! by XXXTENTACION
+37483. Close Your Eyes (And Count To Fuck) by Run The Jewels, Zack De La Rocha
+140161. Fallen by Jaden
+19014. See You Again (feat. Kali Uchis) by Tyler, The Creator, Kali Uchis
+
+Recomendation for :          artists                                       name
+88582  [Nirvana]  The Man Who Sold The World - Live Version
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+14464. Where Did You Sleep Last Night by Nirvana
+14548. About A Girl by Nirvana
+53193. Soldier of Love by Pearl Jam
+33452. Polly by Nirvana
+33407. Dumb by Nirvana
+152117. All Apologies - Live Version by Nirvana
+74201. Psycho by Muse
+15870. Fell In Love With a Girl by The White Stripes
+31934. In God's Country by U2
+169872. Run by Foo Fighters
+
+Recomendation for :              artists            name
+88783  [Linkin Park]  Lying from You
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1084
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+16292. Lying from You by Linkin Park
+16251. Faint by Linkin Park
+56844. Bulletproof by Godsmack
+34164. Bad Religion by Godsmack
+16340. Faint by Linkin Park
+53380. Papercut - Live at Yalding House, London, England, 1/12/2001 - BBC One by Linkin Park
+72482. In Pieces by Linkin Park
+16755. Violent Pornography by System Of A Down
+17601. I Get Off by Halestorm
+16010. Headstrong by Trapt
+
+Recomendation for :                 artists               name
+115422  [Elvis Presley]  An Evening Prayer
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.0843
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+7806. Can't Help Falling in Love by Elvis Presley
+8252. Are You Lonesome Tonight by Elvis Presley
+28029. You'll Never Walk Alone by Elvis Presley
+7013. O Little Town of Bethlehem by Elvis Presley
+98885. You'll Never Walk Alone by Elvis Presley
+8006. The Christmas Song (Merry Christmas To You) by Nat King Cole
+11233. Silent Night by Carpenters
+11225. Merry Christmas Darling - Remix by Carpenters
+9638. Bridge Over Troubled Water by Simon & Garfunkel
+8609. Yesterday - Remastered 2009 by The Beatles
+
+Recomendation for :            artists                        name
+115428  [Vangelis]  Le singe bleu - Remastered
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0602
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+67323. Abraham's Theme by Vangelis
+47842. La petite fille de la mer - Remastered by Vangelis
+117578. Antarctica Echoes - Remastered by Vangelis
+116313. To the Unknown Man by Vangelis
+52148. Love Theme by Vangelis
+13004. In The Morning Light by Yanni
+12930. One Man's Dream by Yanni
+69772. Before I Go by Yanni
+119540. Whispers In The Dark by Yanni
+103374. Only A Memory by Yanni
+
+Recomendation for :               artists          name
+165597  [Deep Forest]  Marta's Song
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0241
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+170360. Angry Too by Lola Blanc
+122265. Becoming Insane by Infected Mushroom
+73205. Paloma Ajena by Claudio Moran, Los Universales
+137465. Angry Anthem by The Forces Of Evil
+85652. Sunday Morning by The Bolshoi
+74836. Losing It by FISHER
+155045. I'm Not Ok by Weathers
+91257. Parking Lots by Plums
+166816. Elesi by Rivermaya
+118644. Sleeping My Day Away by D-A-D
+
+Recomendation for :                                                  artists  \
+60410  [Antonio Vivaldi, Isaac Stern, Eugene Ormandy,...   
+
+                                                    name  
+60410  I. Allegro from Concerto in A minor for Two Vi...  
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.0964
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+48489. Vivaldi: La cetra, Violin Concerto in A Minor, Op. 9 No. 5, RV 358: II. Allegro by Antonio Vivaldi, Claudio Scimone, Juan Carlos Rybin, I Solisti Veneti
+6933. Concerto for Violin, Strings and Continuo in E Major, RV 269 "La primavera": II. Largo by Antonio Vivaldi, Isaac Stern, Jerusalem Music Center Chamber Orchestra
+28310. La fille du régiment / Act 1: Ah! mes amis, quel jour de fête! by Gaetano Donizetti, Luciano Pavarotti, Orchestra of the Royal Opera House, Covent Garden, Richard Bonynge
+52737. Nulla in mundo pax, RV 630: 1. Nulla in mundo pax by Antonio Vivaldi, Emma Kirkby, Academy of Ancient Music, Christopher Hogwood
+102531. Vivaldi: Violin Concerto in G Minor, RV 315 "L'estate" (No. 2 from "Il cimento dell'armonia e dell'inventione", Op. 8): II. Adagio by Antonio Vivaldi, Nigel Kennedy, English Chamber Orchestra
+103066. Sposa son disprezzata by Antonio Vivaldi, Cecilia Bartoli, György Fischer
+99332. Dettagli - Detalhes by Ornella Vanoni
+9342. Le nozze di Figaro, K. 492 / Act 3: "Sull’aria ... Che soave zeffiretto" by Wolfgang Amadeus Mozart, Edith Mathis, Gundula Janowitz, Orchester der Deutschen Oper Berlin, Karl Böhm
+62702. Il barbiere di Siviglia: Largo al factotum - Remastered by Gioachino Rossini, Erich Leinsdorf
+27679. Il barbiere di Siviglia / Act 1: No.2 Cavatina: "Largo al factotum" by Gioachino Rossini, Manuel Ausensi, Orchestra del Teatro San Carlo di Napoli, Silvio Varviso
+
+Recomendation for :                                                  artists  \
+52452  [Pyotr Ilyich Tchaikovsky, Daniel Barenboim, C...   
+
+                                    name  
+52452  Tchaikovsky : 1812 Overture Op.49  
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+10869. Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scène (Moderato) by Pyotr Ilyich Tchaikovsky, André Previn, London Symphony Orchestra
+55335. Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 13 Waltz of the Flowers by Pyotr Ilyich Tchaikovsky, Sir Simon Rattle, Berliner Philharmoniker
+153918. Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso – Allegro con spirito by Pyotr Ilyich Tchaikovsky, Mariinsky Orchestra, Valery Gergiev, Daniil Trifonov
+153589. Tchaikovsky: The Nutcracker, Op. 71, Act 1: No. 6, Clara and the Nutcracker by Pyotr Ilyich Tchaikovsky, Sir Simon Rattle, Berliner Philharmoniker
+168575. The Nutcracker - Ballet, Op.71, Act II: No. 10 - The Kingdom of Sweets by Pyotr Ilyich Tchaikovsky, Sir Simon Rattle, Berliner Philharmoniker
+166436. Nocturne by Alexander Borodin, Julian Lloyd Webber, Royal Philharmonic Orchestra, James Judd
+72021. Nocturne by Alexander Borodin, Julian Lloyd Webber, Royal Philharmonic Orchestra, James Judd
+7268. Polovetsian Dances from Prince Igor: Introduzione by Alexander Borodin, George Szell, Cleveland Orchestra
+103625. In the Steppes of Central Asia by Alexander Borodin, Royal Philharmonic Orchestra, Vladimir Ashkenazy
+86351. Polovtsian Dances From "Prince Igor" by Alexander Borodin, Torgny Sporsen, Gothenburg Symphony Orchestra, Neeme Järvi, Gothenburg Symphony Chorus
+
+Recomendation for :         artists               name
+84723  [Accept]  Restless and Wild
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1
+precision_at_10: 0.0
+recall_at_10: 0.0
+133782. Midnight Mover by Accept
+133546. Losing More Than You've Ever Had by Accept
+12033. You've Got Another Thing Coming by Judas Priest
+11636. Breaking the Law by Judas Priest
+14836. Cum on Feel the Noize by Quiet Riot
+162902. Can't Stand The Night by Accept
+12416. We're Not Gonna Take It by Twisted Sister
+12220. Cum on Feel the Noize by Quiet Riot
+30604. Armed and Ready - 2009 Remaster by Michael Schenker Group
+12704. Wild Child by W.A.S.P.
+
+Recomendation for :              artists          name
+86697  [Ace of Base]  Happy Nation
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+14236. The Sign by Ace of Base
+151257. Life Is a Flower by Ace of Base
+86913. Wheel of Fortune by Ace of Base
+120534. Cruel Summer by Ace of Base
+14264. All That She Wants by Ace of Base
+14321. What Is Love - 7" Mix by Haddaway
+150808. Close To You - Original by Whigfield
+14238. What Is Love - 7" Mix by Haddaway
+70760. We’re Going to Ibiza! by Vengaboys
+33022. Get Ready - Rapversion Edit by 2 Unlimited
+
+Recomendation for :                  artists                     name
+101962  [Modern Talking]  Just We Two (Mona Lisa)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2333
+precision_at_10: 0.0
+recall_at_10: 0.0
+12942. Brother Louie by Modern Talking
+85342. Do You Wanna by Modern Talking
+133997. Angie's Heart by Modern Talking
+134340. In 100 Years by Modern Talking
+12805. You're My Heart, You're My Soul by Modern Talking
+14811. Wannabe by Spice Girls
+11055. Take A Chance On Me by ABBA
+15064. Barbie Girl by Aqua
+11822. Don't You Want Me by The Human League
+104123. Sing Hallelujah! by Dr. Alban
+
+Recomendation for :        artists                     name
+73259  [LMFAO]  Sorry For Party Rocking
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1084
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1
+precision_at_10: 0.0
+recall_at_10: 0.0
+90138. La La La by LMFAO
+17868. Party Rock Anthem by LMFAO, Lauren Bennett, GoonRock
+17641. Cooler Than Me - Single Mix by Mike Posner, Gigamesh
+73179. I Made It (Cash Money Heroes) by Kevin Rudolf, Birdman, Jay Sean, Lil Wayne
+17409. I Gotta Feeling by Black Eyed Peas
+35622. Don't Phunk With My Heart by Black Eyed Peas
+19784. Rain On Me (with Ariana Grande) by Lady Gaga, Ariana Grande
+16634. Pump It by Black Eyed Peas
+168809. Champagne Showers by LMFAO, Natalia Kills
+17872. Born This Way by Lady Gaga
+
+Recomendation for :        artists             name
+119529  [2Pac]  Point The Finga
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+14417. Regulate by Warren G, Nate Dogg
+14015. Nuthin' But A "G" Thang by Dr. Dre, Snoop Dogg
+14221. I Get Around by 2Pac, Digital Underground
+69297. I Don't Give A Fuck by 2Pac
+119444. The Streetz R Deathrow by 2Pac
+14570. Fantastic Voyage by Coolio
+14814. All Eyez On Me (ft. Big Syke) by 2Pac, Big Syke
+13030. Boyz-N-The-Hood by Eazy-E
+14677. So Many Tears by 2Pac
+13793. The Nigga Ya Love To Hate by Ice Cube
+
+Recomendation for :                  artists                 name
+120166  [George Michael]  You Have Been Loved
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0241
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+13176. One More Try - Remastered by George Michael
+50763. One More Try - Remastered by George Michael
+52511. Jesus to a Child by George Michael
+70758. Kissing a Fool by George Michael
+13049. Father Figure - Remastered by George Michael
+13475. After All (Love Theme From Chances Are) by Cher, Peter Cetera
+85097. I'll Be There Where The Heart Is by Kim Carnes
+136713. Love Will Lead You Back by Taylor Dayne
+13306. I'll Be Loving You (Forever) by New Kids On The Block
+134080. I'll Be Thunder by Tina Turner
+
+Recomendation for :                artists                    name
+120096  [Robert Miles]  Children - Full Length
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0602
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0667
+precision_at_10: 0.0
+recall_at_10: 0.0
+14985. Children by Robert Miles
+151960. Meet Her At The Loveparade (Radio Edit) by Da Hool
+165899. Children - Dream Version by Robert Miles
+37994. In My Head by Bedroom
+18562. Habits (Stay High) - Hippie Sabotage Remix by Tove Lo, Hippie Sabotage
+15184. Breathe by The Prodigy
+55295. Strobe - Radio Edit by deadmau5
+165975. Sunchyme - Radio Edit by Dario G
+74589. Moon (And It Went Like) by Kid Francescoli
+15743. She Sells Sanctuary by The Cult
+
+Recomendation for :           artists                                          name
+132085  [Ramones]  Beat on the Brat - 40th Anniversary Mono Mix
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+11247. I Wanna Be Sedated by Ramones
+11129. Sheena Is a Punk Rocker - 2017 Remaster by Ramones
+29938. Rockaway Beach - 2017 Remaster by Ramones
+83746. Surfin' Bird - 2017 Remaster by Ramones
+162785. She's a Sensation - 2002 Remaster by Ramones
+16409. American Idiot by Green Day
+13875. Shiny Happy People by R.E.M.
+13014. Just like Heaven by The Cure
+30535. Police On My Back - Remastered by The Clash
+48845. Stay Free - Remastered by The Clash
+
+Recomendation for :                                       artists  \
+169745  [Pitbull, Flo Rida, LunchMoney Lewis]   
+
+                                                  name  
+169745  Greenlight (feat. Flo Rida & LunchMoney Lewis)  
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+17833. Give Me Everything (feat. Ne-Yo, Afrojack & Nayer) by Pitbull, Ne-Yo, Afrojack, Nayer
+55486. Shake Senora (feat. T-Pain & Sean Paul) by Pitbull, T-Pain, Sean Paul
+18103. Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera
+90232. Bon, Bon by Pitbull
+17922. International Love (feat. Chris Brown) by Pitbull, Chris Brown
+18100. Good Feeling by Flo Rida
+18071. Whistle by Flo Rida
+18074. White Walls (feat. ScHoolboy Q & Hollis) by Macklemore & Ryan Lewis, ScHoolboy Q, Hollis
+17816. Ni**as In Paris by JAY-Z, Kanye West
+55465. Good Feeling by Flo Rida
+
+Recomendation for :          artists     name
+12277  [Madonna]  Holiday
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1205
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0667
+precision_at_10: 0.1
+recall_at_10: 0.0333
+18624. Uptown Funk (feat. Bruno Mars) by Mark Ronson, Bruno Mars
+16828. SexyBack (feat. Timbaland) by Justin Timberlake, Timbaland
+34920. Like I Love You by Justin Timberlake
+36515. Telephone by Lady Gaga, Beyoncé
+12443. Like a Virgin by Madonna
+17453. Telephone by Lady Gaga, Beyoncé
+17225. Poker Face by Lady Gaga
+16033. Rock Your Body by Justin Timberlake
+51321. Holiday by Madonna
+18823. That's What I Like by Bruno Mars
+
+user                      : user_5
+genre_precision_at_10     : 0.8133
+genre_recall_at_10        : 0.098
+artist_precision_at_10    : 0.43
+artist_recall_at_10       : 0.1433
+precision_at_10           : 0.0167
+recall_at_10              : 0.0056

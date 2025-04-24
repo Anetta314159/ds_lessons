@@ -1,0 +1,580 @@
+Recomendation for :       artists                            name
+53043  [Moby]  Why Does My Heart Feel So Bad?
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1667
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+88665. In This World by Moby
+88055. South Side by Moby
+122374. South Side by Moby
+164911. Everything by Moby
+137377. I Against I by Massive Attack, Mos Def
+151259. Group Four by Massive Attack
+17016. No One by Alicia Keys
+18612. The Hills by The Weeknd
+16027. Get Low by Ying Yang Twins, Lil Jon & The East Side Boyz
+16807. Chasing Cars by Snow Patrol
+
+Recomendation for :       artists           name
+34466  [Moby]  Natural Blues
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1667
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+120771. Find My Baby by Moby
+54862. Flower by Moby
+70996. Run On by Moby
+53025. Honey by Moby
+34388. Flower (B-Sides) by Moby
+19606. Mood (feat. iann dior) by 24kGoldn, iann dior
+38321. RITMO (Bad Boys For Life) by Black Eyed Peas, J Balvin
+104673. So Flute by St Germain
+74628. Friends (with BloodPop®) by Justin Bieber, BloodPop®
+19412. Are You Bored Yet? (feat. Clairo) by Wallows, Clairo
+
+Recomendation for :                  artists     name
+139385  [London Grammar]  Hey Now
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0926
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.1
+recall_at_10: 0.0333
+107422. Wasting My Young Years by London Grammar
+55603. Follow The Sun by Xavier Rudd
+57393. Moral of the Story (feat. Niall Horan) by Ashe, Niall Horan
+19495. Moral of the Story by Ashe
+124136. The Louvre by Lorde
+19623. you broke me first by Tate McRae
+18636. This Is Home by Cavetown
+19028. Hold On by Chord Overstreet
+18634. L$D by A$AP Rocky
+124637. What Dreams Are Made Of by Evann McIntosh
+
+Recomendation for :                  artists                    name
+107422  [London Grammar]  Wasting My Young Years
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1481
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.087
+precision_at_10: 0.1
+recall_at_10: 0.0333
+139385. Hey Now by London Grammar
+19623. you broke me first by Tate McRae
+18915. Please Notice by Christian Leave
+170546. What They'll Say About Us by FINNEAS
+19495. Moral of the Story by Ashe
+92308. The Story by Conan Gray
+38175. Lookalike by Conan Gray
+37286. I Need My Girl by The National
+19421. Falling by Harry Styles
+18194. Ms by alt-J
+
+Recomendation for :        artists              name
+17809  [Adele]  Someone Like You
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+18925. All I Ask by Adele
+36171. Hometown Glory by Adele
+55539. Take It All by Adele
+56421. Remedy by Adele
+36915. Lovesong by Adele
+155346. Lost On You by Lewis Capaldi
+18684. Lay Me Down by Sam Smith, John Legend
+37333. Tenerife Sea by Ed Sheeran
+124590. when the party's over - Recorded at Spotify Studios NYC by Lewis Capaldi
+19048. ocean eyes by Billie Eilish
+
+Recomendation for :        artists                 name
+17830  [Adele]  Rolling in the Deep
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.1
+recall_at_10: 0.0333
+56119. Rolling In The Deep by Adele
+17824. Set Fire to the Rain by Adele
+36547. Rolling in the Deep by Adele
+37744. Water Under the Bridge by Adele
+106331. Cold Shoulder by Adele
+19733. Diamonds by Sam Smith
+140709. Diamonds by Sam Smith
+19488. Don't Start Now by Dua Lipa
+38284. South of the Border (feat. Camila Cabello & Cardi B) by Ed Sheeran, Camila Cabello, Cardi B
+57340. Don't Start Now by Dua Lipa
+
+Recomendation for :        artists     name
+18134  [Adele]  Skyfall
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+36760. One And Only by Adele
+91424. River Lea by Adele
+36209. Melt My Heart To Stone by Adele
+17894. Turning Tables by Adele
+107916. Love in the Dark by Adele
+18414. Stay With Me by Sam Smith
+18806. Train Wreck by James Arthur
+140527. Leaving My Love Behind by Lewis Capaldi
+19066. Happier by Ed Sheeran
+19445. Before You Go by Lewis Capaldi
+
+Recomendation for :        artists                name
+36742  [Adele]  Don't You Remember
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.1
+recall_at_10: 0.0333
+19023. Perfect by Ed Sheeran
+17312. Chasing Pavements by Adele
+17824. Set Fire to the Rain by Adele
+19498. Hold Me While You Wait by Lewis Capaldi
+18912. Hello by Adele
+56586. Million Years Ago by Adele
+57175. Hold Me While You Wait by Lewis Capaldi
+17830. Rolling in the Deep by Adele
+38138. Fire On Fire - From "Watership Down" by Sam Smith
+37874. I Don’t Wanna Live Forever (Fifty Shades Darker) by ZAYN, Taylor Swift
+
+Recomendation for :          artists   name
+140391  [Jungle]  Casio
+genre_precision_at_10: 0.4
+genre_recall_at_10: 0.0741
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+140390. Tieduprightnow by Parcels
+74517. Music Sounds Better with You by NEIL FRANCES
+19419. Sunday Best by Surfaces
+74550. On My Mind (Jorja Smith X Preditah) by Jorja Smith, Preditah
+92137. Be Honest (feat. Burna Boy) by Jorja Smith, Burna Boy
+74260. Bloom by bLAck pARty
+57114. What You Did (feat. Ella Mai) by Mahalia, Ella Mai
+170306. Dancing by bLAck pARty
+38546. Stuck In The Middle by Tai Verdes
+56274. Why iii Love The Moon. by Phony Ppl
+
+Recomendation for :              artists        name
+38493  [Tame Impala]  Borderline
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.3043
+precision_at_10: 0.0
+recall_at_10: 0.0
+18608. The Less I Know The Better by Tame Impala
+124670. Patience by Tame Impala
+18667. Let It Happen by Tame Impala
+55347. Solitude Is Bliss by Tame Impala
+140740. Breathe Deeper by Tame Impala
+155380. Shot In The Dark by AC/DC
+19641. Levitating (feat. DaBaby) by Dua Lipa, DaBaby
+155407. Shot In The Dark by AC/DC
+56849. Santa's Coming for Us by Sia
+18918. Cheap Thrills by Sia
+
+Recomendation for :               artists    name
+9417  [Frank Sinatra]  My Way
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1481
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+8685. My Kind Of Town by Frank Sinatra
+82156. All My Tomorrows by Frank Sinatra
+82216. Hallelujah, I Love Her So by Frank Sinatra
+7025. Hark! The Herald Angels Sing - Remastered by Frank Sinatra
+8663. It Was A Very Good Year by Frank Sinatra
+8035. Blue Velvet by Bobby Vinton
+6826. Mala Femmina by Jerry Vale
+7696. I Heard The Bells On Christmas Day by Bing Crosby, Ken Darby Singers
+7793. Is Christmas Only A Tree by Bing Crosby
+149693. I Won't Send Roses by Robert Goulet
+
+Recomendation for :              artists             name
+56021  [Jessie Ware]  Say You Love Me
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.0
+recall_at_10: 0.0
+56648. Your Shirt by Chelsea Cutler
+140331. Somebody by The Chainsmokers, Drew Love
+19149. Dusk Till Dawn - Radio Edit by ZAYN, Sia
+37781. Fragile by Kygo, Labrinth
+38055. Bad Liar by Imagine Dragons
+108136. Dusk Till Dawn (feat. Sia) - Radio Edit by ZAYN, Sia
+91889. You Are The Reason - Duet Version by Calum Scott, Leona Lewis
+37551. Love Me Like You Do - From "Fifty Shades Of Grey" by Ellie Goulding
+53963. Officially Missing You by Tamia
+55821. 400 Lux by Lorde
+
+Recomendation for :                  artists            name
+12994  [Ennio Morricone]  Gabriel's Oboe
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+51445. Main Title (The Godfather Waltz) by Nino Rota
+51413. Love Theme From "The Godfather" by Nino Rota
+35481. The Mission: Gabriel's Oboe by Ennio Morricone, Yo-Yo Ma, Roma Sinfonietta
+50582. The Mission by Ennio Morricone
+68431. Falls by Ennio Morricone
+149823. The New Godfather by Nino Rota
+70457. The Godfather: V. Love Theme by Nino Rota, Riccardo Muti, Milan La Scala Philharmonic Orchestra
+135102. The Halls Of Fear by Nino Rota
+152489. Giuseppe Tornatore Suite: Playing Love from "The Legend of 1900" by Ennio Morricone, Yo-Yo Ma, Roma Sinfonietta
+152478. Sergio Leone Suite: Deborah's Theme from "Once Upon a Time in America" by Ennio Morricone, Yo-Yo Ma, Roma Sinfonietta
+
+Recomendation for :             artists             name
+19616  [The Weeknd]  Blinding Lights
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+38467. Heartless by The Weeknd
+18768. In The Night by The Weeknd
+56470. Ordinary Life by The Weeknd
+74688. Hurt You by The Weeknd, Gesaffelstein
+140723. Snowchild by The Weeknd
+37705. Flashlight - From "Pitch Perfect 2" Soundtrack by Jessie J
+53437. This Is the Day by The The
+107473. Masterpiece by Jessie J
+124262. Shutter Island by Jessie Reyez
+18838. Love On The Brain by Rihanna
+
+Recomendation for :                  artists       name
+55101  [The Temper Trap]  Love Lost
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.1296
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1739
+precision_at_10: 0.1
+recall_at_10: 0.0333
+72892. Fader by The Temper Trap
+17459. Sweet Disposition by The Temper Trap
+153470. Sweet Disposition by The Temper Trap
+140157. Live in the Moment by Portugal. The Man
+16564. Evil by Interpol
+16878. Lazy Eye by Silversun Pickups
+36363. How You Like Me Now by The Heavy
+16487. Breathe Me by Sia
+89251. Indie Rokkers by MGMT
+155563. Through The Mists Of Time by AC/DC
+
+Recomendation for :                  artists               name
+17459  [The Temper Trap]  Sweet Disposition
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.1296
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.087
+precision_at_10: 0.1
+recall_at_10: 0.0333
+153470. Sweet Disposition by The Temper Trap
+56864. When You Die by MGMT
+18206. Sweater Weather by The Neighbourhood
+37952. Why Do You Feel So Down by Declan McKenna
+74965. 11 Minutes (with Halsey feat. Travis Barker) by YUNGBLUD, Halsey, Travis Barker
+72543. Of Moons, Birds & Monsters by MGMT
+108200. Bottom Of The Deep Blue Sea by MISSIO
+74665. Peach Pit by Peach Pit
+74452. Lost In The Wild by WALK THE MOON
+72892. Fader by The Temper Trap
+
+Recomendation for :             artists                  name
+37708  [Lord Huron]  Meet Me in the Woods
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.037
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1304
+precision_at_10: 0.0
+recall_at_10: 0.0
+107180. Time to Run by Lord Huron
+74161. Fool for Love by Lord Huron
+140751. Can I Believe You by Fleet Foxes
+37036. She Lit a Fire by Lord Huron
+73506. Hollywood Forever Cemetery Sings by Father John Misty
+73827. Song For Zula by Phosphorescent
+72902. Blue Skies by Noah And The Whale
+107402. Song for Zula by Phosphorescent
+170644. Sunblind by Fleet Foxes
+55708. Nancy From Now On by Father John Misty
+
+Recomendation for :        artists                 name
+32761  [Queen]  The Show Must Go On
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+11030. We Are The Champions - Remastered 2011 by Queen
+13893. The Show Must Go On - Remastered 2011 by Queen
+33711. Too Much Love Will Kill You - 2011 Remaster by Queen
+67895. It's A Hard Life by Queen
+14002. Who Wants To Live Forever - Remastered 2011 by Queen
+14040. Everybody Hurts by R.E.M.
+9809. Stairway to Heaven - Remaster by Led Zeppelin
+138443. This I Love by Guns N' Roses
+33256. Since I Don't Have You by Guns N' Roses
+10514. School by Supertramp
+
+Recomendation for :        artists                  name
+31488  [Queen]  I Want To Break Free
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1667
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+12500. Radio Ga Ga by Queen
+12497. I Want To Break Free - Remastered 2011 by Queen
+30821. I Want To Break Free - Single Version by Queen
+11933. Another One Bites The Dust by Queen
+30670. Another One Bites The Dust by Queen
+11850. Elvira by The Oak Ridge Boys
+11006. Dreams - 2004 Remaster by Fleetwood Mac
+12020. Eye of the Tiger by Survivor
+11648. Hey Nineteen by Steely Dan
+11234. Right Down the Line by Gerry Rafferty
+
+Recomendation for :                                             artists  \
+18290  [Daft Punk, Pharrell Williams, Nile Rodgers]   
+
+                                                    name  
+18290  Get Lucky (feat. Pharrell Williams & Nile Rodg...  
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.1111
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+18334. Get Lucky (feat. Pharrell Williams & Nile Rodgers) by Daft Punk, Pharrell Williams, Nile Rodgers
+37193. Lose Yourself to Dance (feat. Pharrell Williams) by Daft Punk, Pharrell Williams
+107410. Fragments of Time (feat. Todd Edwards) by Daft Punk, Todd Edwards
+34767. Face to Face by Daft Punk
+53593. Superheroes by Daft Punk
+154676. Tuesday (feat. Danelle Sandoval) by Burak Yeter, Danelle Sandoval
+15860. Lady - Hear Me Tonight by Modjo
+19655. Head & Heart (feat. MNEK) by Joel Corry, MNEK
+19535. Ride It by Regard
+89486. Rock This Party - Everybody Dance Now by Bob Sinclar, Cutee B., DollarMan, Big Ali, Makedah
+
+Recomendation for :                  artists         name
+12007  [Michael Jackson]  Billie Jean
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.1
+recall_at_10: 0.0333
+12017. P.Y.T. (Pretty Young Thing) by Michael Jackson
+52294. Billie Jean by Michael Jackson
+12012. Beat It by Michael Jackson
+30992. Baby Be Mine by Michael Jackson
+33586. Rock With You by Michael Jackson
+36680. I Need A Dollar by Aloe Blacc
+18293. Blurred Lines by Robin Thicke, T.I., Pharrell Williams
+19419. Sunday Best by Surfaces
+88310. Don't Mess With My Man by Lucy Pearl
+15869. Family Affair by Mary J. Blige
+
+Recomendation for :                         artists              name
+68153  [The Velvet Underground]  I Can't Stand It
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1739
+precision_at_10: 0.0
+recall_at_10: 0.0
+50376. Foggy Notion by The Velvet Underground
+85428. She's My Best Friend by The Velvet Underground
+13206. Gypsy by Fleetwood Mac
+118784. Manta Ray by Pixies
+32116. The One I Love by R.E.M.
+32222. Bone Machine by Pixies
+9652. Sweet Jane - Full Length Version; 2015 Remaster by The Velvet Underground
+13425. Here Comes Your Man by Pixies
+101762. Temptation Inside Your Heart by The Velvet Underground
+67848. So. Central Rain by R.E.M.
+
+Recomendation for :              artists              name
+16668  [James Blunt]  You're Beautiful
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1667
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.087
+precision_at_10: 0.1
+recall_at_10: 0.0333
+89260. You're Beautiful by James Blunt
+169606. We Can't Stop by Boyce Avenue, Bea Miller
+16931. Stop This Train by John Mayer
+122296. Carry You Home by James Blunt
+35510. True by Ryan Cabrera
+36359. Edge of Desire by John Mayer
+90641. Love Is A Verb by John Mayer
+19443. Memories by Maroon 5
+35850. I Don't Trust Myself (With Loving You) by John Mayer
+16606. Hey There Delilah by Plain White T's
+
+Recomendation for :             artists       name
+13448  [Elton John]  Sacrifice
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0926
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1304
+precision_at_10: 0.1
+recall_at_10: 0.0333
+134791. Sacrifice by Elton John
+10276. Candle In The Wind - Remastered 2014 by Elton John
+10393. Candle In The Wind - Remastered 2014 by Elton John
+13302. Second Chance by 38 Special
+12020. Eye of the Tiger by Survivor
+12079. Do You Really Want To Hurt Me by Culture Club
+13010. Everywhere - 2017 Remaster by Fleetwood Mac
+12857. Stuck With You by Huey Lewis & The News
+15032. Hungry Eyes - From "Dirty Dancing" Soundtrack by Eric Carmen
+33002. Human Touch by Bruce Springsteen
+
+Recomendation for :              artists                   name
+50689  [Luis Miguel]  Yo Que No Vivo Sin Ti
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1667
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+32739. Usted by Luis Miguel
+13232. La Incondicional by Luis Miguel
+87012. Todo Y Nada by Luis Miguel
+32750. La Barca by Luis Miguel
+54227. Sabes Una Cosa by Luis Miguel
+35335. Solo Quédate En Silencio by RBD, Anahí, Dulce María, Maite Perroni, Christian Chávez, Christopher von Uckermann, Alfonso Herrera
+67029. La Culpa Ha Sido Mía by Camilo Sesto
+11754. Perdóname by Camilo Sesto
+106618. Sueños Compartidos by Laureano Brizuela
+132844. Has Nacido Libre by Camilo Sesto
+
+Recomendation for :             artists  name
+17836  [AWOLNATION]  Sail
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0926
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0435
+precision_at_10: 0.0
+recall_at_10: 0.0
+139847. Hollow Moon (Bad Wolf) by AWOLNATION
+75218. NITROUS by Joji
+169697. Her Life by Two Feet
+14866. I Love You Always Forever by Donna Lewis
+73733. It's Only Sex by Car Seat Headrest
+90103. A New Error by Moderat
+74589. Moon (And It Went Like) by Kid Francescoli
+53857. The Package by A Perfect Circle
+16878. Lazy Eye by Silversun Pickups
+72105. Kissing Families by Silversun Pickups
+
+Recomendation for :                  artists      name
+19020  [Imagine Dragons]  Believer
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+19087. Whatever It Takes by Imagine Dragons
+56237. Past Lives by BØRNS
+18606. Electric Love by BØRNS
+18086. On Top Of The World by Imagine Dragons
+18055. It's Time by Imagine Dragons
+56321. Shots - Broiler Remix by Imagine Dragons, Broiler
+108179. Okay by Chase Atlantic
+124740. survivin' by Bastille
+55754. On Top Of The World by Imagine Dragons
+18422. Sugar by Maroon 5
+
+Recomendation for :       artists        name
+18689   [Sia]  Chandelier
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+37525. Elastic Heart by Sia
+154182. Elastic Heart - From "The Hunger Games: Catching Fire" Soundtrack by Sia, The Weeknd, Diplo
+74404. Alive by Sia
+56849. Santa's Coming for Us by Sia
+170161. Candy Cane Lane by Sia
+36746. You And I by Lady Gaga
+19777. Kings & Queens by Ava Max
+19719. Heart Of Glass (Live from the iHeart Festival) by Miley Cyrus
+17606. Just the Way You Are by Bruno Mars
+107009. You And I by Lady Gaga
+
+Recomendation for :                    artists             name
+17807  [Foster The People]  Pumped Up Kicks
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2174
+precision_at_10: 0.0
+recall_at_10: 0.0
+55493. Waste by Foster The People
+17992. Helena Beat by Foster The People
+91067. Best Friend by Foster The People
+74779. Do It All The Time by I DONT KNOW HOW BUT THEY FOUND ME
+36738. Don't Stop (Color on the Walls) by Foster The People
+17982. Houdini by Foster The People
+37828. Brazil by Declan McKenna
+57188. still feel. by half•alive
+38350. Scrawny by Wallows
+15848. Short Skirt / Long Jacket by Cake
+
+Recomendation for :               artists               name
+19045  [Harry Styles]  Sign of the Times
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1852
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1304
+precision_at_10: 0.1
+recall_at_10: 0.0333
+74599. Sign of the Times by Harry Styles
+19630. pov by Ariana Grande
+18442. One Last Time by Ariana Grande
+19517. Lights Up by Harry Styles
+18477. Love Me Harder by Ariana Grande, The Weeknd
+19417. Golden by Harry Styles
+57395. pov by Ariana Grande
+19671. safety net (feat. Ty Dolla $ign) by Ariana Grande, Ty Dolla $ign
+37944. Again (feat. XXXTENTACION) by Noah Cyrus, XXXTENTACION
+17998. Determinate - From "Lemonade Mouth" by Adam Hicks, Bridgit Mendler, Naomi Scott, Hayley Kiyoko
+
+user                      : user_7
+genre_precision_at_10     : 0.84
+genre_recall_at_10        : 0.1556
+artist_precision_at_10    : 0.3933
+artist_recall_at_10       : 0.171
+precision_at_10           : 0.0333
+recall_at_10              : 0.0111

@@ -1,0 +1,672 @@
+Recomendation for :         artists        name
+70310  [Burzum]  Dunkelheit
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0286
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0833
+precision_at_10: 0.0
+recall_at_10: 0.0
+136111. Erblicket Die Tochter Des Firmaments by Burzum
+104038. Jesus' Tod by Burzum
+74499. Summer Rain 2 by Lush Rain Creators
+124598. Soft Thunder by Sounds of Nature Noise
+91979. Rain Storm by Sounds of Nature Noise
+169924. Breeze Rain by Decidic FX
+56699. Forest Thunderstorm by Weather Factory
+107036. Beach Dr. by Oddisee
+56690. Thunderstorm By The Waterfall by Thunderstorm Sound Bank
+169183. Fehu by Wardruna
+
+Recomendation for :                    artists                                     name
+27914  [Adriano Celentano]  Il Ragazzo Della Via Gluck - Remastered
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0286
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0417
+precision_at_10: 0.0
+recall_at_10: 0.0
+101461. Vita spericolata by Vasco Rossi
+27333. Sapore di sale by Gino Paoli
+147956. Bandiera Bianca - Remastered by Franco Battiato
+132843. Quanno Chiove - Remastered 2008 by Pino Daniele
+162287. Ci penserò domani - Remastered by Pooh
+101456. Una canzone per te by Vasco Rossi
+116634. Albachiara - Remastered 2019 by Vasco Rossi
+115373. Piccolo uomo by Mia Martini
+64271. Mi sei scoppiato dentro il cuore by Mina
+67332. Centro Di Gravità Permanente - Remastered by Franco Battiato
+
+Recomendation for :               artists                                               name
+147253  [John Denver]  Take Me Home, Country Roads - Live at the Sydn...
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+10019. Rocky Mountain High by John Denver
+29576. Fly Away by John Denver
+33427. Hotel California - Live On MTV, 1994 by Eagles
+29606. Thank God I'm a Country Boy - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974 by John Denver
+83325. Poems, Prayers and Promises - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974 by John Denver
+70437. Will You Still Love Me Tomorrow (with James Taylor) - Live by Carole King, James Taylor
+135934. Shanghai Breezes - Live 1995 by John Denver
+33210. Up On The Roof by James Taylor
+14055. Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster by Eric Clapton
+10614. Feel like Makin' Love - 2015 Remaster by Bad Company
+
+Recomendation for :                 artists                                   name
+8060  [Françoise Hardy]  Tous les garçons et les filles - Slow
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0286
+27024. J'ai jeté mon coeur by Françoise Hardy
+26981. Oh oh chéri by Françoise Hardy
+8036. Le temps de l'amour - Fox Medium by Françoise Hardy
+27114. Je suis d'accord - Twist by Françoise Hardy
+27078. Ca a raté by Françoise Hardy
+135288. Boum ! by Charles Trenet
+130593. Le petit pain au chocolat by Joe Dassin
+9516. Les Champs-Elysées by Joe Dassin
+82061. L'eau à la bouche - BOF "L'eau à la bouche" by Serge Gainsbourg
+130659. La bande a bonnot by Joe Dassin
+
+Recomendation for :                 artists                                         name
+9300  [Françoise Hardy]  Comment te dire adieu - Remasterisé en 2016
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.2
+recall_at_10: 0.0571
+8060. Tous les garçons et les filles - Slow by Françoise Hardy
+27024. J'ai jeté mon coeur by Françoise Hardy
+26981. Oh oh chéri by Françoise Hardy
+100973. Résiste - Remasterisé en 2004 by France Gall
+66307. A toi by Joe Dassin
+27114. Je suis d'accord - Twist by Françoise Hardy
+84403. Il jouait du piano debout - Remasterisé en 2004 by France Gall
+8036. Le temps de l'amour - Fox Medium by Françoise Hardy
+149407. Sans contrefaçon - Girl Remix by Mylène Farmer
+132116. Sur la route de Memphis by Eddy Mitchell
+
+Recomendation for :                  artists         name
+26981  [Françoise Hardy]  Oh oh chéri
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.2
+recall_at_10: 0.0571
+8060. Tous les garçons et les filles - Slow by Françoise Hardy
+27024. J'ai jeté mon coeur by Françoise Hardy
+27114. Je suis d'accord - Twist by Françoise Hardy
+9300. Comment te dire adieu - Remasterisé en 2016 by Françoise Hardy
+27111. On se plaît by Françoise Hardy
+135288. Boum ! by Charles Trenet
+9516. Les Champs-Elysées by Joe Dassin
+130593. Le petit pain au chocolat by Joe Dassin
+82061. L'eau à la bouche - BOF "L'eau à la bouche" by Serge Gainsbourg
+130659. La bande a bonnot by Joe Dassin
+
+Recomendation for :                artists              name
+147546  [Toto Cutugno]  Donna, donna mia
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0833
+precision_at_10: 0.1
+recall_at_10: 0.0286
+116457. Generale by Francesco De Gregori
+27333. Sapore di sale by Gino Paoli
+52531. L'appuntamento by Ornella Vanoni
+132728. Soli by Toto Cutugno
+98686. 4/3/1943 by Lucio Dalla
+133350. Voglio Vederti Danzare - Remastered by Franco Battiato
+114876. La guerra di Piero by Fabrizio De André
+118125. Buonanotte by Toto Cutugno
+134802. Te vi llorando by Marco Antonio Vázquez
+147650. Cara by Lucio Dalla
+
+Recomendation for :                artists  name
+132728  [Toto Cutugno]  Soli
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0833
+precision_at_10: 0.1
+recall_at_10: 0.0286
+115373. Piccolo uomo by Mia Martini
+101461. Vita spericolata by Vasco Rossi
+132395. E tu come stai? by Claudio Baglioni
+164243. Ricordati di me by Antonello Venditti
+100231. Aida by Rino Gaetano
+147546. Donna, donna mia by Toto Cutugno
+116634. Albachiara - Remastered 2019 by Vasco Rossi
+133203. Ogni volta by Vasco Rossi
+102291. Perdere l'amore by Massimo Ranieri
+116457. Generale by Francesco De Gregori
+
+Recomendation for :               artists      name
+67811  [Toto Cutugno]  Solo noi
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0286
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0833
+precision_at_10: 0.1
+recall_at_10: 0.0286
+132395. E tu come stai? by Claudio Baglioni
+85268. Notte prima degli esami by Antonello Venditti
+102291. Perdere l'amore by Massimo Ranieri
+116934. Norma, Act I: "Casta diva" by Vincenzo Bellini, Leontyne Price, Henry Lewis
+70498. 'O sole mio by Luciano Pavarotti, National Philharmonic Orchestra, Giancarlo Chiaramello
+150612. Ipo Lei Manu by Cyril Pahinui
+148049. La leva calcistica della classe '68 by Francesco De Gregori
+131412. Un giorno credi by Edoardo Bennato
+131167. I giardini di marzo by Lucio Battisti
+68266. Caruso by Lucio Dalla
+
+Recomendation for :       artists      name
+10427  [ABBA]  Waterloo
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.1
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0286
+29798. When I Kissed The Teacher by ABBA
+29367. Waterloo by ABBA
+48451. That's Me by ABBA
+10503. Honey, Honey by ABBA
+100002. Tiger by ABBA
+10219. Hooked on a Feeling by Blue Swede, Björn Skifs
+16409. American Idiot by Green Day
+8221. Love Me Do - Remastered 2009 by The Beatles
+48851. Khe Sanh - 2011 Remastered by Cold Chisel
+9626. Lola - Coca Cola Version by The Kinks
+
+Recomendation for :       artists            name
+30650  [ABBA]  Happy New Year
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+86950. Felicidad by ABBA
+11985. Slipping Through My Fingers by ABBA
+29901. My Love, My Life by ABBA
+132260. I Wonder (Departure) by ABBA
+19048. ocean eyes by Billie Eilish
+16009. The Scientist by Coldplay
+12534. Suddenly by Billy Ocean
+17840. Skinny Love by Birdy
+18421. Jealous by Labrinth
+14245. Hero by Mariah Carey
+
+Recomendation for :                  artists         name
+8515  [Charles Aznavour]  Hier encore
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2917
+precision_at_10: 0.0
+recall_at_10: 0.0
+45448. L'amour et la guerre by Charles Aznavour
+8595. Que c'est triste Venise by Charles Aznavour
+64350. Paris au mois d'août by Charles Aznavour
+45717. Trousse chemise by Charles Aznavour
+45459. Comme des étrangers by Charles Aznavour
+51768. La mer by Charles Trenet
+51378. La mer by Charles Trenet
+82040. À quoi ça sert - Remasterisé en 2016 by Françoise Hardy
+46159. Plein soleil by Gilbert Bécaud
+145769. Ma jeunesse fout le camp by Françoise Hardy
+
+Recomendation for :               artists                                      name
+95459  [Yves Montand]  A Paris - Récital au Théâtre de L'etoile
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+6753. Jézébel by Charles Aznavour
+27338. Nathalie by Gilbert Bécaud
+51768. La mer by Charles Trenet
+51378. La mer by Charles Trenet
+26730. Il faut savoir by Charles Aznavour
+26623. Tu t'laisses aller by Charles Aznavour
+27962. Emmenez-moi by Charles Aznavour
+27093. L'amour c'est comme un jour by Charles Aznavour
+86677. Douce France by Charles Trenet
+118884. Douce France by Charles Trenet
+
+Recomendation for :        artists                               name
+132173  [Pooh]  Dammi Solo un Minuto - Remastered
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0429
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0417
+precision_at_10: 0.1
+recall_at_10: 0.0286
+167421. Dile A Ella by Magnate Y Valentino
+130854. Acqua azzurra, acqua chiara by Lucio Battisti
+83603. Margherita by Riccardo Cocciante
+131712. Tre settimane da raccontare by Fred Bongusto
+107811. Runnin' (Lose It All) by Naughty Boy, Beyoncé, Arrow Benjamin
+117151. Summer On A Solitary Beach - 2008 Remaster by Franco Battiato
+101456. Una canzone per te by Vasco Rossi
+15026. Flagpole Sitta by Harvey Danger
+145957. Tanta voglia di lei - 2014 Remaster by Pooh
+151348. Belle by Patrick Fiori, Garou, Daniel Lavoie
+
+Recomendation for :        artists                                 name
+145957  [Pooh]  Tanta voglia di lei - 2014 Remaster
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.0143
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0417
+precision_at_10: 0.1
+recall_at_10: 0.0286
+114664. Un'avventura by Lucio Battisti
+133203. Ogni volta by Vasco Rossi
+65866. Cuerpo Sin Alma by Riccardo Cocciante
+102291. Perdere l'amore by Massimo Ranieri
+65861. Bella senz'anima by Riccardo Cocciante
+161178. La mente vola by Alphataurus
+27872. Se telefonando by Mina
+132395. E tu come stai? by Claudio Baglioni
+67811. Solo noi by Toto Cutugno
+117952. Bestial Invasion by Destruction
+
+Recomendation for :                   artists                 name
+120374  [Ricchi E Poveri]  Sara' Perche Ti Amo
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1143
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0417
+precision_at_10: 0.0
+recall_at_10: 0.0
+16806. Last Christmas - Remastered by Wham!
+14811. Wannabe by Spice Girls
+38426. Se Te Nota (with Guaynaa) by Lele Pons, Guaynaa
+121079. Don't Stop Movin' by S Club 7
+14474. Mamma Mia by ABBA
+18062. Treasure by Bruno Mars
+18624. Uptown Funk (feat. Bruno Mars) by Mark Ronson, Bruno Mars
+13860. The Best - Edit by Tina Turner
+17468. Stuck In The Middle With You by Stealers Wheel
+19483. Sucker by Jonas Brothers
+
+Recomendation for :                artists        name
+12467  [Leonard Cohen]  Hallelujah
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+46662. Stories of the Street by Leonard Cohen
+33510. Lilac Wine by Jeff Buckley
+133674. Night Comes On by Leonard Cohen
+9205. Hey, That's No Way to Say Goodbye by Leonard Cohen
+51633. Smells Like Teen Spirit - 2015 Remaster by Tori Amos
+67923. If It Be Your Will by Leonard Cohen
+33454. Mama, You Been on My Mind - Studio Outtake - 1993 by Jeff Buckley
+82200. The Old Revolution by Leonard Cohen
+104232. Full of Grace by Sarah McLachlan
+11031. She's Always a Woman by Billy Joel
+
+Recomendation for :              artists                  name
+16116  [Johnny Cash]  The Man Comes Around
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.0143
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+121259. A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969 by Johnny Cash
+9244. Cocaine Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968 by Johnny Cash
+9311. Busted - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968 by Johnny Cash
+9218. Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 by Johnny Cash
+121250. Folsom Prison Blues - Live by Johnny Cash
+139449. Overtime by Cash Cash
+71161. Rainbow Stew by Merle Haggard
+74191. Sometimes I Cry by Chris Stapleton
+17179. Oklahoma Breakdown by Stoney LaRue
+15891. Boys From Oklahoma by Cross Canadian Ragweed
+
+Recomendation for :                      artists                      name
+132435  [Antonello Venditti]  Sotto Il Segno Dei Pesci
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+100231. Aida by Rino Gaetano
+130782. Mi ritorni in mente by Lucio Battisti
+116634. Albachiara - Remastered 2019 by Vasco Rossi
+160695. Dieci ragazze by Lucio Battisti
+83670. Sfiorivano le viole by Rino Gaetano
+116824. Je So' Pazzo - Remastered 2008 by Pino Daniele
+101456. Una canzone per te by Vasco Rossi
+84025. Pensiero stupendo by Patty Pravo
+115373. Piccolo uomo by Mia Martini
+147039. Amarsi un po' by Lucio Battisti
+
+Recomendation for :            artists          name
+34727  [Manu Chao]  Me Gustas Tu
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1286
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.0
+recall_at_10: 0.0
+70726. Desaparecido by Manu Chao
+151973. Mr Bobby by Manu Chao
+70813. Je ne t'aime plus by Manu Chao
+34277. Bongo Bong by Manu Chao
+136534. Welcome to Tijuana by Manu Chao
+55613. Inolvidable by Jenni Rivera
+89539. Señora De Madrugada by Tito Rojas
+88692. Por Eso Está Conmigo by Johnny Rivera
+75189. Nada by Cali Y El Dandee, Danna Paola
+168004. Ella se Hizo Deseo by Tito Rojas
+
+Recomendation for :         artists               name
+16132  [O-Zone]  Dragostea Din Tei
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0286
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+56812. Girls In Bikinis by Poppy
+120715. Best Friend by Toy-Box
+103985. Wahnsinn by Wolfgang Petry
+139856. Drank & Drugs by Lil Kleine, Ronnie Flex
+18419. Best Day Of My Life by American Authors
+17508. Beggin' by Madcon
+15880. Die MF Die by Dope
+108006. Go Big Or Go Home by American Authors
+169733. What We Live For by American Authors
+169002. One Day / Reckoning Song (Wankelmut Remix) - Radio Edit by Asaf Avidan, The Mojos, Wankelmut
+
+Recomendation for :             artists         name
+10920  [Peter Tosh]  Legalize It
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0286
+49628. Sensee Party by Eek-A-Mouse
+29724. Legalize It by Peter Tosh
+11160. I Am That I Am by Peter Tosh
+29979. Get Up, Stand Up by Peter Tosh
+30079. Downpressor Man by Peter Tosh
+50987. Bush Doctor by Peter Tosh
+68043. Not King James Version by Steel Pulse
+11775. Sinsemilla by Black Uhuru
+31451. Ku Klux Klan by Steel Pulse
+36613. Sweat (A La La La La Long) by Inner Circle
+
+Recomendation for :                           artists             name
+12238  [Bob Marley & The Wailers]  Buffalo Soldier
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0286
+11029. Jamming by Bob Marley & The Wailers
+11510. One Drop by Bob Marley & The Wailers
+34928. Buffalo Soldier by Bob Marley & The Wailers
+35049. Jamming by Bob Marley & The Wailers
+10398. Burnin' And Lootin' by The Wailers
+50146. Buffalo Soldier by Bob Marley & The Wailers
+10307. I Shot The Sheriff by The Wailers
+34941. Get Up, Stand Up by The Wailers
+35011. I Shot The Sheriff by The Wailers
+29147. Small Axe by The Wailers
+
+Recomendation for :                                                  artists         name
+70498  [Luciano Pavarotti, National Philharmonic Orch...  'O sole mio
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1143
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1667
+precision_at_10: 0.0
+recall_at_10: 0.0
+33979. Rigoletto / Act 3: "La donna è mobile" by Luciano Pavarotti, London Symphony Orchestra, Richard Bonynge
+166085. Volare by Luciano Pavarotti, Orchestra del Teatro Comunale di Bologna, Henry Mancini
+87680. Caruso by Luciano Pavarotti
+151177. Pagliacci / Act 1: "Recitar!...Vesti la giubba" by Luciano Pavarotti, National Philharmonic Orchestra, Giuseppe Patanè
+103524. Mass In C, K.317 "Coronation": 2. Gloria by Wolfgang Amadeus Mozart, Barbara Bonney, Catherine Wyn-Rogers, Jamie MacDougall, Stephen Gadd, The English Concert, Trevor Pinnock, The English Concert Choir
+32078. Requiem in D minor, K.626: 3. Sequentia: Dies irae by Wolfgang Amadeus Mozart, The Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner
+31981. Requiem in D minor, K.626: 3. Sequentia: Lacrimosa by Wolfgang Amadeus Mozart, The Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner
+69410. Primo amore by Carlo Buti
+86096. Vivaldi: Violin Concerto in G Minor, RV 315 "L'estate" (No. 2 from "Il cimento dell'armonia e dell'inventione", Op. 8): I. Allegro by Antonio Vivaldi, Nigel Kennedy, English Chamber Orchestra
+122032. Fly by Ludovico Einaudi
+
+Recomendation for :                   artists              name
+129705  [Reshid Behbudov]  Nazende Sevgilim
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+5313. Kalamış by Münir Nurettin Selçuk
+118091. Öyle Bir Yerdeyim ki by Selda Bağcan, Ahmet Kaya
+35102. Devi Prayer by Craig Pruess & Ananda
+140659. Lyrebird by Keira Conlon
+108661. Trayi by William Edessa
+161527. Duydum Ki Unutmuşsun by Emel Sayın
+62157. Beni Kör Kuyularda by Münir Nurettin Selçuk
+162456. Çayelinden Öteye/Yali Yali by Neşe Karaböcek
+145743. Moonbird by De Wolfe Music
+161682. Unutama Beni by Esmeray
+
+Recomendation for :            artists                                  name
+12517  [Metallica]  For Whom The Bell Tolls (Remastered)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2917
+precision_at_10: 0.1
+recall_at_10: 0.0286
+12419. For Whom The Bell Tolls (Remastered) by Metallica
+14910. King Nothing by Metallica
+13842. Wherever I May Roam by Metallica
+13996. My Friend Of Misery by Metallica
+34585. I Disappear by Metallica
+13671. Tornado Of Souls - Remastered 2004 by Megadeth
+12815. The Final Countdown by Europe
+13817. Knockin' On Heaven's Door by Guns N' Roses
+13615. Cowboys from Hell by Pantera
+118863. Expendable Youth by Slayer
+
+Recomendation for :            artists                        name
+12547  [Metallica]  Fade To Black (Remastered)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.8
+artist_recall_at_10: 0.3333
+precision_at_10: 0.2
+recall_at_10: 0.0571
+12432. Fade To Black (Remastered) by Metallica
+12466. Creeping Death (Remastered) by Metallica
+12597. Creeping Death (Remastered) by Metallica
+12867. Welcome Home (Sanitarium) (Remastered) by Metallica
+12488. Ride The Lightning (Remastered) by Metallica
+13345. In My Darkest Hour - Remastered by Megadeth
+12826. Raining Blood by Slayer
+12874. Angel Of Death by Slayer
+13615. Cowboys from Hell by Pantera
+13009. Paradise City by Guns N' Roses
+
+Recomendation for :                 artists                     name
+12416  [Twisted Sister]  We're Not Gonna Take It
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+32147. Your Mama Don't Dance by Poison
+10613. Rock And Roll All Nite by KISS
+10447. Strutter by KISS
+32631. Shelter Me by Cinderella
+135088. Get the Fuck Out by Skid Row
+11114. Love Gun by KISS
+102277. Back To The Rocking Horse by Poison
+51080. Sweet Little Sister by Skid Row
+12254. Looks That Kill by Mötley Crüe
+14836. Cum on Feel the Noize by Quiet Riot
+
+Recomendation for :            artists                  name
+13810  [Metallica]  Nothing Else Matters
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1143
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.0833
+precision_at_10: 0.1
+recall_at_10: 0.0286
+13820. The Unforgiven by Metallica
+120506. Loverman by Metallica
+69585. Every Time I Look At You by KISS
+13440. How Am I Supposed to Live Without You by Michael Bolton
+33085. Love Is on the Way by Saigon Kick
+13666. Love of a Lifetime by Firehouse
+13621. Wind Of Change by Scorpions
+13452. Heaven by Warrant
+13122. Rock Me by Great White
+13850. Don't Cry (Original) by Guns N' Roses
+
+Recomendation for :            artists            name
+13820  [Metallica]  The Unforgiven
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.2
+recall_at_10: 0.0571
+13810. Nothing Else Matters by Metallica
+13842. Wherever I May Roam by Metallica
+15284. Turn The Page by Metallica
+120506. Loverman by Metallica
+12419. For Whom The Bell Tolls (Remastered) by Metallica
+13850. Don't Cry (Original) by Guns N' Roses
+13817. Knockin' On Heaven's Door by Guns N' Roses
+69905. Tears of the Dragon - 2001 Remastered Version by Bruce Dickinson
+165344. In the Middle of a Heartbeat by Helloween
+13452. Heaven by Warrant
+
+Recomendation for :         artists           name
+12826  [Slayer]  Raining Blood
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.8
+artist_recall_at_10: 0.3333
+precision_at_10: 0.1
+recall_at_10: 0.0286
+12874. Angel Of Death by Slayer
+51303. War Ensemble by Slayer
+31862. Jesus Saves by Slayer
+12376. Black Magic by Slayer
+32683. Dead Skin Mask by Slayer
+12466. Creeping Death (Remastered) by Metallica
+13345. In My Darkest Hour - Remastered by Megadeth
+13184. Caught In A Mosh by Anthrax
+12432. Fade To Black (Remastered) by Metallica
+12597. Creeping Death (Remastered) by Metallica
+
+Recomendation for :         artists              name
+50021  [Slayer]  Chemical Warfare
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2917
+precision_at_10: 0.2
+recall_at_10: 0.0571
+12826. Raining Blood by Slayer
+32683. Dead Skin Mask by Slayer
+51303. War Ensemble by Slayer
+13795. Dead Skin Mask by Slayer
+32535. War Ensemble by Slayer
+13184. Caught In A Mosh by Anthrax
+12432. Fade To Black (Remastered) by Metallica
+118902. Belly Of The Beast by Anthrax
+13345. In My Darkest Hour - Remastered by Megadeth
+52461. 10's by Pantera
+
+Recomendation for :          artists  name
+14013  [Pantera]  Walk
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1429
+artist_precision_at_10: 0.7
+artist_recall_at_10: 0.2917
+precision_at_10: 0.0
+recall_at_10: 0.0
+13654. Domination by Pantera
+13615. Cowboys from Hell by Pantera
+14129. Mouth for War by Pantera
+13608. Man in the Box by Alice In Chains
+52000. Becoming by Pantera
+13807. Enter Sandman by Metallica
+33784. Hero Of The Day by Metallica
+103606. 25 Years by Pantera
+14462. No Excuses by Alice In Chains
+14016. Would? by Alice In Chains
+
+Recomendation for :                   artists        name
+15810  [System Of A Down]  Chop Suey!
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.2
+recall_at_10: 0.0571
+34722. Chop Suey! by System Of A Down
+15814. Toxicity by System Of A Down
+16750. Land of Confusion by Disturbed
+15898. Prison Song by System Of A Down
+16713. Hypnotize by System Of A Down
+16743. Ten Thousand Fists by Disturbed
+35649. Attack by System Of A Down
+105669. Guarded by Disturbed
+16644. Stricken by Disturbed
+36607. Warrior by Disturbed
+
+Recomendation for :                   artists       name
+16713  [System Of A Down]  Hypnotize
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.2083
+precision_at_10: 0.1
+recall_at_10: 0.0286
+15810. Chop Suey! by System Of A Down
+35577. Holy Mountains by System Of A Down
+35576. Soldier Side by System Of A Down
+34972. Mr. Jack by System Of A Down
+35649. Attack by System Of A Down
+16644. Stricken by Disturbed
+119981. Eyes of the South by DOWN
+91767. Under Your Scars by Godsmack
+36545. So Far Away by Avenged Sevenfold
+16220. I Stand Alone by Godsmack
+
+user                      : user_2
+genre_precision_at_10     : 0.6371
+genre_recall_at_10        : 0.091
+artist_precision_at_10    : 0.3886
+artist_recall_at_10       : 0.1619
+precision_at_10           : 0.0714
+recall_at_10              : 0.0204

@@ -1,0 +1,580 @@
+Recomendation for :                artists      name
+17491  [Justin Bieber]  One Time
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+18122. Beauty And A Beat by Justin Bieber, Nicki Minaj
+37015. Beauty And A Beat by Justin Bieber, Nicki Minaj
+140769. Come Around Me by Justin Bieber
+73481. All Around The World by Justin Bieber, Ludacris
+90332. Up by Justin Bieber
+19610. positions by Ariana Grande
+74856. Treat People With Kindness by Harry Styles
+17853. What the Hell by Avril Lavigne
+19603. Sunflower, Vol. 6 by Harry Styles
+19637. motive (with Doja Cat) by Ariana Grande, Doja Cat
+
+Recomendation for :                artists              name
+17730  [Justin Bieber]  Somebody To Love
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+17600. Love Me by Justin Bieber
+74628. Friends (with BloodPop®) by Justin Bieber, BloodPop®
+17989. Never Say Never by Justin Bieber, Jaden
+18163. As Long As You Love Me by Justin Bieber, Big Sean
+107859. Been You by Justin Bieber
+19637. motive (with Doja Cat) by Ariana Grande, Doja Cat
+19306. Mine by Bazzi
+140726. NOW by Olivia O'Brien
+19299. no tears left to cry by Ariana Grande
+57162. bloodline by Ariana Grande
+
+Recomendation for :        artists      name
+50264  [Sting]  Russians
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.1176
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.3
+precision_at_10: 0.0
+recall_at_10: 0.0
+31715. Moon Over Bourbon Street by Sting
+68498. Sister Moon by Sting
+13167. Fragile by Sting
+163921. The Secret Marriage by Sting
+101860. Children's Crusade by Sting
+31517. The Power Of Love by Frankie Goes To Hollywood
+32103. Could've Been by Tiffany, George Tobin, Bill Smith
+50201. Love Theme from St. Elmo's Fire (For Just a Moment) by David Foster
+31765. The Best of Me by David Foster
+30970. Blue Eyes - Remastered 2003 by Elton John
+
+Recomendation for :              artists                        name
+50801  [The Beatles]  Hey Jude - Remastered 2009
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.1
+recall_at_10: 0.0333
+15622. Hey Jude - Remastered 2015 by The Beatles
+10266. Hey Jude - Remastered 2009 by The Beatles
+9436. Oh! Darling - Remastered 2009 by The Beatles
+28524. I Me Mine - Remastered 2009 by The Beatles
+28474. Only A Northern Song - Remastered 2009 by The Beatles
+49170. The Tears of a Clown by The Beat
+9846. L.A. Woman by The Doors
+11606. Back In Black by AC/DC
+15206. Iris by The Goo Goo Dolls
+10220. Band On The Run - Remastered 2010 by Wings
+
+Recomendation for :        artists                              name
+52026  [Oasis]  Half The World Away - Remastered
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+34951. Stop Crying Your Heart Out by Oasis
+137245. Little By Little by Oasis
+87960. The Masterplan by Oasis
+34864. Feeling Good by Muse
+52638. Don't Go Away - Remastered by Oasis
+71909. Butterflies and Hurricanes by Muse
+16471. O Children by Nick Cave & The Bad Seeds
+167743. My List by The Killers
+70120. Hello by Oasis
+18790. Friends by Chase Atlantic
+
+Recomendation for :              artists name
+66550  [Sex Pistols]  EMI
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+11126. God Save the Queen by Sex Pistols
+29921. Pretty Vacant by Sex Pistols
+11086. Anarchy in the U.K. by Sex Pistols
+83854. No Future - God Save the Queen by Sex Pistols
+118764. I Wanna Be Me by Sex Pistols
+11873. Crimson and Clover by Joan Jett & The Blackhearts
+16415. I'm Not Okay (I Promise) by My Chemical Romance
+48869. Kiss Me Deadly - 2002 Remaster by Generation X
+10615. Born to Run by Bruce Springsteen
+11833. Bad Reputation by Joan Jett & The Blackhearts
+
+Recomendation for :                     artists               name
+66692  [The Rolling Stones]  Lies - Remastered
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.3
+precision_at_10: 0.0
+recall_at_10: 0.0
+8733. The Last Time - Mono Version by The Rolling Stones
+28801. Sway - 2009 Mix by The Rolling Stones
+29117. All Down The Line by The Rolling Stones
+99280. Silver Train - Remastered by The Rolling Stones
+29273. 100 Years Ago - Remastered by The Rolling Stones
+9242. Helter Skelter - Remastered 2009 by The Beatles
+35130. 12:51 by The Strokes
+11846. For Those About to Rock (We Salute You) by AC/DC
+13168. Surfing with the Alien by Joe Satriani
+51188. Mean Man by W.A.S.P.
+
+Recomendation for :              artists                        name
+67718  [Duran Duran]  The Reflex - 2010 Remaster
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+15305. Hungry Like the Wolf by Duran Duran
+12015. Hungry Like the Wolf - 2009 Remaster by Duran Duran
+12358. The Reflex - Single Version; 2010 Remaster by Duran Duran
+12064. Rio - 2009 Remaster by Duran Duran
+30847. Planet Earth - 2010 Remaster by Duran Duran
+31556. Get It On (Bang a Gong) - 2005 Remaster by The Power Station
+32151. Love Changes (Everything) by Climie Fisher
+12919. Don't Leave Me This Way (with Sarah Jane Morris) by The Communards, Sarah Jane Morris
+101692. If I Was by Midge Ure
+31617. Some Like It Hot - 2005 Remaster by The Power Station
+
+Recomendation for :       artists   name
+67857  [Sade]  Sally
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.1373
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+53265. King of Sorrow by Sade
+32278. Clean Heart by Sade
+52018. Cherish the Day by Sade
+31437. Frankie's First Affair by Sade
+90412. Cherish the Day - Remastered by Sade
+53966. What Is It About Men by Amy Winehouse
+16813. Put Your Records On by Corinne Bailey Rae
+13450. If You Don't Know Me by Now - 2008 Remaster by Simply Red
+167235. You Sent Me Flying by Amy Winehouse
+17061. Valerie - Live At BBC Radio 1 Live Lounge, London / 2007 by Amy Winehouse
+
+Recomendation for :                artists                      name
+82033  [Stevie Wonder]  I Wanna Make Her Love Me
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+9607. Signed, Sealed, Delivered (I'm Yours) by Stevie Wonder
+11729. Happy Birthday by Stevie Wonder
+10083. Superstition by Stevie Wonder
+10823. Sir Duke by Stevie Wonder
+10030. Use Me by Bill Withers
+9682. We Can Work It Out by Stevie Wonder
+11253. Blame It on the Boogie by The Jacksons
+47407. Let It Be by Bill Withers
+11421. Boogie Wonderland by Earth, Wind & Fire, The Emotions
+28736. Harlem by Bill Withers
+
+Recomendation for :                 artists              name
+84918  [Alla Pugacheva]  Миллион алых роз
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.1
+recall_at_10: 0.0333
+146437. Катерок by Valentina Tolkunova, Oleg Anofriyev, Инструментальный ансамбль «Мелодия»
+116890. Этот мир by Alla Pugacheva
+134337. Вальс-бостон by Alexander Rosenbaum
+148316. Старинные часы by Alla Pugacheva
+132254. Не отрекаются любя by Alla Pugacheva
+99587. Надежда by Anna German
+101256. Восьмиклассница by Kino
+162996. 25 к 10 by Aquarium
+164268. Мама, мы все сошли с ума by Kino
+149339. Все идет по плану by Egor Letov
+
+Recomendation for :       artists                   name
+85983  [Sade]  Siempre Hay Esperanza
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.1569
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+33380. Paradise by Sade
+50993. Nothing Can Come Between Us by Sade
+32249. Turn My Back On You by Sade
+31342. Why Can't We Live Together by Sade
+122971. Nothing Can Come Between Us - Remastered by Sade
+15104. Autumn Sweater by Yo La Tengo
+51467. Nutbush City Limits - Remastered by Ike & Tina Turner
+37618. MEGALOVANIA by Toby Fox
+30426. Slabo Day by Peter Green
+17764. Dance Yrself Clean by LCD Soundsystem
+
+Recomendation for :          artists        name
+89995  [Madonna]  Take a Bow
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.1
+precision_at_10: 0.1
+recall_at_10: 0.0333
+38193. Shallow - Radio Edit by Lady Gaga, Bradley Cooper
+18223. Mirrors by Justin Timberlake
+19279. Shallow by Lady Gaga, Bradley Cooper
+52090. Take a Bow by Madonna
+140635. Freaking Me Out by Ava Max
+170555. Commander In Chief by Demi Lovato
+56724. Too Much To Ask by Niall Horan
+170101. Something's Gotta Give by Camila Cabello
+119893. You'll See by Madonna
+18910. Lights Down Low by MAX
+
+Recomendation for :        artists         name
+99513  [Queen]  Ogre Battle
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.3
+precision_at_10: 0.0
+recall_at_10: 0.0
+135209. Love Of My Life - Live at Wembley by Queen
+48100. The March Of The Black Queen by Queen
+119382. Under Pressure - Live at Wembley '86 by Queen
+103211. Bohemian Rhapsody - Live at Wembley '86 by Queen
+68291. One Vision - Remastered 2011 by Queen
+10040. School's Out by Alice Cooper
+29891. Stairway to Heaven - (Live at MSG 1973) [Remaster] by Led Zeppelin
+10494. Train Kept a Rollin' by Aerosmith
+11818. Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975 by Bruce Springsteen
+48497. Since I've Been Loving You - (Live at MSG 1973) [Remaster] by Led Zeppelin
+
+Recomendation for :             artists                                              name
+99729  [Elton John]  I Feel Like A Bullet (In The Gun Of Robert Ford)
+genre_precision_at_10: 0.3
+genre_recall_at_10: 0.0588
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+10928. Sorry Seems To Be The Hardest Word by Elton John
+9614. Your Song by Elton John
+102824. Your Song by Elton John
+9758. Your Song by Elton John
+66086. We All Fall In Love Sometimes by Elton John
+14942. I Finally Found Someone (feat. Bryan Adams) by Barbra Streisand, Bryan Adams
+48041. Asylum by Supertramp
+9910. Better Days by Graham Nash
+13906. Have I Told You Lately - 2008 Remaster by Rod Stewart
+133815. No Inbetween by Supertramp
+
+Recomendation for :        artists   name
+100002  [ABBA]  Tiger
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+29367. Waterloo by ABBA
+29233. Ring Ring - English Version by ABBA
+29798. When I Kissed The Teacher by ABBA
+48451. That's Me by ABBA
+30368. Does Your Mother Know by ABBA
+10219. Hooked on a Feeling by Blue Swede, Björn Skifs
+88257. When You're Looking Like That - Single Remix by Westlife
+13812. Losing My Religion by R.E.M.
+10883. Love Really Hurts Without You by Billy Ocean
+15614. Bye Bye Bye by *NSYNC
+
+Recomendation for :         artists                    name
+100353  [Queen]  If You Can't Beat Them
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+47922. Keep Yourself Alive by Queen
+12599. Hammer To Fall by Queen
+49509. Now I'm Here by Queen
+10516. Now I'm Here - Remastered 2011 by Queen
+11404. Bicycle Race by Queen
+11114. Love Gun by KISS
+10796. Make Me Smile (Come up and See Me) - 2014 Remaster by Steve Harley, Steve Harley & Cockney Rebel
+9842. Rock and Roll - Remaster by Led Zeppelin
+12438. Runaway by Bon Jovi
+48014. Goin' Blind by KISS
+
+Recomendation for :         artists          name
+100415  [Queen]  Dead On Time
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+10465. Seven Seas Of Rhye - Remastered 2011 by Queen
+29168. Liar - Remastered 2011 by Queen
+29957. Sheer Heart Attack - Remastered 2011 by Queen
+29693. I'm In Love With My Car - Remastered 2011 by Queen
+49442. Seven Seas Of Rhye by Queen
+12220. Cum on Feel the Noize by Quiet Riot
+13407. Kickstart My Heart by Mötley Crüe
+10807. (Don't Fear) The Reaper by Blue Öyster Cult
+10502. Rock Bottom - 2007 Remaster by UFO
+13872. Civil War by Guns N' Roses
+
+Recomendation for :           artists     name
+100619  [Madonna]  Holiday
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.15
+precision_at_10: 0.1
+recall_at_10: 0.0333
+12277. Holiday by Madonna
+16828. SexyBack (feat. Timbaland) by Justin Timberlake, Timbaland
+18624. Uptown Funk (feat. Bruno Mars) by Mark Ronson, Bruno Mars
+12443. Like a Virgin by Madonna
+34920. Like I Love You by Justin Timberlake
+51321. Holiday by Madonna
+36515. Telephone by Lady Gaga, Beyoncé
+16033. Rock Your Body by Justin Timberlake
+17225. Poker Face by Lady Gaga
+17453. Telephone by Lady Gaga, Beyoncé
+
+Recomendation for :         artists                    name
+100749  [Queen]  Sail Away Sweet Sister
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+11940. Good Old Fashioned Lover Boy by Queen
+48445. Good Old Fashioned Lover Boy by Queen
+67895. It's A Hard Life by Queen
+32761. The Show Must Go On by Queen
+10648. Love Of My Life - Remastered 2011 by Queen
+10670. Ten Years Gone - 1990 Remaster by Led Zeppelin
+29697. Ten Years Gone - Remaster by Led Zeppelin
+9809. Stairway to Heaven - Remaster by Led Zeppelin
+14040. Everybody Hurts by R.E.M.
+9928. Oh! You Pretty Things - 2015 Remaster by David Bowie
+
+Recomendation for :               artists                        name
+100875  [Duran Duran]  Night Boat - 2010 Remaster
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.15
+precision_at_10: 0.0
+recall_at_10: 0.0
+67365. Anyone Out There - 2010 Remaster by Duran Duran
+84642. Friends of Mine - 2010 Remaster by Duran Duran
+14257. Ordinary World by Duran Duran
+13231. The Promise by When In Rome
+117038. Joan Of Arc - Remastered by Orchestral Manoeuvres In The Dark
+13165. It's a Sin - 2001 Remaster by Pet Shop Boys
+31422. Big in Japan - 2019 Remaster by Alphaville
+32434. Advice For The Young At Heart by Tears For Fears
+31797. Black Celebration by Depeche Mode
+13617. Nothing Compares 2 U by Sinéad O'Connor
+
+Recomendation for :                artists                               name
+101006  [Phil Collins]  This Must Be Love - 2015 Remaster
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.1176
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.1
+precision_at_10: 0.0
+recall_at_10: 0.0
+30869. This Must Be Love - 2015 Remastered by Phil Collins
+13286. Sara by Fleetwood Mac
+11167. Dreams - Sessions, Roughs & Outtakes; 2004 Remaster by Fleetwood Mac
+10027. Old Man - 2009 Remaster by Neil Young
+86946. Can't Turn Back The Years - 2015 Remastered by Phil Collins
+10536. Tin Cup Chalice by Jimmy Buffett
+30188. Wild West End by Dire Straits
+9884. Moonshadow by Yusuf / Cat Stevens
+86095. Old Love by Eric Clapton
+12059. Eye In The Sky by The Alan Parsons Project
+
+Recomendation for :        artists             name
+101256  [Kino]  Восьмиклассница
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.8
+artist_recall_at_10: 0.4
+precision_at_10: 0.0
+recall_at_10: 0.0
+164185. В наших глазах by Kino
+51162. Звезда по имени Солнце by Kino
+102273. Закрой за мной дверь, я ухожу by Kino
+163040. Алюминиевые огурцы by Kino
+164237. Война by Kino
+116890. Этот мир by Alla Pugacheva
+165065. Родина by ДДТ
+146451. Всё мы делим пополам by Alla Pugacheva, Инструментальный ансамбль «Мелодия», Eduard Khil
+148316. Старинные часы by Alla Pugacheva
+146437. Катерок by Valentina Tolkunova, Oleg Anofriyev, Инструментальный ансамбль «Мелодия»
+
+Recomendation for :               artists          name
+101284  [Bryan Adams]  Take Me Back
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+12006. Africa by TOTO
+13212. Rhiannon by Fleetwood Mac
+10610. Rhiannon by Fleetwood Mac
+10686. World Turning by Fleetwood Mac
+13408. I Won't Back Down by Tom Petty
+50367. Josephine by Chris Rea
+12016. Maneater by Daryl Hall & John Oates
+32438. A Face In The Crowd by Tom Petty
+11351. Heart Of The Night by Poco
+31200. Love Is A Battlefield by Pat Benatar
+
+Recomendation for :                                          artists  \
+124927  [Frédéric Chopin, Mieczysław Horszowski]   
+
+                                            name  
+124927  Impromptu No. 2 in F-Sharp Major, Op. 36  
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+4815. Nocturnes, Op. 27: No. 2 in D-Flat Major by Frédéric Chopin, Arthur Rubinstein
+12067. Nocturne No.2 In E Flat, Op.9 No.2 by Frédéric Chopin, Daniel Barenboim
+27575. Fantasie-impromptu in C-Sharp Minor, Op. 66 No. 4 by Frédéric Chopin, Arthur Rubinstein
+45844. Étude No. 2 in A-Flat Major from "Trois Nouvelles Études" by Frédéric Chopin, Vladimir Horowitz
+7849. Serenade by Franz Schubert, Eugene Ormandy, Philadelphia Orchestra
+49784. Nocturne No.15 In F Minor, Op.55 No.1 by Frédéric Chopin, Daniel Barenboim
+7062. Piano Concerto No. 5 in E-Flat Major, Op. 73 "Emperor": II. Adagio un poco mosso by Ludwig van Beethoven, Glenn Gould, Leopold Stokowski, American Symphony Orchestra
+12335. 4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto by Franz Schubert, Radu Lupu
+99742. 4 Impromptus, Op. 90, D. 899: No. 3 in G-Flat Major by Franz Schubert, Murray Perahia
+85217. 4 Impromptus, D. 899, Op. 90: No. 3 in G-Flat Major by Franz Schubert, Murray Perahia
+
+Recomendation for :                                  artists                              name
+124949  [Frédéric Chopin, Alfred Cortot]  Ballade No. 4 in F Minor, Op. 52
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+4815. Nocturnes, Op. 27: No. 2 in D-Flat Major by Frédéric Chopin, Arthur Rubinstein
+64138. Nocturnes, Op. 9: No. 1 in B-Flat Minor by Frédéric Chopin, Arthur Rubinstein
+45835. Étude in C Minor, Op. 10, No. 12 "Revolutionary" by Frédéric Chopin, Vladimir Horowitz
+66750. Nocturne No.19 in E minor, Op.72 No.1 by Frédéric Chopin, Claudio Arrau
+27575. Fantasie-impromptu in C-Sharp Minor, Op. 66 No. 4 by Frédéric Chopin, Arthur Rubinstein
+7849. Serenade by Franz Schubert, Eugene Ormandy, Philadelphia Orchestra
+7062. Piano Concerto No. 5 in E-Flat Major, Op. 73 "Emperor": II. Adagio un poco mosso by Ludwig van Beethoven, Glenn Gould, Leopold Stokowski, American Symphony Orchestra
+27959. Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato by Ludwig van Beethoven, Daniel Barenboim
+5617. Piano Sonata in B Minor, S. 178: II. Andante sostenuto by Franz Liszt, Arthur Rubinstein
+5814. Etude in D-Sharp Minor, Op. 8, No. 12: Patetico - Remastered by Alexander Scriabin, Vladimir Horowitz
+
+Recomendation for :                                 artists                                   name
+125003  [Frédéric Chopin, Dinu Lipatti]  Valses, Op. 64: No. 3 in A-Flat Major
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+15701. Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth. by Frédéric Chopin, Mikhail Pletnev
+67536. Nocturne No.14 In F Sharp Minor, Op.48 No.2 by Frédéric Chopin, Daniel Barenboim
+45844. Étude No. 2 in A-Flat Major from "Trois Nouvelles Études" by Frédéric Chopin, Vladimir Horowitz
+12188. Nocturne No.6 In G Minor, Op.15 No.3 by Frédéric Chopin, Daniel Barenboim
+4012. Étude in D-sharp minor, Op. 8, No. 12 by Alexander Scriabin, Vladimir Horowitz
+7849. Serenade by Franz Schubert, Eugene Ormandy, Philadelphia Orchestra
+102282. Ballade No.1 In G Minor, Op.23 by Frédéric Chopin, Krystian Zimerman
+6217. Liebestraum, S. 541, No. 3 by Franz Liszt, Jorge Bolet
+12335. 4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto by Franz Schubert, Radu Lupu
+133515. 4 Impromptus, Op.90, D.899: No.3 in G Flat Major: Andante by Franz Schubert, Radu Lupu
+
+Recomendation for :         artists                              name
+149017  [Queen]  Gimme The Prize (Kurgan's Theme)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+11222. Fat Bottomed Girls - Remastered 2011 by Queen
+32824. Innuendo - Remastered 2011 by Queen
+12955. Princes Of The Universe - Remastered 2011 by Queen
+32504. I Want It All - Remastered 2011 by Queen
+30762. Fat Bottomed Girls by Queen
+13997. Estranged by Guns N' Roses
+13813. November Rain by Guns N' Roses
+150305. Why Can't This Be Love - Live by Van Halen
+165227. You Really Got Me / Cabo Wabo - Live by Van Halen
+13018. Here I Go Again - 2018 Remaster by Whitesnake
+
+Recomendation for :             artists               name
+149567  [Aerosmith]  Monkey On My Back
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1961
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.2
+precision_at_10: 0.0
+recall_at_10: 0.0
+14240. Cryin' by Aerosmith
+11209. Runnin' with the Devil - 2015 Remaster by Van Halen
+12068. (Oh) Pretty Woman - 2015 Remaster by Van Halen
+33769. Humans Being by Van Halen
+30373. Light up the Sky - 2015 Remaster by Van Halen
+13606. Thunderstruck by AC/DC
+11748. Romeo Delight - 2015 Remaster by Van Halen
+135488. Shut Up And Dance by Aerosmith
+14387. Livin' On The Edge by Aerosmith
+120331. Ain't That A Bitch by Aerosmith
+
+Recomendation for :                 artists                    name
+152430  [Frank Sinatra]  The Little Drummer Boy
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1765
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.25
+precision_at_10: 0.0
+recall_at_10: 0.0
+33463. Have Yourself a Merry Little Christmas by Frank Sinatra
+165684. You Belong to My Heart by Jerry Vale
+152481. Go Tell It On The Mountain by Frank Sinatra, Bing Crosby, Fred Waring & His Pennsylvanians
+167277. An Old Fashioned Christmas by Frank Sinatra
+17305. O Christmas Tree by Tony Bennett
+169248. I'll Be Home For Christmas (If Only In My Dreams) by Frank Sinatra
+69952. Silent Night, Holy Night (with The Ken Lane Singers) by Frank Sinatra, Ken Lane Singers
+16824. Do You Hear What I Hear? - Remastered 2006 by Bing Crosby
+121941. Feeling Good by Sammy Davis Jr.
+137165. A Kiss to Build a Dream On by Tony Bennett, k.d. lang
+
+user                      : user_1
+genre_precision_at_10     : 0.8333
+genre_recall_at_10        : 0.1634
+artist_precision_at_10    : 0.4667
+artist_recall_at_10       : 0.2333
+precision_at_10           : 0.0133
+recall_at_10              : 0.0044

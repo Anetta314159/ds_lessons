@@ -1,0 +1,580 @@
+Recomendation for :         artists    name
+56639  [NEFFEX]  Rumors
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.35
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.1429
+precision_at_10: 0.0
+recall_at_10: 0.0
+19666. Life Goes On by BTS
+17015. Flashing Lights by Kanye West, Dwele
+17008. Stronger by Kanye West
+19146. Nowadays (feat. Landon Cube) by Lil Skies, Landon Cube
+19407. Watermelon Sugar by Harry Styles
+19246. God's Plan by Drake
+155554. Let's Love by David Guetta, Sia
+57322. drunk face by Machine Gun Kelly
+19731. Mood (Remix) feat. Justin Bieber, J Balvin & iann dior by 24kGoldn, Justin Bieber, J Balvin, iann dior
+14607. Gangsta's Paradise by Coolio, L.V.
+
+Recomendation for :         artists        name
+56964  [NEFFEX]  Fight Back
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.3
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+38514. Boss Bitch by Doja Cat
+19426. Breaking Me by Topic, A7S
+19020. Believer by Imagine Dragons
+140701. Head Shoulders Knees & Toes (feat. Norma Jean Martine) by Ofenbach, Quarterhead, Norma Jean Martine
+56874. Ballin by Logic
+19399. One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa
+19618. Dynamite by BTS
+19010. XO Tour Llif3 by Lil Uzi Vert
+19578. VALENTINO by 24kGoldn
+19803. Go Stupid by Polo G, Stunna 4 Vegas, NLE Choppa, Mike WiLL Made-It
+
+Recomendation for :          artists        name
+154840  [NEFFEX]  Best of Me
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.35
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+19606. Mood (feat. iann dior) by 24kGoldn, iann dior
+38287. Adicto (with Anuel AA & Ozuna) by Tainy, Anuel AA, Ozuna
+38357. parents by YUNGBLUD
+19407. Watermelon Sugar by Harry Styles
+18626. Ride by Twenty One Pilots
+19711. forget me too (feat. Halsey) by Machine Gun Kelly, Halsey
+19480. Hate Me (with Juice WRLD) by Ellie Goulding, Juice WRLD
+19425. Adore You by Harry Styles
+38329. Someone To You by BANNERS
+57219. Single Saturday Night by Cole Swindell
+
+Recomendation for :          artists      name
+170183  [NEFFEX]  Grateful
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.35
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+19641. Levitating (feat. DaBaby) by Dua Lipa, DaBaby
+18215. Why'd You Only Call Me When You're High? by Arctic Monkeys
+19089. Feel It Still by Portugal. The Man
+19605. I Don't Care (with Justin Bieber) by Ed Sheeran, Justin Bieber
+38570. Tick Tock (feat. 24kGoldn) by Clean Bandit, Mabel, 24kGoldn
+19511. You Need To Calm Down by Taylor Swift
+108604. El Efecto by Rauw Alejandro, Chencho Corleone
+19618. Dynamite by BTS
+57136. Fantasias by Rauw Alejandro, Farruko
+56970. Woman Like Me (feat. Nicki Minaj) by Little Mix, Nicki Minaj
+
+Recomendation for :          artists      name
+16916  [Skillet]  Comatose
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.05
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.2
+recall_at_10: 0.0769
+37203. Not Gonna Die by Skillet
+17484. Awake and Alive by Skillet
+138652. Dead Inside by Skillet
+54598. The Last Night by Skillet
+90072. Never Surrender by Skillet
+36756. On My Own by Ashes Remain
+16261. Going Under by Evanescence
+17336. Lollipop by Framing Hanley
+74537. Help by Papa Roach
+15873. Control by Puddle Of Mudd
+
+Recomendation for :          artists     name
+17417  [Skillet]  Monster
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.1
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.2
+recall_at_10: 0.0769
+55143. Monster by Skillet
+107425. Sick of It by Skillet
+123975. Back from the Dead by Skillet
+17437. Hero by Skillet
+18942. Feel Invincible by Skillet
+35380. Frontline by Pillar
+17013. Fake It by Seether
+69348. Every Heartbeat by Amy Grant
+139890. First Kiss by Kid Rock
+139885. Nearly Forgot My Broken Heart by Chris Cornell
+
+Recomendation for :          artists  name
+17437  [Skillet]  Hero
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.1
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.4
+recall_at_10: 0.1538
+122634. Hero by Skillet
+123975. Back from the Dead by Skillet
+17484. Awake and Alive by Skillet
+17417. Monster by Skillet
+37203. Not Gonna Die by Skillet
+17993. God's Not Dead (Like A Lion) by Newsboys
+16622. Rockstar by Nickelback
+12806. Livin' On A Prayer by Bon Jovi
+12808. You Give Love A Bad Name by Bon Jovi
+36900. End Of Me by Ashes Remain
+
+Recomendation for :          artists             name
+17484  [Skillet]  Awake and Alive
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.05
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.4
+recall_at_10: 0.1538
+153408. Awake and Alive by Skillet
+16916. Comatose by Skillet
+17437. Hero by Skillet
+37203. Not Gonna Die by Skillet
+139493. Circus for a Psycho by Skillet
+36756. On My Own by Ashes Remain
+34868. Blood Brothers by Papa Roach
+16754. Savin' Me by Nickelback
+17134. A Little Piece of Heaven by Avenged Sevenfold
+15873. Control by Puddle Of Mudd
+
+Recomendation for :          artists           name
+37203  [Skillet]  Not Gonna Die
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.2
+recall_at_10: 0.0769
+16916. Comatose by Skillet
+17484. Awake and Alive by Skillet
+54598. The Last Night by Skillet
+54434. Rebirthing by Skillet
+138652. Dead Inside by Skillet
+36756. On My Own by Ashes Remain
+16261. Going Under by Evanescence
+16241. Someday by Nickelback
+73370. Courageous by Casting Crowns
+55838. Whom Shall I Fear (God Of Angel Armies) by Chris Tomlin
+
+Recomendation for :          artists     name
+55143  [Skillet]  Monster
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.1
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.2
+recall_at_10: 0.0769
+17417. Monster by Skillet
+107425. Sick of It by Skillet
+123975. Back from the Dead by Skillet
+17437. Hero by Skillet
+18942. Feel Invincible by Skillet
+35380. Frontline by Pillar
+17013. Fake It by Seether
+69348. Every Heartbeat by Amy Grant
+139890. First Kiss by Kid Rock
+139885. Nearly Forgot My Broken Heart by Chris Cornell
+
+Recomendation for :          artists  name
+55979  [Skillet]  Rise
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.1
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.4286
+precision_at_10: 0.1
+recall_at_10: 0.0385
+139493. Circus for a Psycho by Skillet
+88917. Open Wounds by Skillet
+15828. She Hates Me by Puddle Of Mudd
+54095. God of Wonders by Third Day
+16206. Numb by Linkin Park
+13230. Cult of Personality by Living Colour
+17484. Awake and Alive by Skillet
+33820. Tourniquet by Marilyn Manson
+31267. Emmanuel by Amy Grant
+55576. Hear Me Now by Hollywood Undead
+
+Recomendation for :           artists  name
+122634  [Skillet]  Hero
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.1
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.4
+recall_at_10: 0.1538
+17437. Hero by Skillet
+123975. Back from the Dead by Skillet
+17484. Awake and Alive by Skillet
+17417. Monster by Skillet
+37203. Not Gonna Die by Skillet
+17993. God's Not Dead (Like A Lion) by Newsboys
+16622. Rockstar by Nickelback
+12806. Livin' On A Prayer by Bon Jovi
+12808. You Give Love A Bad Name by Bon Jovi
+36900. End Of Me by Ashes Remain
+
+Recomendation for :           artists       name
+124628  [Skillet]  Legendary
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.05
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.0
+recall_at_10: 0.0
+18942. Feel Invincible by Skillet
+16979. Whispers in the Dark by Skillet
+122684. Would It Matter by Skillet
+168300. Don't Wake Me by Skillet
+73000. Lucy by Skillet
+37311. We Believe by Newsboys
+17664. Nightmare by Avenged Sevenfold
+74086. Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters) by Third Day, All Sons & Daughters
+18206. Sweater Weather by The Neighbourhood
+55678. Save Yourself by My Darkest Days
+
+Recomendation for :           artists             name
+153408  [Skillet]  Awake and Alive
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.05
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.4
+recall_at_10: 0.1538
+17484. Awake and Alive by Skillet
+16916. Comatose by Skillet
+17437. Hero by Skillet
+37203. Not Gonna Die by Skillet
+139493. Circus for a Psycho by Skillet
+36756. On My Own by Ashes Remain
+34868. Blood Brothers by Papa Roach
+16754. Savin' Me by Nickelback
+17134. A Little Piece of Heaven by Avenged Sevenfold
+15873. Control by Puddle Of Mudd
+
+Recomendation for :           artists         name
+17465  [Flo Rida]  Right Round
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.2
+recall_at_10: 0.0769
+18100. Good Feeling by Flo Rida
+18071. Whistle by Flo Rida
+37072. I Cry by Flo Rida
+36269. In the Ayer (feat. will.I.am) by Flo Rida, will.i.am
+106733. Turn Around (5,4,3,2,1) by Flo Rida
+155336. No Lo Trates by Pitbull, Daddy Yankee, Natti Natasha
+17922. International Love (feat. Chris Brown) by Pitbull, Chris Brown
+36357. I Know You Want Me (Calle Ocho) by Pitbull
+17571. I Know You Want Me (Calle Ocho) by Pitbull
+18074. White Walls (feat. ScHoolboy Q & Hollis) by Macklemore & Ryan Lewis, ScHoolboy Q, Hollis
+
+Recomendation for :           artists          name
+18100  [Flo Rida]  Good Feeling
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.3
+recall_at_10: 0.1154
+18071. Whistle by Flo Rida
+37072. I Cry by Flo Rida
+55465. Good Feeling by Flo Rida
+17465. Right Round by Flo Rida
+18059. Wild Ones (feat. Sia) by Flo Rida, Sia
+17922. International Love (feat. Chris Brown) by Pitbull, Chris Brown
+17833. Give Me Everything (feat. Ne-Yo, Afrojack & Nayer) by Pitbull, Ne-Yo, Afrojack, Nayer
+36750. Hey Baby (Drop It to the Floor) (feat. T-Pain) by Pitbull, T-Pain
+18103. Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera
+18027. Timber (feat. Ke$ha) by Pitbull, Kesha
+
+Recomendation for :           artists   name
+37072  [Flo Rida]  I Cry
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.2
+recall_at_10: 0.0769
+18100. Good Feeling by Flo Rida
+18071. Whistle by Flo Rida
+17465. Right Round by Flo Rida
+106733. Turn Around (5,4,3,2,1) by Flo Rida
+55465. Good Feeling by Flo Rida
+17922. International Love (feat. Chris Brown) by Pitbull, Chris Brown
+36750. Hey Baby (Drop It to the Floor) (feat. T-Pain) by Pitbull, T-Pain
+55734. Don't Stop the Party (feat. TJR) by Pitbull, TJR
+123248. Back in Time - featured in "Men In Black 3" by Pitbull
+18027. Timber (feat. Ke$ha) by Pitbull, Kesha
+
+Recomendation for :            artists         name
+153425  [Flo Rida]  Right Round
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.3
+recall_at_10: 0.1154
+17465. Right Round by Flo Rida
+18100. Good Feeling by Flo Rida
+18071. Whistle by Flo Rida
+37072. I Cry by Flo Rida
+36269. In the Ayer (feat. will.I.am) by Flo Rida, will.i.am
+155336. No Lo Trates by Pitbull, Daddy Yankee, Natti Natasha
+17922. International Love (feat. Chris Brown) by Pitbull, Chris Brown
+36357. I Know You Want Me (Calle Ocho) by Pitbull
+17571. I Know You Want Me (Calle Ocho) by Pitbull
+18074. White Walls (feat. ScHoolboy Q & Hollis) by Macklemore & Ryan Lewis, ScHoolboy Q, Hollis
+
+Recomendation for :                                         artists  \
+169636  [Prince Royce, Jennifer Lopez, Pitbull]   
+
+                                                     name  
+169636  Back It Up (feat. Jennifer Lopez & Pitbull) - ...  
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.7143
+precision_at_10: 0.0
+recall_at_10: 0.0
+92122. Inmortal by Aventura
+17649. Corazon Sin Cara by Prince Royce
+36656. El Amor Que Perdimos by Prince Royce
+36659. Rechazame by Prince Royce
+17759. Stand by Me by Prince Royce
+106710. El Amor Que Perdimos by Prince Royce
+16895. Los Infieles by Aventura
+57041. Con Calma by Daddy Yankee, Snow
+124811. Dembow 2020 by Yandel, Rauw Alejandro
+56938. Aullando by Wisin & Yandel, Romeo Santos
+
+Recomendation for :                           artists        name
+37242  [will.i.am, Justin Bieber]  #thatPOWER
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.1429
+precision_at_10: 0.1
+recall_at_10: 0.0385
+18318. Scream & Shout by will.i.am, Britney Spears
+17249. Womanizer by Britney Spears
+17369. If U Seek Amy by Britney Spears
+19670. Take You Dancing by Jason Derulo
+18726. Want to Want Me by Jason Derulo
+124876. Coño by Jason Derulo, Puri, Jhorrmountain
+38473. Prisoner (feat. Dua Lipa) by Miley Cyrus, Dua Lipa
+36798. Till the World Ends by Britney Spears
+17070. Gimme More by Britney Spears
+108234. Tip Toe (feat. French Montana) by Jason Derulo, French Montana
+
+Recomendation for :                            artists            name
+18318  [will.i.am, Britney Spears]  Scream & Shout
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.1429
+precision_at_10: 0.1
+recall_at_10: 0.0385
+19670. Take You Dancing by Jason Derulo
+18726. Want to Want Me by Jason Derulo
+37242. #thatPOWER by will.i.am, Justin Bieber
+17369. If U Seek Amy by Britney Spears
+36798. Till the World Ends by Britney Spears
+38473. Prisoner (feat. Dua Lipa) by Miley Cyrus, Dua Lipa
+17249. Womanizer by Britney Spears
+55470. Don't Wanna Go Home by Jason Derulo
+154663. Make Me... (feat. G-Eazy) by Britney Spears, G-Eazy
+108234. Tip Toe (feat. French Montana) by Jason Derulo, French Montana
+
+Recomendation for :            artists    name
+37918  [The Score]  Legend
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.3
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.5714
+precision_at_10: 0.4
+recall_at_10: 0.1538
+37922. Unstoppable by The Score
+74531. Revolution by The Score
+170354. Dreamin (with blackbear) by The Score, blackbear
+18626. Ride by Twenty One Pilots
+154845. Tidal Wave by Portugal. The Man
+37529. Cry Baby by The Neighbourhood
+18206. Sweater Weather by The Neighbourhood
+55767. A Little Death by The Neighbourhood
+140207. Higher by The Score
+91896. You Get Me So High by The Neighbourhood
+
+Recomendation for :            artists         name
+37922  [The Score]  Unstoppable
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.3
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.5714
+precision_at_10: 0.4
+recall_at_10: 0.1538
+74531. Revolution by The Score
+37918. Legend by The Score
+170354. Dreamin (with blackbear) by The Score, blackbear
+140207. Higher by The Score
+18626. Ride by Twenty One Pilots
+37598. The Judge by Twenty One Pilots
+18707. Renegades by X Ambassadors
+91896. You Get Me So High by The Neighbourhood
+36104. Ruby by Kaiser Chiefs
+154845. Tidal Wave by Portugal. The Man
+
+Recomendation for :            artists        name
+74531  [The Score]  Revolution
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.25
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.5714
+precision_at_10: 0.4
+recall_at_10: 0.1538
+37922. Unstoppable by The Score
+37918. Legend by The Score
+170354. Dreamin (with blackbear) by The Score, blackbear
+18626. Ride by Twenty One Pilots
+140207. Higher by The Score
+91896. You Get Me So High by The Neighbourhood
+108800. Bummerland by AJR
+19089. Feel It Still by Portugal. The Man
+18707. Renegades by X Ambassadors
+56718. The Fall by half•alive
+
+Recomendation for :             artists           name
+124616  [The Score]  Born For This
+genre_precision_at_10: 0.7
+genre_recall_at_10: 0.35
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.1429
+precision_at_10: 0.1
+recall_at_10: 0.0385
+18206. Sweater Weather by The Neighbourhood
+124526. Reflections by The Neighbourhood
+18713. Tear in My Heart by Twenty One Pilots
+19087. Whatever It Takes by Imagine Dragons
+37656. Let the Games Begin by AJR
+37029. Sweater Weather by The Neighbourhood
+37918. Legend by The Score
+19593. 100 Bad Days by AJR
+37529. Cry Baby by The Neighbourhood
+37176. Guns for Hands by Twenty One Pilots
+
+Recomendation for :             artists    name
+140207  [The Score]  Higher
+genre_precision_at_10: 0.6
+genre_recall_at_10: 0.3
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.4286
+precision_at_10: 0.3
+recall_at_10: 0.1154
+37922. Unstoppable by The Score
+37918. Legend by The Score
+74531. Revolution by The Score
+56405. Could Have Been Me by The Struts
+18265. Afraid by The Neighbourhood
+91904. The Hype by Twenty One Pilots
+18707. Renegades by X Ambassadors
+155475. Lost in Translation by The Neighbourhood
+155137. Softcore by The Neighbourhood
+38357. parents by YUNGBLUD
+
+Recomendation for :                        artists                      name
+170354  [The Score, blackbear]  Dreamin (with blackbear)
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.25
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.5714
+precision_at_10: 0.4
+recall_at_10: 0.1538
+37918. Legend by The Score
+37922. Unstoppable by The Score
+74531. Revolution by The Score
+18626. Ride by Twenty One Pilots
+19089. Feel It Still by Portugal. The Man
+56718. The Fall by half•alive
+108800. Bummerland by AJR
+154845. Tidal Wave by Portugal. The Man
+19244. Little Dark Age by MGMT
+140207. Higher by The Score
+
+Recomendation for :                         artists                       name
+17448  [David Guetta, Kid Cudi]  Memories (feat. Kid Cudi)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.5714
+precision_at_10: 0.2
+recall_at_10: 0.0769
+106794. Memories (feat. Kid Cudi) by David Guetta, Kid Cudi
+155455. Hot Stuff by Kygo, Donna Summer
+91071. Bad (feat. Vassy) - Radio Edit by David Guetta, Showtek, VASSY
+18891. Don't Let Me Down by The Chainsmokers, Daya
+140744. Why Do You Lie To Me (feat. Lil Baby) by Topic, A7S, Lil Baby
+155309. Ride It - Jonas Blue Remix by Regard, Jonas Blue
+38335. Who Do You Love by The Chainsmokers, 5 Seconds of Summer
+91080. Bad (feat. Vassy) - Radio Edit by David Guetta, Showtek, VASSY
+124755. Hold You Tonight (with Chris Lane) by Gryffin, Chris Lane
+17860. Titanium (feat. Sia) by David Guetta, Sia
+
+Recomendation for :                    artists                  name
+17860  [David Guetta, Sia]  Titanium (feat. Sia)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.1429
+precision_at_10: 0.1
+recall_at_10: 0.0385
+17959. Titanium (feat. Sia) by David Guetta, Sia
+38346. All You Need To Know (feat. Calle Lehmann) by Gryffin, SLANDER, Calle Lehmann
+155455. Hot Stuff by Kygo, Donna Summer
+124756. I'll Wait by Kygo, Sasha Sloan
+155309. Ride It - Jonas Blue Remix by Regard, Jonas Blue
+56827. In My Mind by Dynoro, Gigi D'Agostino
+74926. Body Back (feat. Maia Wright) by Gryffin, Maia Wright
+140474. Body Back (feat. Maia Wright) by Gryffin, Maia Wright
+108267. Tie Me Down (with Elley Duhé) by Gryffin, Elley Duhé
+38459. Paradise (feat. Dermot Kennedy) by MEDUZA, Dermot Kennedy
+
+Recomendation for :                     artists                     name
+90202  [David Guetta, Akon]  Sexy Bitch (feat. Akon)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.5
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.4286
+precision_at_10: 0.1
+recall_at_10: 0.0385
+19535. Ride It by Regard
+92337. Secrets by Regard, RAYE
+17471. Sexy Bitch (feat. Akon) by David Guetta, Akon
+57096. Piece Of Your Heart by MEDUZA, Goodboys
+36682. Sexy Chick (feat. Akon) by David Guetta, Akon
+89764. Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix by David Guetta, Chris Willis, Fred Riester, Joachim Garraud
+19426. Breaking Me by Topic, A7S
+124737. What's Love Got to Do with It by Kygo, Tina Turner
+19655. Head & Heart (feat. MNEK) by Joel Corry, MNEK
+19115. Body by Loud Luxury, Brando
+
+user                      : user_6
+genre_precision_at_10     : 0.5867
+genre_recall_at_10        : 0.2933
+artist_precision_at_10    : 0.3467
+artist_recall_at_10       : 0.4952
+precision_at_10           : 0.2033
+recall_at_10              : 0.0782

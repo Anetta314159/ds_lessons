@@ -1,0 +1,577 @@
+Recomendation for :               artists        name
+15609  [3 Doors Down]  Kryptonite
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1034
+precision_at_10: 0.1
+recall_at_10: 0.0333
+72465. Kryptonite by 3 Doors Down
+16710. Get Stoned by Hinder
+73439. Let Me Go by 3 Doors Down, Jack Joseph Puig
+35770. Heavy by Collective Soul
+36643. All American Nightmare by Hinder
+54921. Citizen/Soldier by 3 Doors Down
+15878. Crawling In The Dark by Hoobastank
+17038. I Hate Everything About You by Three Days Grace
+87996. Run by Collective Soul
+16221. I Hate Everything About You by Three Days Grace
+
+Recomendation for :          artists                name
+15628  [OutKast]  So Fresh, So Clean
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1047
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.2069
+precision_at_10: 0.0
+recall_at_10: 0.0
+104845. So Fresh, So Clean - Radio Mix by OutKast
+34880. The Whole World (feat. Killer Mike) by OutKast, Killer Mike
+151709. Slum Beautiful (feat. Cee-Lo) by OutKast, CeeLo Green
+151985. The Whole World (feat. Killer Mike) by OutKast, Killer Mike
+15294. SpottieOttieDopaliscious by OutKast
+19632. Mr. Right Now (feat. Drake) by 21 Savage, Metro Boomin, Drake
+35002. Awnaw - All Hooks up Version by Nappy Roots, Jazze Pha
+17214. Kiss Me Thru The Phone by Soulja Boy, Sammie
+19312. Close Friends (Lil Baby & Gunna) by Lil Baby
+35607. And Then What by Jeezy, Mannie Fresh
+
+Recomendation for :              artists            name
+14412  [Soundgarden]  Black Hole Sun
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.1
+recall_at_10: 0.0333
+13870. Rusty Cage by Soundgarden
+69960. Black Hole Sun by Soundgarden
+153528. Black Hole Sun by Soundgarden
+32950. Angry Chair by Alice In Chains
+14052. Down In A Hole by Alice In Chains
+32993. Dirt by Alice In Chains
+14564. The Day I Tried To Live by Soundgarden
+14500. I Stay Away by Alice In Chains
+14145. Rain When I Die by Alice In Chains
+164749. New Damage by Soundgarden
+
+Recomendation for :       artists                 name
+15239   [DMX]  Ruff Ryders' Anthem
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1379
+precision_at_10: 0.0
+recall_at_10: 0.0
+15227. Still Not a Player (feat. Joe) - Radio Version by Big Pun, Joe
+17356. Still Not a Player (feat. Joe) by Big Pun, Joe
+15009. Hypnotize - 2014 Remaster by The Notorious B.I.G.
+70676. Look Thru My Eyes by DMX
+87785. Ruff Ryders Anthem by DMX
+36108. How's It Goin' Down by DMX
+15085. Put Your Hands Where My Eyes Could See by Busta Rhymes
+14415. Big Poppa - 2005 Remaster by The Notorious B.I.G.
+87810. X-Is Coming by DMX
+17085. Hypnotize - 2007 Remaster by The Notorious B.I.G.
+
+Recomendation for :           artists                        name
+15293  [The Flys]  Got You (Where I Want You)
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1047
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+137248. Angels Or Devils by Dishwalla
+15039. My Own Summer (Shove It) by Deftones
+18541. Angel by Theory of a Deadman
+17038. I Hate Everything About You by Three Days Grace
+16221. I Hate Everything About You by Three Days Grace
+37540. State of My Head by Shinedown
+14631. Name by The Goo Goo Dolls
+15807. Drops of Jupiter (Tell Me) by Train
+18453. Steal My Girl by One Direction
+18037. My Kind of Woman by Mac DeMarco
+
+Recomendation for :         artists        name
+15285  [Tyrese]  Sweet Lady
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+16231. So Gone by Monica
+15831. Differences by Ginuwine
+104348. You Are Everything by Dru Hill
+88520. Could It Be by Jaheim
+33855. Use Your Heart by SWV
+16500. Into You (feat. Fabolous) by Tamia, Fabolous
+54440. Differences by Ginuwine
+15147. Don't Let Go (Love) by En Vogue
+53452. Use Your Heart by SWV
+16168. Put That Woman First by Jaheim
+
+Recomendation for :         artists               name
+15809  [Weezer]  Island In The Sun
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1047
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.0
+recall_at_10: 0.0
+14420. Buddy Holly by Weezer
+72856. (If You're Wondering If I Want You To) I Want You To by Weezer
+36173. Pork And Beans by Weezer
+16631. Beverly Hills by Weezer
+72715. Troublemaker by Weezer
+13812. Losing My Religion by R.E.M.
+16875. Supermassive Black Hole by Muse
+14626. Just A Girl by No Doubt
+15834. Last Nite by The Strokes
+14030. Runaway Train by Soul Asylum
+
+Recomendation for :              artists                 name
+16628  [Chris Brown]  Yo (Excuse Me Miss)
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.093
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.0
+recall_at_10: 0.0
+56371. Back To Sleep by Chris Brown
+139825. Bitches N Marijuana (feat. ScHoolboy Q) by Chris Brown, Tyga, ScHoolboy Q
+139696. Autumn Leaves (feat. Kendrick Lamar) by Chris Brown, Kendrick Lamar
+57066. Heat (feat. Gunna) by Chris Brown, Gunna
+91715. Privacy by Chris Brown
+35925. Upgrade U (feat. Jay-Z) by Beyoncé, JAY-Z
+17472. Imma Be by Black Eyed Peas
+19147. Come Through and Chill (feat. J. Cole & Salaam Remi) by Miguel, J. Cole, Salaam Remi
+17686. Billionaire (feat. Bruno Mars) by Travie McCoy, Bruno Mars
+17712. Billionaire (feat. Bruno Mars) by Travie McCoy, Bruno Mars
+
+Recomendation for :             artists              name
+17799  [Mac Miller]  Nikes On My Feet
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.1
+recall_at_10: 0.0333
+106747. Nikes On My Feet by Mac Miller
+36603. Nikes on My Feet by Mac Miller
+57368. Blue World by Mac Miller
+122790. Poppy by Mac Miller
+18830. Psycho, Pt. 2 by Russ
+18885. Dang! (feat. Anderson .Paak) by Mac Miller, Anderson .Paak
+57187. Change by NF
+57014. The Search by NF
+57089. The Search by NF
+55334. Ashin’ Kusher by Kid Cudi
+
+Recomendation for :                 artists        name
+36745  [Tyler Childers]  Hard Times
+genre_precision_at_10: 0.0
+genre_recall_at_10: 0.0
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.0
+recall_at_10: 0.0
+36853. If Whiskey Could Talk by Tyler Childers
+55478. Junction City Queen by Tyler Childers
+36869. Play Me a Hank Song by Tyler Childers
+19027. Lady May by Tyler Childers
+17961. Coal by Tyler Childers
+37574. Whiskey And You by Chris Stapleton
+91628. Either Way by Chris Stapleton
+18798. The Devil Wears a Suit and Tie by Colter Wall
+169914. Nobody's Lonely Tonight by Chris Stapleton
+56742. Fraulein (feat. Tyler Childers) by Colter Wall, Tyler Childers
+
+Recomendation for :                           artists                                    name
+16917  [E-40, T-Pain, Kandi Girl]  U and Dat (feat. T. Pain & Kandi Girl)
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.0
+recall_at_10: 0.0
+55746. Function by E-40, YG, Iamsu!, Problem
+37465. Choices (Yup) by E-40
+35728. Tell Me When to Go (feat. Keak da Sneak) by E-40, Keak Da Sneak
+70139. Sideways (feat. B-Legit & Mac Shon) by E-40, B-Legit, Mac Shon
+16890. Blow the Whistle by Too $hort
+52528. Rapper's Ball (feat. Too $hort & K-Ci) by E-40, Too $hort, K-Ci
+155422. Blood Walk by YG, D3szn, Lil Wayne
+19012. Ric Flair Drip (& Metro Boomin) by Offset, Metro Boomin
+89476. Gangsters & Strippers by Too $hort
+87184. We Do This (feat. 2Pac, MC Breed & Father Dom) by Too $hort, 2Pac, MC Breed, Father Dom
+
+Recomendation for :             artists   name
+16980  [Wolfmother]  Woman
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.093
+artist_precision_at_10: 0.3
+artist_recall_at_10: 0.1034
+precision_at_10: 0.1
+recall_at_10: 0.0333
+137985. White Unicorn by Wolfmother
+16873. Joker And The Thief by Wolfmother
+54029. Club Foot by Kasabian
+16810. Welcome to the Black Parade by My Chemical Romance
+107127. Little Black Submarines - Radio Edit [radio edit] by The Black Keys
+108081. hometown by cleopatrick
+14412. Black Hole Sun by Soundgarden
+16652. Best of You by Foo Fighters
+13420. Poison by Alice Cooper
+16423. Helena by My Chemical Romance
+
+Recomendation for :         artists         name
+108542  [Lizzo]  Like a Girl
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.0
+recall_at_10: 0.0
+38251. Juice by Lizzo
+92150. Soulmate by Lizzo
+38344. Good as Hell (feat. Ariana Grande) - Remix by Lizzo, Ariana Grande
+38303. Good as Hell by Lizzo
+57100. Tempo (feat. Missy Elliott) by Lizzo, Missy Elliott
+75111. Lithuania (feat. Travis Scott) by Big Sean, Travis Scott
+74131. When I Rule the World by LIZ
+18433. Time of Our Lives by Pitbull, Ne-Yo
+73361. Turn All the Lights On (feat. Ne-Yo) by T-Pain, Ne-Yo
+18368. Pop That by French Montana, Rick Ross, Drake, Lil Wayne
+
+Recomendation for :        artists        name
+123719   [AJR]  AfterHours
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1047
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+17221. Sex on Fire by Kings of Leon
+36425. Johnny Boy by Twenty One Pilots
+73044. Radioactive by Kings of Leon
+37182. Trees by Twenty One Pilots
+37694. We Don't Believe What's on TV by Twenty One Pilots
+37532. Heavydirtysoul by Twenty One Pilots
+89937. Be Somebody by Kings of Leon
+89979. 11th Dimension by Julian Casablancas
+54809. Notion by Kings of Leon
+37175. Ode to Sleep by Twenty One Pilots
+
+Recomendation for :         artists                 name
+16054  [Eminem]  Sing For The Moment
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.093
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.1
+recall_at_10: 0.0333
+16006. 'Till I Collapse by Eminem, Nate Dogg
+89275. Sing For The Moment by Eminem
+152702. Sing For The Moment by Eminem
+17514. Crack A Bottle by Eminem, Dr. Dre, 50 Cent
+36641. Won't Back Down by Eminem, P!nk
+90860. Slater (feat. Frank Ocean) by Tyler, The Creator, Frank Ocean
+108591. No Excuses by NF
+57177. My Stress by NF
+91933. Cry Alone by Lil Peep
+37948. Let You Go by Machine Gun Kelly
+
+Recomendation for :                artists name
+169623  [Brent Faiyaz]  DSN
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.093
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1379
+precision_at_10: 0.0
+recall_at_10: 0.0
+57327. Rehab (Winter In Paris) by Brent Faiyaz
+139783. Allure by Brent Faiyaz
+38527. Dead Man Walking by Brent Faiyaz
+56592. Lovely by Brent Faiyaz
+19230. Get You The Moon (feat. Snøw) by Kina, Snøw
+19461. i love you by Billie Eilish
+57354. Chasing_(Demo) by NF, Mikayla Sippel
+19317. Can We Kiss Forever? by Kina, Adriana Proenza
+74746. Stupid Deep by Jon Bellion
+18669. I Found by Amber Run
+
+Recomendation for :               artists             name
+16615  [Jack Johnson]  Better Together
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0233
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.0
+recall_at_10: 0.0
+35531. Never Know by Jack Johnson
+16621. Banana Pancakes by Jack Johnson
+55869. I Got You by Jack Johnson
+106693. From The Clouds by Jack Johnson
+54514. Upside Down by Jack Johnson
+54015. It Don't Matter by Donavon Frankenreiter
+35399. Free by Donavon Frankenreiter
+121637. Pablo Picasso by Citizen Cope
+19624. Therefore I Am by Billie Eilish
+35832. Vultures by John Mayer
+
+Recomendation for :                artists    name
+72214  [Kenny Chesney]  Boston
+genre_precision_at_10: 0.8
+genre_recall_at_10: 0.093
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+121321. Jingle Bells by Alan Jackson
+73960. Meanwhile Back At Mama's by Tim McGraw, Faith Hill
+53536. Christmas Cookies by George Strait
+38263. Good as You by Kane Brown
+51520. Love's Got a Hold On You by Alan Jackson
+14011. Chattahoochee by Alan Jackson
+15059. Life's a Dance by John Michael Montgomery
+54193. Baby's Gotten Good At Goodbye - Edit by George Strait
+19340. I Don't Know About You by Chris Lane
+166322. Rudolph The Red-Nosed Reindeer by George Strait
+
+Recomendation for :            artists                   name
+35381  [Underoath]  Reinventing Your Exit
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.0
+recall_at_10: 0.0
+137266. When The Sun Sleeps by Underoath
+122038. In Regards To Myself by Underoath
+16531. A Boy Brushed Red Living In Black And White by Underoath
+137562. Down, Set, Go by Underoath
+152429. The Impact Of Reason by Underoath
+17953. All I Want by A Day To Remember
+108498. Degenerates by A Day To Remember
+90021. Dez Moines by The Devil Wears Prada
+54966. Still Fly by The Devil Wears Prada
+72268. Voices by Saosin
+
+Recomendation for :                            artists        name
+121357  [The Reverend Horton Heat]  Galaxy 500
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0581
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+17436. 21 Guns by Green Day
+15407. All The Small Things by blink-182
+16617. Dirty Little Secret by The All-American Rejects
+17011. Paper Planes by M.I.A.
+16430. Before I Forget by Slipknot
+36523. If I'm James Dean, You're Audrey Hepburn by Sleeping With Sirens
+16627. The Kill by Thirty Seconds To Mars
+37801. Purple Lamborghini (with Rick Ross) by Skrillex, Rick Ross
+17615. POWER by Kanye West
+56221. Drown by Bring Me The Horizon
+
+Recomendation for :                 artists          name
+15630  [Ray Parker Jr.]  Ghostbusters
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.4
+artist_recall_at_10: 0.1379
+precision_at_10: 0.1
+recall_at_10: 0.0333
+14223. Ghostbusters by Ray Parker Jr.
+154639. Ghostbusters by Ray Parker Jr.
+31418. Ghostbusters by Ray Parker Jr.
+36401. Celebration - Single Version by Kool & The Gang
+147005. Where Is the Love - We Used to Know by Delegation
+35711. Can You Feel It - Single Version by The Jacksons
+49770. The Other Woman by Ray Parker Jr.
+54317. Shake Your Body (Down to the Ground) - Single Edit by The Jacksons
+105658. Shake Your Body (Down to the Ground) by The Jacksons
+10274. Jungle Boogie by Kool & The Gang
+
+Recomendation for :                 artists              name
+15633  [Lee Ann Womack]  I Hope You Dance
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1047
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.069
+precision_at_10: 0.0
+recall_at_10: 0.0
+19521. I Wish Grandpas Never Died by Riley Green
+15514. My Best Friend by Tim McGraw
+105755. I May Hate Myself In The Morning by Lee Ann Womack
+152634. Bring Me Down by Miranda Lambert
+91159. My Best Friend by Tim McGraw
+151568. This Woman Needs by SHeDAISY
+105702. Bring It On Home by Little Big Town
+167919. Anyway by Martina McBride
+14048. I Cross My Heart - Pure Country Soundtrack Version by George Strait
+73035. Anything But Mine by Kenny Chesney
+
+Recomendation for :                                             artists        name
+15473  [The Roots, Tariq Trotter, Erykah Badu, Eve]  You Got Me
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0581
+artist_precision_at_10: 0.6
+artist_recall_at_10: 0.2069
+precision_at_10: 0.1
+recall_at_10: 0.0333
+136157. Ital (The Universal Side) by The Roots, Q-Tip
+104495. Dynamite! by The Roots
+135787. Proceed by The Roots
+15159. Invocation by Common
+165776. Section by The Roots
+14972. What They Do by The Roots
+15456. Ms. Fat Booty by Mos Def
+15239. Ruff Ryders' Anthem by DMX
+14415. Big Poppa - 2005 Remaster by The Notorious B.I.G.
+35046. Come Close by Common, Mary J. Blige
+
+Recomendation for :                 artists                              name
+74617  [Benjamin Bratt]  Remember Me (Ernesto de la Cruz)
+genre_precision_at_10: 0.2
+genre_recall_at_10: 0.0233
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+170431. Porque Te Quiero (Feat. Luis Alfonso Partida "El Yaki") by Grupo Firme, Luis Alfonso Partida El Yaki
+169836. Amor Confuso by Gerardo Ortiz
+36548. Asi Como Hoy by Los Alegres de la Sierra
+75077. Dame Tu Calor by Eslabon Armado
+140289. Pideme - En Vivo by Grupo Firme
+170502. Amor Tóxico by Christian Nodal
+155446. Carita de Inocente (feat. Myke Towers) - Remix by Prince Royce, Myke Towers
+54697. Maldita Primavera by Yuri
+89983. Mi Ultimo Dia by Tercer Cielo
+140791. Nace Un Borracho by Christian Nodal
+
+Recomendation for :               artists          name
+18440  [Taylor Swift]  Shake It Off
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1047
+artist_precision_at_10: 0.2
+artist_recall_at_10: 0.069
+precision_at_10: 0.1
+recall_at_10: 0.0333
+19068. Sorry Not Sorry by Demi Lovato
+19581. ME! (feat. Brendon Urie of Panic! At The Disco) by Taylor Swift, Brendon Urie, Panic! At The Disco
+18094. The One That Got Away by Katy Perry
+56081. Shake It Off by Taylor Swift
+74821. Home with You by Madison Beer
+54438. Stick to the Status Quo - From "High School Musical"/Soundtrack Version by High School Musical Cast
+17170. See You Again by Miley Cyrus
+19051. Meant to Be (feat. Florida Georgia Line) by Bebe Rexha, Florida Georgia Line
+57362. I Love Me by Demi Lovato
+17749. The One That Got Away by Katy Perry
+
+Recomendation for :             artists                     name
+17025  [Soulja Boy]  Crank That (Soulja Boy)
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1047
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0345
+precision_at_10: 0.0
+recall_at_10: 0.0
+17214. Kiss Me Thru The Phone by Soulja Boy, Sammie
+15646. What's Your Fantasy (Featuring Shawna) by Ludacris, Shawnna
+138903. Sex Room by Ludacris, Trey Songz
+123491. Head On (Hold On To Your Heart) by Man Man
+91729. All Night by Big Boi
+136902. Stick 'Em Up (Featuring UGK) by Ludacris, UGK
+38466. Heart In Pieces by Future, Lil Uzi Vert
+18664. This Could Be Us by Rae Sremmurd
+38476. Baby Sasuke by Future, Lil Uzi Vert
+38484. Need It by Migos, YoungBoy Never Broke Again
+
+Recomendation for :         artists               name
+18412  [Hozier]  Take Me to Church
+genre_precision_at_10: 0.9
+genre_recall_at_10: 0.1047
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.1
+recall_at_10: 0.0333
+18485. Take Me to Church by Hozier
+139494. Take Me to Church by Hozier
+37337. From Eden by Hozier
+37447. From Eden by Hozier
+155315. Sunlight by Hozier
+91882. Brother by Kodaline
+124343. Hold My Girl by George Ezra
+107744. The One by Kodaline
+17021. Oh Ana by Mother Mother
+19285. Be Alright by Dean Lewis
+
+Recomendation for :                 artists               name
+19021  [Tyler Childers]  Feathered Indians
+genre_precision_at_10: 0.1
+genre_recall_at_10: 0.0116
+artist_precision_at_10: 0.5
+artist_recall_at_10: 0.1724
+precision_at_10: 0.0
+recall_at_10: 0.0
+38224. All Your'n by Tyler Childers
+74611. I Swear (To God) by Tyler Childers
+19133. Whitehouse Road by Tyler Childers
+56600. Universal Sound by Tyler Childers
+16863. God's Gonna Cut You Down by Johnny Cash
+18277. Strawberry Blond by Mitski
+54457. Snake Farm by Ray Wylie Hubbard
+123251. Simple As This by Jake Bugg
+37919. Follow You to Virgie (OurVinyl Sessions) by Tyler Childers, OurVinyl
+108189. Call It Dreaming by Iron & Wine
+
+Recomendation for :          artists    name
+18423  [Becky G]  Shower
+genre_precision_at_10: 1.0
+genre_recall_at_10: 0.1163
+artist_precision_at_10: 0.0
+artist_recall_at_10: 0.0
+precision_at_10: 0.0
+recall_at_10: 0.0
+53732. The Golden Age by Beck
+35055. Lost Cause by Beck
+135663. Pay No Mind (Snoozer) by Beck
+169007. Let's Get Lost by Beck, Bat For Lashes
+123625. Blue Moon by Beck
+19466. feel something by Bea Miller
+37874. I Don’t Wanna Live Forever (Fifty Shades Darker) by ZAYN, Taylor Swift
+19643. Midnight Sky by Miley Cyrus
+155530. BLACK PARADE by Beyoncé
+74453. I Don’t Wanna Live Forever (Fifty Shades Darker) by ZAYN, Taylor Swift
+
+Recomendation for :             artists  name
+17836  [AWOLNATION]  Sail
+genre_precision_at_10: 0.5
+genre_recall_at_10: 0.0581
+artist_precision_at_10: 0.1
+artist_recall_at_10: 0.0345
+precision_at_10: 0.0
+recall_at_10: 0.0
+139847. Hollow Moon (Bad Wolf) by AWOLNATION
+75218. NITROUS by Joji
+169697. Her Life by Two Feet
+14866. I Love You Always Forever by Donna Lewis
+73733. It's Only Sex by Car Seat Headrest
+90103. A New Error by Moderat
+74589. Moon (And It Went Like) by Kid Francescoli
+53857. The Package by A Perfect Circle
+16878. Lazy Eye by Silversun Pickups
+72105. Kissing Families by Silversun Pickups
+
+user                      : user_9
+genre_precision_at_10     : 0.7733
+genre_recall_at_10        : 0.0899
+artist_precision_at_10    : 0.32
+artist_recall_at_10       : 0.1103
+precision_at_10           : 0.03
+recall_at_10              : 0.01
